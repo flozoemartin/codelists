@@ -1,0 +1,82 @@
+icd,description,modifier_4,loss_type
+O00,Ectopic pregnancy,,7
+O00.0,Abdominal pregnancy,,7
+O00.1,Tubal pregnancy,,7
+O00.2,Ovarian pregnancy,,7
+O00.8,Other ectopic pregnancy,,7
+O00.9,"Ectopic pregnancy, unspecified",,7
+O01,Hydatidiform mole,,8
+O01.0,Classical hydatidiform mole,,8
+O01.1,Incomplete and partial hydatidiform mole,,8
+O01.9,"Hydatidiform mole, unspecified",,8
+O02,Other abnormal products of conception,,10
+O02.0,Blighted ovum and nonhydatidiform mole,,9
+O02.1,Missed abortion,,4
+O02.8,Other specified abnormal products of conception,,10
+O02.9,"Abnormal product of conception, unspecified",,10
+O03,Spontaneous abortion,,4
+O03.0,Spontaneous abortion,"Incomplete, complicated by genital tract and pelvic infection",4
+O03.1,Spontaneous abortion,"Incomplete, complicated by delayed or excessive haemorrhage",4
+O03.2,Spontaneous abortion,"Incomplete, complicated by embolism",4
+O03.3,Spontaneous abortion,"Incomplete, with other and unspecified complications",4
+O03.4,Spontaneous abortion,"Incomplete, without complication",4
+O03.5,Spontaneous abortion,"Complete or unspecified, complicated by genital tract and pelvic infection",4
+O03.6,Spontaneous abortion,"Complete or unspecified, complicated by delayed or excessive haemorrhage",4
+O03.7,Spontaneous abortion,"Complete or unspecified, complicated by embolism",4
+O03.8,Spontaneous abortion,"Complete or unspecified, with other and unspecified complications",4
+O03.9,Spontaneous abortion,"Complete or unspecified, without complication",4
+O04,Medical abortion,,5
+O04.0,Medical abortion,"Incomplete, complicated by genital tract and pelvic infection",5
+O04.1,Medical abortion,"Incomplete, complicated by delayed or excessive haemorrhage",5
+O04.2,Medical abortion,"Incomplete, complicated by embolism",5
+O04.3,Medical abortion,"Incomplete, with other and unspecified complications",5
+O04.4,Medical abortion,"Incomplete, without complication",5
+O04.5,Medical abortion,"Complete or unspecified, complicated by genital tract and pelvic infection",5
+O04.6,Medical abortion,"Complete or unspecified, complicated by delayed or excessive haemorrhage",5
+O04.7,Medical abortion,"Complete or unspecified, complicated by embolism",5
+O04.8,Medical abortion,"Complete or unspecified, with other and unspecified complications",5
+O04.9,Medical abortion,"Complete or unspecified, without complication",5
+O05,Other abortion,,10
+O05.0,Other abortion,"Incomplete, complicated by genital tract and pelvic infection",10
+O05.1,Other abortion,"Incomplete, complicated by delayed or excessive haemorrhage",10
+O05.2,Other abortion,"Incomplete, complicated by embolism",10
+O05.3,Other abortion,"Incomplete, with other and unspecified complications",10
+O05.4,Other abortion,"Incomplete, without complication",10
+O05.5,Other abortion,"Complete or unspecified, complicated by genital tract and pelvic infection",10
+O05.6,Other abortion,"Complete or unspecified, complicated by delayed or excessive haemorrhage",10
+O05.7,Other abortion,"Complete or unspecified, complicated by embolism",10
+O05.8,Other abortion,"Complete or unspecified, with other and unspecified complications",10
+O05.9,Other abortion,"Complete or unspecified, without complication",10
+O06,Unspecified abortion,,10
+O06.0,Unspecified abortion,"Incomplete, complicated by genital tract and pelvic infection",10
+O06.1,Unspecified abortion,"Incomplete, complicated by delayed or excessive haemorrhage",10
+O06.2,Unspecified abortion,"Incomplete, complicated by embolism",10
+O06.3,Unspecified abortion,"Incomplete, with other and unspecified complications",10
+O06.4,Unspecified abortion,"Incomplete, without complication",10
+O06.5,Unspecified abortion,"Complete or unspecified, complicated by genital tract and pelvic infection",10
+O06.6,Unspecified abortion,"Complete or unspecified, complicated by delayed or excessive haemorrhage",10
+O06.7,Unspecified abortion,"Complete or unspecified, complicated by embolism",10
+O06.8,Unspecified abortion,"Complete or unspecified, with other and unspecified complications",10
+O06.9,Unspecified abortion,"Complete or unspecified, without complication",10
+O07,Failed attempted abortion,,
+O07.0,"Failed medical abortion, complicated by genital tract and pelvic infection",,
+O07.1,"Failed medical abortion, complicated by delayed or excessive haemorrhage",,
+O07.2,"Failed medical abortion, complicated by embolism",,
+O07.3,"Failed medical abortion, with other and unspecified complications",,
+O07.4,"Failed medical abortion, without complication",,
+O07.5,"Other and unspecified failed attempted abortion, complicated by genital tract and pelvic infection",,
+O07.6,"Other and unspecified failed attempted abortion, complicated by delayed or excessive haemorrhage",,
+O07.7,"Other and unspecified failed attempted abortion, complicated by embolism",,
+O07.8,"Other and unspecified failed attempted abortion, with other and unspecified complications",,
+O07.9,"Other and unspecified failed attempted abortion, without complication",,
+O08,Complications following abortion and ectopic and molar pregnancy,,10
+O08.0,Genital tract and pelvic infection following abortion and ectopic and molar pregnancy,,10
+O08.1,Delayed or excessive haemorrhage following abortion and ectopic and molar pregnancy,,10
+O08.2,Embolism following abortion and ectopic and molar pregnancy,,10
+O08.3,Shock following abortion and ectopic and molar pregnancy,,10
+O08.4,Renal failure following abortion and ectopic and molar pregnancy,,10
+O08.5,Metabolic disorders following abortion and ectopic and molar pregnancy,,10
+O08.6,Damage to pelvic organs and tissues following abortion and ectopic and molar pregnancy,,10
+O08.7,Other venous complications following abortion and ectopic and molar pregnancy,,10
+O08.8,Other complications following abortion and ectopic and molar pregnancy,,10
+O08.9,"Complication following abortion and ectopic and molar pregnancy, unspecified",,10
