@@ -1,14 +1,14 @@
-code,alt_code,usage,usage_uk,description,endo,pcos
-E28.2,E282,DEFAULT,3,polycystic ovarian syndrome,,1
-N80,N80,DEFAULT,3,endometriosis,1,
-N80.0,N800,DEFAULT,3,endometriosis of uterus,1,
-N80.1,N801,DEFAULT,3,endometriosis of ovary,1,
-N80.2,N802,DEFAULT,3,endometriosis of fallopian tube,1,
-N80.3,N803,DEFAULT,3,endometriosis of pelvic peritoneum,1,
-N80.4,N804,DEFAULT,3,endometriosis of rectovaginal septum and vagina,1,
-N80.5,N805,DEFAULT,3,endometriosis of intestine,1,
-N80.6,N806,DEFAULT,3,endometriosis in cutaneous scar,1,
-N80.8,N808,DEFAULT,3,other endometriosis,1,
-N80.9,N809,DEFAULT,3,"endometriosis, unspecified",1,
-N83.2,N832,DEFAULT,3,other and unspecified ovarian cysts,,1
-Q50.1,Q501,DEFAULT,3,developmental ovarian cyst,,1
+code,alt_code,description,endo,pcos,marker
+E28.2,E282,polycystic ovarian syndrome,,1,
+N80,N80,endometriosis,1,,
+N80.0,N800,endometriosis of uterus,1,,
+N80.1,N801,endometriosis of ovary,1,,
+N80.2,N802,endometriosis of fallopian tube,1,,
+N80.3,N803,endometriosis of pelvic peritoneum,1,,
+N80.4,N804,endometriosis of rectovaginal septum and vagina,1,,
+N80.5,N805,endometriosis of intestine,1,,
+N80.6,N806,endometriosis in cutaneous scar,1,,
+N80.8,N808,other endometriosis,1,,
+N80.9,N809,"endometriosis, unspecified",1,,
+N83.2,N832,other and unspecified ovarian cysts,,1,
+Q50.1,Q501,developmental ovarian cyst,,1,
