@@ -1,0 +1,11 @@
+code,description,outcome,multiple_ev
+Z37,Outcome of delivery,3,
+Z37.0,Single live birth,1,
+Z37.1,Single stillbirth,2,
+Z37.2,"Twins, both liveborn",1,1
+Z37.3,"Twins, one liveborn and one stillborn",3,1
+Z37.4,"Twins, both stillborn",2,1
+Z37.5,"Other multiple births, all liveborn",1,1
+Z37.6,"Other multiple births, some liveborn",3,1
+Z37.7,"Other multiple births, all stillborn",2,1
+Z37.9,"Outcome of delivery, unspecified",3,
