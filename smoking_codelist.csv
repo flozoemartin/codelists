@@ -1,0 +1,174 @@
+medcode,readterm,smokstatus
+33,Never smoked tobacco,non-smoker
+54,Tobacco consumption,current smoker
+60,Current non-smoker,non-smoker
+90,Ex smoker,ex-smoker
+93,Cigarette smoker,current smoker
+776,Stopped smoking,ex-smoker
+1822,Very heavy smoker - 40+cigs/d,current smoker
+1823,Smoker,current smoker
+1878,Moderate smoker - 10-19 cigs/d,current smoker
+2111,Health ed. - smoking,current smoker
+3568,Heavy smoker - 20-39 cigs/day,current smoker
+6359,Nicotine withdrawal,current or ex-smoker
+7130,Stop smoking monitoring admin.,current or ex-smoker
+7622,Smoking cessation advice,current or ex-smoker
+9045,Advice on smoking,current smoker
+9833,Nicotine replacement therapy,current or ex-smoker
+10184,Pregnancy smoking advice,current smoker
+10211,Smoking cessation milestones,ex-smoker
+10558,Current smoker,current smoker
+10742,Referral to stop-smoking clinic,current or ex-smoker
+10898,Smoking free weeks,ex-smoker
+11356,Seen by smoking cessation advisor,current or ex-smoker
+11527,DNA - Did not attend smoking cessation clinic,current smoker
+11713,Pack years,current or ex-smoker
+11788,Non-smoker,non-smoker
+12240,Trying to give up smoking,current or ex-smoker
+12878,Date ceased smoking,ex-smoker
+12941,Occasional smoker,current smoker
+12942,Smoker - amount smoked,current smoker
+12943,Cigar smoker,current smoker
+12944,Light smoker - 1-9 cigs/day,current smoker
+12945,Rolls own cigarettes,current smoker
+12946,Ex-smoker - amount unknown,ex-smoker
+12947,Pipe smoker,current smoker
+12951,Smoking restarted,current smoker
+12952,Smoking started,current smoker
+12953,Attends stop smoking monitor.,current or ex-smoker
+12954,[V]Tobacco use,current smoker
+12955,Ex-moderate smoker (10-19/day),ex-smoker
+12956,Ex-heavy smoker (20-39/day),ex-smoker
+12957,Ex-light smoker (1-9/day),ex-smoker
+12958,Trivial smoker - < 1 cig/day,current smoker
+12959,Ex-very heavy smoker (40+/day),ex-smoker
+12960,Tobacco consumption NOS,current smoker
+12961,Ex-trivial smoker (<1/day),ex-smoker
+12962,Tobacco consumption unknown,current smoker
+12963,Cigar consumption,current smoker
+12964,Keeps trying to stop smoking,current smoker
+12965,Cigarette consumption,current smoker
+12966,Smoking reduced,current smoker
+12967,Pipe tobacco consumption,current smoker
+13351,Passive smoker,non-smoker
+16717,Smokers' cough,current smoker
+18573,Referral to smoking cessation advisor,current or ex-smoker
+18926,Lifestyle advice regarding smoking,current smoker
+19485,Stop smoking monitor.chck done,current or ex-smoker
+19488,Ex cigar smoker,ex-smoker
+21637,Stop smoking monitor admin.NOS,current or ex-smoker
+24529,Nicotine replacement therapy refused,current smoker
+25106,Nicotine replacement therapy provided free,current or ex-smoker
+26096,Smokes drugs,current or ex-smoker
+26470,Ex pipe smoker,ex-smoker
+28834,Anti-smoking monitoring admin.,current or ex-smoker
+30423,Thinking about stopping smoking,current smoker
+30762,Not interested in stopping smoking,current smoker
+31114,Ready to stop smoking,current smoker
+32083,Stop smoking clinic admin.,current or ex-smoker
+32572,Over the counter nicotine replacement therapy,current or ex-smoker
+32687,Tobacco dependence,current smoker
+34126,Negotiated date for cessation of smoking,current smoker
+35055,[V]Tobacco abuse counselling,current smoker
+37018,Tobacco usage screen,current smoker
+38112,Smoking cessation programme start date,current smoker
+40417,Stop smoking monitor default,current or ex-smoker
+40418,Refuses stop smoking monitor,current smoker
+41042,Smoking cessation advice provided by community pharmacist,current or ex-smoker
+41979,Smoking restarted,current smoker
+42288,Pack years,current or ex-smoker
+42495,Tobacco usage screen,current smoker
+42722,Stop smoking monitor 1st lettr,current or ex-smoker
+43433,Toxic effect of tobacco and nicotine,current smoker
+46300,Cigarette pack-years,current or ex-smoker
+46321,Reason for restarting smoking,current smoker
+47273,Motives for smoking scale,current smoker
+49418,RFS - Reasons for smoking scale,current smoker
+52503,No smokers in the household,non-smoker
+53101,Stop smoking monitor verb.inv.,current or ex-smoker
+56144,[X]Mental and behav dis due to use of tobacco: harmful use,current smoker
+57639,Bupropion refused,current smoker
+58597,Stop smoking monitor phone inv,current or ex-smoker
+59866,Reasons for smoking scale,current smoker
+60720,Stop smoking monitor 2nd lettr,current or ex-smoker
+61905,[X]Mental and behavioural disorder due to use of tobacco,current smoker
+62686,Minutes from waking to first tobacco consumption,current smoker
+63016,[X]Bupropion causing adverse effects in therapeutic use,current or ex-smoker
+63299,FTND - Fagerstrom test for nicotine dependence,current smoker
+63666,Fagerstrom test for nicotine dependence,current smoker
+63717,Bupropion contraindicated,current or ex-smoker
+63901,Stop smoking monitoring delete,current or ex-smoker
+66387,Stop smoking monitor 3rd lettr,current or ex-smoker
+66409,Nicotine replacement therapy contraindicated,current or ex-smoker
+67178,Nicotine replacement therapy provided by community pharmacis,current or ex-smoker
+68658,Tobacco dependence NOS,current smoker
+70746,"Tobacco dependence, continuous",current smoker
+72700,[V]Personal history of tobacco abuse,current or ex-smoker
+72706,Tobacco dependence in remission,ex-smoker
+74907,Smoking cessation therapy,current or ex-smoker
+81440,Nicotine replacement therapy using nicotine patches,current or ex-smoker
+85247,Nicotine replacement therapy using nicotine inhalator,current or ex-smoker
+85975,Nicotine replacement therapy using nicotine gum,current or ex-smoker
+89464,Nicotine replacement therapy using nicotine lozenges,current or ex-smoker
+90522,Smoking cessation therapy NOS,current or ex-smoker
+91513,Occasions for smoking scale,current smoker
+91708,Other specified smoking cessation therapy,current or ex-smoker
+94958,Smoking cessation drug therapy,current or ex-smoker
+95610,"Tobacco dependence, unspecified",current smoker
+96992,Smoking cessation - enhanced services administration,current or ex-smoker
+97210,Ex-cigarette smoker,ex-smoker
+97643,Fagerstrom test for nicotine dependence,current smoker
+97973,Maternal tobacco abuse,current smoker
+98137,Brief intervention for smoking cessation,current or ex-smoker
+98154,Referral to NHS stop smoking service,current or ex-smoker
+98177,Non-smoker annual review - enhanced services administration,non-smoker
+98245,Stop smoking face to face follow-up,current or ex-smoker
+98283,COPD structured smoking assessment declined - enh serv admin,current or ex-smoker
+98284,Refer COPD structured smoking assessment - enhanc serv admin,current or ex-smoker
+98347,Current smoker annual review - enhanced services admin,current smoker
+98447,Ex-smoker annual review - enhanced services administration,ex-smoker
+98493,Smoking cessatn monitor template complet - enhanc serv admin,current or ex-smoker
+99838,Recently stopped smoking,ex-smoker
+100099,Smoking cessation advice declined,current smoker
+100495,Ex roll-up cigarette smoker,ex-smoker
+100963,Ex-smoker annual review,ex-smoker
+101210,Consent given for smoking cessation data sharing,current or ex-smoker
+101325,Declin cons follow-up evaluation after smoking cess interven,current or ex-smoker
+101338,Failed attempt to stop smoking,current smoker
+101385,Consent given for follow-up by smoking cessation team,current or ex-smoker
+101519,[X]Mental and behav dis due to use tobacco: withdrawal state,ex-smoker
+101634,Consent given follow-up after smoking cessation intervention,current or ex-smoker
+101764,Practice based smoking cessation programme start date,current or ex-smoker
+101851,Declined consent for follow-up by smoking cessation team,current or ex-smoker
+101854,Declined consent for smoking cessation data sharing,current or ex-smoker
+101878,Non-smoker annual review,non-smoker
+102361,Referral for smoking cessation service offered,current smoker
+102951,Lost to smoking cessation follow-up,current or ex-smoker
+103507,Stop smoking service opportunity signposted,current or ex-smoker
+103760,COPD structured smoking assessment declined,current or ex-smoker
+103955,Asthma trigger - tobacco smoke,current smoker
+104086,Stop smoking invitation first SMS text message,current or ex-smoker
+104185,Smoking cessation drug therapy declined,current or ex-smoker
+104230,Smoking cessation programme declined,current or ex-smoker
+104310,Current smoker annual review,current smoker
+105501,Waterpipe tobacco consumption,current or ex-smoker
+105572,Stop smoking invitation short message service text message,current or ex-smoker
+105710,Smoking cessation 12 week follow-up,current or ex-smoker
+105711,Total time smoked,current or ex-smoker
+105999,Smokes drugs in cigarette form,current or ex-smoker
+106359,Referral to smoking cessation service,current or ex-smoker
+106384,Stop smoking invitation second SMS text message,current or ex-smoker
+106385,Stop smoking invitation third SMS text message,current or ex-smoker
+106391,Referral to smoking cessation service declined,current or ex-smoker
+107292,User of electronic cigarette,current smoker
+107593,Smokes drugs through a pipe,current smoker
+107792,[X]Mental and behav dis due to use tobacco: dependence syndr,current smoker
+107939,"Dyspnoea,obstruction, smoking, exacerbation frequency index",current smoker
+108503,Ex user of electronic cigarette,current or ex-smoker
+108835,"Tobacco dependence, episodic",current or ex-smoker
+108966,Smoking cessation ESA monitoring template completed,current or ex-smoker
+109716,Issue of nicotine replacement therapy voucher,current or ex-smoker
+110692,Varenicline smoking cessation therapy offered,current or ex-smoker
+111853,[X]Mental & behav dis due to use tobacco: acute intoxication,current or ex-smoker
+112418,Tobacco deposit on teeth,current or ex-smoker
+112529,[X]Mental & behav dis due to use tobacco: psychotic disorder,current or ex-smoker
