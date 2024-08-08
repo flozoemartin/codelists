@@ -1,0 +1,32 @@
+code,alt_code,description
+F70,F70,Mild mental retardation
+F70.0,F700,Mild mental retardation
+F70.1,F701,Mild mental retardation
+F70.8,F708,Mild mental retardation
+F70.9,F709,Mild mental retardation
+F71,F71,Moderate mental retardation
+F71.0,F710,Moderate mental retardation
+F71.1,F711,Moderate mental retardation
+F71.8,F718,Moderate mental retardation
+F71.9,F719,Moderate mental retardation
+F72,F72,Severe mental retardation
+F72.0,F720,Severe mental retardation
+F72.1,F721,Severe mental retardation
+F72.8,F728,Severe mental retardation
+F72.9,F729,Severe mental retardation
+F73,F73,Profound mental retardation
+F73.0,F730,Profound mental retardation
+F73.1,F731,Profound mental retardation
+F73.8,F738,Profound mental retardation
+F73.9,F739,Profound mental retardation
+F78,F78,Other mental retardation
+F78.0,F780,Other mental retardation
+F78.1,F781,Other mental retardation
+F78.8,F788,Other mental retardation
+F78.9,F789,Other mental retardation
+F79,F79,Unspecified mental retardation
+F79.0,F790,Unspecified mental retardation
+F79.1,F791,Unspecified mental retardation
+F79.8,F798,Unspecified mental retardation
+F79.9,F799,Unspecified mental retardation
+F84.4,F844,Overactive disorder associated with mental retardation and stereotyped movements
