@@ -1,0 +1,53 @@
+medcode,readcode,desc,endo,pcos
+499,K50..00,endometriosis,1,
+957,K53..11,ovarian cysts,,1
+958,7E20300,ovarian cystectomy,,1
+1466,C164.00,polycystic ovaries,,1
+2979,BB81.00,"[m]ovarian cystic, mucinous and serous neoplasms",,1
+6251,K532z00,ovarian cyst nos,,1
+6521,7E25211,laparoscopic drainage ovarian cyst,,1
+9492,K50z.00,endometriosis nos,1,
+11347,C165.00,polycystic ovarian syndrome,,1
+12175,7E0D800,laparoscopic laser destruction of endometriosis,1,
+17151,BB81.11,[m]ovarian cystadenoma or carcinoma,,1
+17505,PC04.00,developmental ovarian cyst,,1
+19266,K500000,internal endometriosis,1,
+19682,K501.00,endometriosis of ovary,1,
+20194,K505.00,endometriosis of the intestine,1,
+22662,K503.00,endometriosis of the pelvic peritoneum,1,
+30091,K502.00,endometriosis of the fallopian tube,1,
+32779,12FA.00,fh: polycystic ovaries,,1
+33932,K532.00,other ovarian cysts,,1
+36805,K500200,endometriosis of cervix,1,
+36930,K50y000,endometriosis of the bladder,1,
+37392,K504100,endometriosis of the vagina,1,
+37765,PC11300,parovarian cyst,,1
+40033,BB81z00,"[m]ovarian cystic, mucinous or serous neoplasm nos",,1
+41735,K500.00,endometriosis of uterus,1,
+42092,K500z00,endometriosis of uterus nos,1,
+42424,K503z00,endometriosis of the pelvic peritoneum nos,1,
+48222,K50y200,endometriosis of the umbilicus,1,
+49603,K50y.00,other endometriosis,1,
+49911,7E29100,transvaginal drainage of ovarian cyst,,1
+50464,K503100,endometriosis of the pouch of douglas,1,
+50518,K504000,endometriosis of the rectovaginal septum,1,
+50544,K503300,endometriosis of the round ligament,1,
+52995,Kyu9500,[x]other and unspecified ovarian cysts,,1
+56751,BBL1.11,[m]stromal endometriosis,1,
+60097,K506.00,endometriosis in scar of skin,1,
+60784,K505200,endometriosis of the rectum,1,
+61192,K500100,endometriosis of myometrium,1,
+62982,K505100,endometriosis of the colon,1,
+63232,K503200,endometriosis of the parametrium,1,
+63749,Kyu9000,[x]other endometriosis,1,
+66361,K50yz00,other endometriosis nos,1,
+67137,K503000,endometriosis of the broad ligament,1,
+68037,K50y300,endometriosis of the vulva,1,
+69931,K50y100,endometriosis of the lung,1,
+70854,K504.00,endometriosis of the rectovaginal septum and vagina,1,
+71993,K505000,endometriosis of the appendix,1,
+85236,7E2B000,transvaginal ultrasound guided aspiration of ovarian cyst,,1
+94268,K504z00,endometriosis of the rectovaginal septum and vagina nos,1,
+97045,K505z00,endometriosis of the intestine nos,1,
+105462,ZV13G00,[v]personal history of ovarian cyst,,1
+108870,115W.00,no history of ovarian cyst,,1
