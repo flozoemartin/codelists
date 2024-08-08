@@ -1,0 +1,45 @@
+icd,alt_code,description
+F060,F060,Organic hallucinosis
+F062,F062,Organic delusional [schizophrenia-like] disorder
+F20,F20,Schizophrenia
+F200,F200,Paranoid schizophrenia
+F201,F201,Hebephrenic schizophrenia
+F202,F202,Catatonic schizophrenia
+F203,F203,Undifferentiated schizophrenia
+F204,F204,Post-schizophrenic depression
+F205,F205,Residual schizophrenia
+F206,F206,Simple schizophrenia
+F208,F208,Other schizophrenia
+F209,F209,"Schizophrenia, unspecified"
+F21,F21X,Schizotypal disorder
+F22,F22,Persistent delusional disorders
+F220,F220,Delusional disorder
+F228,F228,Other persistent delusional disorders
+F229,F229,"Persistent delusional disorder, unspecified"
+F23,F23,Acute and transient psychotic disorders
+F230,F230,Acute polymorphic psychotic disorder without symptoms of schizophrenia
+F231,F231,Acute polymorphic psychotic disorder with symptoms of schizophrenia
+F232,F232,Acute schizophrenia-like psychotic disorder
+F233,F233,Other acute predominantly delusional psychotic disorders
+F238,F238,Other acute and transient psychotic disorders
+F239,F239,"Acute and transient psychotic disorder, unspecified"
+F24,F24X,Induced delusional disorder
+F25,F25,Schizoaffective disorders
+F250,F250,"Schizoaffective disorder, manic type"
+F251,F251,"Schizoaffective disorder, depressive type"
+F252,F252,"Schizoaffective disorder, mixed type"
+F258,F258,Other schizoaffective disorders
+F259,F259,"Schizoaffective disorder, unspecified"
+F28,F28X,Other nonorganic psychotic disorders
+F29,F29X,Unspecified nonorganic psychosis
+F301,F301,Mania without psychotic symptoms
+F302,F302,Mania with psychotic symptoms
+F322,F322,Severe depressive episode without psychotic symptoms
+F323,F323,Severe depressive episode with psychotic symptoms
+F332,F332,"Recurrent depressive disorder, current episode severe without psychotic symptoms"
+F333,F333,"Recurrent depressive disorder, current episode severe with psychotic symptoms"
+F600,F600,Paranoid personality disorder
+R440,R440,Auditory hallucinations
+R441,R441,Visual hallucinations
+R442,R442,Other hallucinations
+R443,R443,"Hallucinations, unspecified"
