@@ -1,0 +1,10 @@
+code,alt_code,description,ah,fgr
+O36.5,O365,maternal care for poor fetal growth,,1
+O36.6,O366,maternal care for excessive fetal growth,,1
+O46,O46,"antepartum haemorrhage, not elsewhere classified",1,
+O46.0,O460,antepartum haemorrhage with coagulation defect,1,
+O46.8,O468,other antepartum haemorrhage,1,
+O46.9,O469,"antepartum haemorrhage, unspecified",1,
+P05,P05,slow fetal growth and fetal malnutrition,,1
+P05.9,P059,"slow fetal growth, unspecified",,1
+Z36.4,Z364,antenatal screening for fetal growth retardation using ultrasound and other physical methods,,1
