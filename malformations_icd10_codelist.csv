@@ -1,0 +1,567 @@
+icd10,description,minormalformation,subgroup
+Q79.2,Exomphalos,,Abdominal Wall
+Q79.3,Gastroschisis,,Abdominal Wall
+Q79.5,Other congenital malformations of abdominal wall,,Abdominal Wall
+Q25.0,Patent ductus arteriosus,If gest. age <37 weeks,Heart
+Q25.6,Stenosis of pulmonary artery,If gest. age <37 weeks,Heart
+Q26.1,Persistent left superior vena cava,Yes,Heart
+Q20,Congenital malformations of cardiac chambers and connections,,Heart
+Q20.0,Common arterial trunk,,Heart
+Q20.1,Double outlet right ventricle,,Heart
+Q20.2,Double outlet left ventricle,,Heart
+Q20.3,Discordant ventriculoarterial connection,,Heart
+Q20.4,Double inlet ventricle,,Heart
+Q20.5,Discordant atrioventricular connection,,Heart
+Q20.6,Isomerism of atrial appendages,,Heart
+Q20.8,Other cong malforms of cardiac chambers and connections,,Heart
+Q20.9,Cong malforms of cardiac chambers and connections unspec,,Heart
+Q21,Congenital malformations of cardiac septa,,Heart
+Q21.0,Ventricular septal defect,,Heart
+Q21.1,Atrial septal defect,,Heart
+Q21.2,Atrioventricular septal defect,,Heart
+Q21.3,Tetralogy of Fallot,,Heart
+Q21.4,Aortopulmonary septal defect,,Heart
+Q21.8,Other congenital malformations of cardiac septa,,Heart
+Q21.9,"""Congenital malformation of cardiac septum, unspecified""",,Heart
+Q22,Congenital malformations of pulmonary and tricuspid valves,,Heart
+Q22.0,Pulmonary valve atresia,,Heart
+Q22.1,Congenital pulmonary valve stenosis,,Heart
+Q22.2,Congenital pulmonary valve insufficiency,,Heart
+Q22.3,Other congenital malformations of pulmonary valve,,Heart
+Q22.4,Congenital tricuspid stenosis,,Heart
+Q22.5,Ebstein's anomaly,,Heart
+Q22.6,Hypoplastic right heart syndrome,,Heart
+Q22.8,Other congenital malformations of tricuspid valve,,Heart
+Q22.9,"""Congenital malformation of tricuspid valve, unspecified""",,Heart
+Q23,Congenital malformations of aortic and mitral valves,,Heart
+Q23.0,Congenital stenosis of aortic valve,,Heart
+Q23.1,Congenital insufficiency of aortic valve,,Heart
+Q23.2,Congenital mitral stenosis,,Heart
+Q23.3,Congenital mitral insufficiency,,Heart
+Q23.4,Hypoplastic left heart syndrome,,Heart
+Q23.8,Other congenital malformations of aortic and mitral valves,,Heart
+Q23.9,Congenital malformation of aortic and mitral valves unspec,,Heart
+Q24,Other congenital malformations of heart,,Heart
+Q24.0,Dextrocardia,,Heart
+Q24.1,Laevocardia,,Heart
+Q24.2,Cor triatriatum,,Heart
+Q24.3,Pulmonary infundibular stenosis,,Heart
+Q24.4,Congenital subaortic stenosis,,Heart
+Q24.5,Malformation of coronary vessels,,Heart
+Q24.6,Congenital heart block,,Heart
+Q24.8,Other specified congenital malformations of heart,,Heart
+Q24.9,"""Congenital malformation of heart, unspecified""",,Heart
+Q25,Congenital malformations of great arteries,,Heart
+Q25.1,Coarctation of aorta,,Heart
+Q25.2,Atresia of aorta,,Heart
+Q25.3,Stenosis of aorta,,Heart
+Q25.4,Other congenital malformations of aorta,,Heart
+Q25.5,Atresia of pulmonary artery,,Heart
+Q25.7,Other congenital malformations of pulmonary artery,,Heart
+Q25.8,Other congenital malformations of great arteries,,Heart
+Q25.9,"""Congenital malformation of great arteries, unspecified""",,Heart
+Q26,Congenital malformations of great veins,,Heart
+Q26.0,Congenital stenosis of vena cava,,Heart
+Q26.2,Total anomalous pulmonary venous connection,,Heart
+Q26.3,Partial anomalous pulmonary venous connection,,Heart
+Q26.4,"""Anomalous pulmonary venous connection, unspecified""",,Heart
+Q26.5,Anomalous portal venous connection,,Heart
+Q26.6,Portal vein-hepatic artery fistula,,Heart
+Q26.8,Other congenital malformations of great veins,,Heart
+Q26.9,"""Congenital malformation of great vein, unspecified""",,Heart
+Q38.1,Ankyloglossia,Yes,Digestive
+Q38.2,Macroglossia,Yes,Digestive
+Q40.0,Congenital hypertrophic pyloric stenosis,Yes,Digestive
+Q40.1,Congenital hiatus hernia,Yes,Digestive
+Q43.0,Meckel's diverticulum,Yes,Digestive
+Q44.4,Choledochal cyst,,Digestive
+Q38,"""Other congenital malformations of tongue, mouth and pharynx""",,Digestive
+Q38.0,"""Congenital malformations of lips, not elsewhere classified""",,Digestive
+Q38.3,Other congenital malformations of tongue,,Digestive
+Q38.4,Congenital malformations of salivary glands and ducts,,Digestive
+Q38.5,"""Congenital malformations of palate, not elsewhere classified""",,Digestive
+Q38.6,Other congenital malformations of mouth,,Digestive
+Q38.7,Pharyngeal pouch,,Digestive
+Q38.8,Other congenital malformations of pharynx,,Digestive
+Q39,Congenital malformations of oesophagus,,Digestive
+Q39.0,Atresia of oesophagus without fistula,,Digestive
+Q39.1,Atresia of oesophagus with tracheo-oesophageal fistula,,Digestive
+Q39.2,Congenital tracheo-oesophageal fistula without atresia,,Digestive
+Q39.3,Congenital stenosis and stricture of oesophagus,,Digestive
+Q39.4,Oesophageal web,,Digestive
+Q39.5,Congenital dilatation of oesophagus,,Digestive
+Q39.6,Diverticulum of oesophagus,,Digestive
+Q39.8,Other congenital malformations of oesophagus,,Digestive
+Q39.9,"""Congenital malformation of oesophagus, unspecified""",,Digestive
+Q40,Other congenital malformations of upper alimentary tract,,Digestive
+Q40.2,Other specified congenital malformations of stomach,,Digestive
+Q40.3,"""Congenital malformation of stomach, unspecified""",,Digestive
+Q40.8,Other spec congenital malforms of upper alimentary tract,,Digestive
+Q40.9,Congenital malformation of upper alimentary tract,,Digestive
+Q41,"""Congenital absence, atresia and stenosis of small intestine""",,Digestive
+Q41.0,"""Congenital absence, atresia and stenosis of duodenum""",,Digestive
+Q41.1,"""Congenital absence, atresia and stenosis of jejunum""",,Digestive
+Q41.2,"""Congenital absence, atresia and stenosis of ileum""",,Digestive
+Q41.8,Congen absence atresia stenosis oth spec parts small intest,,Digestive
+Q41.9,Cong absce atresia and stenosis small intestine part unspec,,Digestive
+Q42,"""Congenital absence, atresia and stenosis of large intestine""",,Digestive
+Q42.0,Cong absence atresia and stenosis of rectum with fistula,,Digestive
+Q42.1,Cong absence atresia and stenosis rectum without fistula,,Digestive
+Q42.2,Cong absence atresia and stenosis anus with fistula,,Digestive
+Q42.3,Cong absence atresia and stenosis anus without fistula,,Digestive
+Q42.8,Congen absence atresia and sten oth parts of large intest,,Digestive
+Q42.9,Cong absce atresia and sten of large intest part unspec,,Digestive
+Q43,Other congenital malformations of intestine,,Digestive
+Q43.1,Hirschsprung's disease,,Digestive
+Q43.2,Other congenital functional disorders of colon,,Digestive
+Q43.3,Congenital malformations of intestinal fixation,,Digestive
+Q43.4,Duplication of intestine,,Digestive
+Q43.5,Ectopic anus,,Digestive
+Q43.6,Congenital fistula of rectum and anus,,Digestive
+Q43.7,Persistent cloaca,,Digestive
+Q43.8,Other specified congenital malformations of intestine,,Digestive
+Q43.9,"""Congenital malformation of intestine, unspecified""",,Digestive
+Q44,"""Congenital malformations of gallbladder, bile ducts & liver""",,Digestive
+Q44.0,"""Agenesis, aplasia and hypoplasia of gallbladder""",,Digestive
+Q44.1,Other congenital malformations of gallbladder,,Digestive
+Q44.2,Atresia of bile ducts,,Digestive
+Q44.3,Congenital stenosis and stricture of bile ducts,,Digestive
+Q44.5,Other congenital malformations of bile ducts,,Digestive
+Q44.6,Cystic disease of liver,,Digestive
+Q44.7,Other congenital malformations of liver,,Digestive
+Q45,Other congenital malformations of digestive system,,Digestive
+Q45.0,"""Agenesis, aplasia and hypoplasia of pancreas""",,Digestive
+Q45.1,Annular pancreas,,Digestive
+Q45.2,Congenital pancreatic cyst,,Digestive
+Q45.3,Other cong malformations of pancreas and pancreatic duct,,Digestive
+Q45.8,Other specified congenital malformations of digestive system,,Digestive
+Q45.9,"""Congenital malformation of digestive system, unspecified""",,Digestive
+Q79.0,Congenital diaphragmatic hernia,,Digestive
+Q17.0,Accessory auricle,Yes,"""Ear, Face & Neck"""
+Q17.1,Macrotia,Yes,"""Ear, Face & Neck"""
+Q17.2,Microtia,Yes,"""Ear, Face & Neck"""
+Q17.3,Other misshapen ear,Yes,"""Ear, Face & Neck"""
+Q17.4,Misplaced ear,Yes,"""Ear, Face & Neck"""
+Q17.5,Prominent ear,Yes,"""Ear, Face & Neck"""
+Q18.0,"""Sinus, fistula and cyst of branchial cleft""",Yes,"""Ear, Face & Neck"""
+Q18.1,Preauricular sinus and cyst,Yes,"""Ear, Face & Neck"""
+Q18.2,Other branchial cleft malformations,Yes,"""Ear, Face & Neck"""
+Q18.4,Macrostomia,Yes,"""Ear, Face & Neck"""
+Q18.5,Microstomia,Yes,"""Ear, Face & Neck"""
+Q18.6,Macrocheilia,Yes,"""Ear, Face & Neck"""
+Q18.7,Microcheilia,Yes,"""Ear, Face & Neck"""
+Q16,Congenital malforms of ear causing impairment of hearing,,"""Ear, Face & Neck"""
+Q16.0,Congenital absence of (ear) auricle,,"""Ear, Face & Neck"""
+Q16.1,Cong absence atresia & stricture auditory canal (external),,"""Ear, Face & Neck"""
+Q16.2,Absence of eustachian tube,,"""Ear, Face & Neck"""
+Q16.3,Congenital malformation of ear ossicles,,"""Ear, Face & Neck"""
+Q16.4,Other congenital malformations of middle ear,,"""Ear, Face & Neck"""
+Q16.5,Congenital malformation of inner ear,,"""Ear, Face & Neck"""
+Q16.9,Cong malform of ear causing impairment of hearing unspec,,"""Ear, Face & Neck"""
+Q17,Other congenital malformations of ear,,"""Ear, Face & Neck"""
+Q17.8,Other specified congenital malformations of ear,,"""Ear, Face & Neck"""
+Q17.9,"""Congenital malformation of ear, unspecified""",,"""Ear, Face & Neck"""
+Q18,Other congenital malformations of face and neck,,"""Ear, Face & Neck"""
+Q18.3,Webbing of neck,,"""Ear, Face & Neck"""
+Q18.8,Other specified congenital malformations of face and neck,,"""Ear, Face & Neck"""
+Q18.9,"""Congenital malformation of face and neck, unspecified""",,"""Ear, Face & Neck"""
+Q10.1,Congenital ectropion,Yes,Eye
+Q10.2,Congenital entropion,Yes,Eye
+Q10.3,Other congenital malformations of eyelid,Yes,Eye
+Q10.5,Congenital stenosis and stricture of lacrimal duct,Yes,Eye
+Q10,Congen malformations of eyelid lacrimal apparatus & orbit,,Eye
+Q10.0,Congenital ptosis,,Eye
+Q10.4,Absence and agenesis of lacrimal apparatus,,Eye
+Q10.6,Other congenital malformations of lacrimal apparatus,,Eye
+Q10.7,Congenital malformation of orbit,,Eye
+Q11,"""Anophthalmos, microphthalmos and macrophthalmos""",,Eye
+Q11.0,Cystic eyeball,,Eye
+Q11.1,Other anophthalmos,,Eye
+Q11.2,Microphthalmos,,Eye
+Q11.3,Macrophthalmos,,Eye
+Q12,Congenital lens malformations,,Eye
+Q12.0,Congenital cataract,,Eye
+Q12.1,Congenital displaced lens,,Eye
+Q12.2,Coloboma of lens,,Eye
+Q12.3,Congenital aphakia,,Eye
+Q12.8,Other congenital lens malformations,,Eye
+Q12.9,"""Congenital lens malformation, unspecified""",,Eye
+Q13,Congenital malformations of anterior segment of eye,,Eye
+Q13.0,Coloboma of iris,,Eye
+Q13.2,Other congenital malformations of iris,,Eye
+Q13.3,Congenital corneal opacity,,Eye
+Q13.4,Other congenital corneal malformations,,Eye
+Q13.8,Other congenital malformations of anterior segment of eye,,Eye
+Q13.9,Congenital malformation of anterior segment of eye unspec,,Eye
+Q14,Congenital malformations of posterior segment of eye,,Eye
+Q14.0,Congenital malformation of vitreous humour,,Eye
+Q14.1,Congenital malformation of retina,,Eye
+Q14.2,Congenital malformation of optic disc,,Eye
+Q14.3,Congenital malformation of choroid,,Eye
+Q14.8,Other congenital malformations of posterior segment of eye,,Eye
+Q14.9,Congenital malformation of posterior segment of eye unspec,,Eye
+Q15,Other congenital malformations of eye,,Eye
+Q15.0,Congenital glaucoma,,Eye
+Q15.8,Other specified congenital malformations of eye,,Eye
+Q15.9,"""Congenital malformation of eye, unspecified""",,Eye
+Q50.1,Developmental ovarian cyst,Yes,Genital
+Q52.3,Imperforate hymen,Yes,Genital
+Q52.5,Fusion of labia,Yes,Genital
+Q50,Cong malforms ovaries fallopian tubes and broad ligaments,,Genital
+Q50.0,Congenital absence of ovary,,Genital
+Q50.2,Congenital torsion of ovary,,Genital
+Q50.3,Other congenital malformations of ovary,,Genital
+Q50.4,Embryonic cyst of fallopian tube,,Genital
+Q50.5,Embryonic cyst of broad ligament,,Genital
+Q50.6,Other cong malformations of fallop tube and broad ligament,,Genital
+Q51,Congenital malformations of uterus and cervix,,Genital
+Q51.0,Agenesis and aplasia of uterus,,Genital
+Q51.1,Doubling of uterus with doubling of cervix and vagina,,Genital
+Q51.2,Other doubling of uterus,,Genital
+Q51.3,Bicornate uterus,,Genital
+Q51.4,Unicornate uterus,,Genital
+Q51.5,Agenesis and aplasia of cervix,,Genital
+Q51.6,Embryonic cyst of cervix,,Genital
+Q51.7,Cong fistulae btwn uterus and digestive and urinary tracts,,Genital
+Q51.8,Other congenital malformations of uterus and cervix,,Genital
+Q51.9,"""Congenital malformation of uterus and cervix, unspecified""",,Genital
+Q52,Other congenital malformations of female genitalia,,Genital
+Q52.0,Congenital absence of vagina,,Genital
+Q52.1,Doubling of vagina,,Genital
+Q52.2,Congenital rectovaginal fistula,,Genital
+Q52.4,Other congenital malformations of vagina,,Genital
+Q52.6,Congenital malformation of clitoris,,Genital
+Q52.7,Other congenital malformations of vulva,,Genital
+Q52.8,Other specified congenital malformations of female genitalia,,Genital
+Q52.9,"""Congenital malformation of female genitalia, unspecified""",,Genital
+Q54,Hypospadias,,Genital
+Q54.0,"""Hypospadias, balanic""",,Genital
+Q54.1,"""Hypospadias, penile""",,Genital
+Q54.2,"""Hypospadias, penoscrotal""",,Genital
+Q54.3,"""Hypospadias, perineal""",,Genital
+Q54.4,Congenital chordee,,Genital
+Q54.8,Other hypospadias,,Genital
+Q54.9,"""Hypospadias, unspecified""",,Genital
+Q55,Other congenital malformations of male genital organs,,Genital
+Q55.0,Absence and aplasia of testis,,Genital
+Q55.1,Hypoplasia of testis and scrotum,,Genital
+Q55.2,Other congenital malformations of testis and scrotum,,Genital
+Q55.3,Atresia of vas deferens,,Genital
+Q55.4,Oth cong malform vas def epidid sem vesicle and prostate,,Genital
+Q55.5,Congenital absence and aplasia of penis,,Genital
+Q55.6,Other congenital malformations of penis,,Genital
+Q55.8,Other specified congen malformations of male genital organs,,Genital
+Q55.9,"""Congenital malformation of male genital organ, unspecified""",,Genital
+Q56,Indeterminate sex and pseudohermaphroditism,,Genital
+Q56.0,"""Hermaphroditism, not elsewhere classified""",,Genital
+Q56.1,"""Male pseudohermaphroditism, not elsewhere classified""",,Genital
+Q56.2,"""Female pseudohermaphroditism, not elsewhere classified""",,Genital
+Q56.3,"""Pseudohermaphroditism, unspecified""",,Genital
+Q56.4,"""Indeterminate sex, unspecified""",,Genital
+Q65.3,"""Congenital subluxation of hip, unilateral""",Yes,Limb
+Q65.4,"""Congenital subluxation of hip, bilateral""",Yes,Limb
+Q65.5,"""Congenital subluxation of hip, unspecified""",Yes,Limb
+Q65.6,Unstable hip,Yes,Limb
+Q66.2,Metatarsus varus,Yes,Limb
+Q66.4,Talipes calcaneovalgus,Yes,Limb
+Q66.5,Congenital pes planus,Yes,Limb
+Q66.6,Other congenital valgus deformities of feet,Yes,Limb
+Q66.7,Pes cavus,Yes,Limb
+Q67.0,Facial asymmetry,Yes,Limb
+Q67.1,Compression facies,Yes,Limb
+Q67.2,Dolichocephaly,Yes,Limb
+Q67.3,Plagiocephaly,Yes,Limb
+Q67.6,Pectus excavatum,Yes,Limb
+Q67.7,Pectus carinatum,Yes,Limb
+Q67.8,Other congenital deformities of chest,Yes,Limb
+Q68.0,Congenital deformity of sternocleidomastoid muscle,Yes,Limb
+Q68.3,Congenital bowing of femur,Yes,Limb
+Q68.4,Congenital bowing of tibia and fibula,Yes,Limb
+Q68.5,"""Congenital bowing of long bones of leg, unspecified""",Yes,Limb
+Q65,Congenital deformities of hip,,Limb
+Q65.0,"""Congenital dislocation of hip, unilateral""",,Limb
+Q65.1,"""Congenital dislocation of hip, bilateral""",,Limb
+Q65.2,"""Congenital dislocation of hip, unspecified""",,Limb
+Q65.8,Other congenital deformities of hip,,Limb
+Q65.9,"""Congenital deformity of hip, unspecified""",,Limb
+Q66,Congenital deformities of feet,,Limb
+Q66.0,Talipes equinovarus,,Limb
+Q66.1,Talipes calcaneovarus,,Limb
+Q66.3,Other congenital varus deformities of feet,,Limb
+Q66.8,Other congenital deformities of feet,,Limb
+Q66.9,"""Congenital deformity of feet, unspecified""",,Limb
+Q67,Cong musculoskel deformities of head face spine and chest,,Limb
+Q67.4,"""Other congenital deformities of skull, face and jaw""",,Limb
+Q67.5,Congenital deformity of spine,,Limb
+Q68,Other congenital musculoskeletal deformities,,Limb
+Q68.1,Congenital deformity of hand,,Limb
+Q68.2,Congenital deformity of knee,,Limb
+Q68.8,Other specified congenital musculoskeletal deformities,,Limb
+Q69,Polydactyly,,Limb
+Q69.0,Accessory finger(s),,Limb
+Q69.1,Accessory thumb(s),,Limb
+Q69.2,Accessory toe(s),,Limb
+Q69.9,"""Polydactyly, unspecified""",,Limb
+Q70,Syndactyly,,Limb
+Q70.0,Fused fingers,,Limb
+Q70.1,Webbed fingers,,Limb
+Q70.2,Fused toes,,Limb
+Q70.3,Webbed toes,,Limb
+Q70.4,Polysyndactyly,,Limb
+Q70.9,"""Syndactyly, unspecified""",,Limb
+Q71,Reduction defects of upper limb,,Limb
+Q71.0,Congenital complete absence of upper limb(s),,Limb
+Q71.1,Cong absence of upper arm and forearm with hand present,,Limb
+Q71.2,Congenital absence of both forearm and hand,,Limb
+Q71.3,Congenital absence of hand and finger(s),,Limb
+Q71.4,Longitudinal reduction defect of radius,,Limb
+Q71.5,Longitudinal reduction defect of ulna,,Limb
+Q71.8,Other reduction defects of upper limb(s),,Limb
+Q71.9,"""Reduction defect of upper limb, unspecified""",,Limb
+Q72,Reduction defects of lower limb,,Limb
+Q72.0,Congenital complete absence of lower limb(s),,Limb
+Q72.1,Congenital absence of thigh and lower leg with foot present,,Limb
+Q72.2,Congenital absence of both lower leg and foot,,Limb
+Q72.3,Congenital absence of foot and toe(s),,Limb
+Q72.4,Longitudinal reduction defect of femur,,Limb
+Q72.5,Longitudinal reduction defect of tibia,,Limb
+Q72.6,Longitudinal reduction defect of fibula,,Limb
+Q72.8,Other reduction defects of lower limb(s),,Limb
+Q72.9,"""Reduction defect of lower limb, unspecified""",,Limb
+Q73,Reduction defects of unspecified limb,,Limb
+Q73.0,Congenital absence of unspecified limb(s),,Limb
+Q73.1,"""Phocomelia, unspecified limb(s)""",,Limb
+Q73.8,Other reduction defects of unspecified limb(s),,Limb
+Q74,Other congenital malformations of limb(s),,Limb
+Q74.0,Oth cong malformation of upper limb(s) inc shoulder girdle,,Limb
+Q74.1,Congenital malformation of knee,,Limb
+Q74.2,Other cong malformation of lower limb(s) incl pelvic girdle,,Limb
+Q74.3,Arthrogryposis multiplex congenita,,Limb
+Q74.8,Other specified congenital malformations of limb(s),,Limb
+Q74.9,Unspecified congenital malformation of limb(s),,Limb
+Q04.6,Congenital cerebral cysts,,Nervous System
+Q00,Anencephaly and similar malformations,,Nervous System
+Q00.0,Anencephaly,,Nervous System
+Q00.1,Craniorachischisis,,Nervous System
+Q00.2,Iniencephaly,,Nervous System
+Q01,Encephalocele,,Nervous System
+Q01.0,Frontal encephalocele,,Nervous System
+Q01.1,Nasofrontal encephalocele,,Nervous System
+Q01.2,Occipital encephalocele,,Nervous System
+Q01.8,Encephalocele of other sites,,Nervous System
+Q01.9,"""Encephalocele, unspecified""",,Nervous System
+Q02,Microcephaly,,Nervous System
+Q03,Congenital hydrocephalus,,Nervous System
+Q03.0,Malformations of aqueduct of Sylvius,,Nervous System
+Q03.1,Atresia of foramina of Magendie and Luschka,,Nervous System
+Q03.8,Other congenital hydrocephalus,,Nervous System
+Q03.9,"""Congenital hydrocephalus, unspecified""",,Nervous System
+Q04,Other congenital malformations of brain,,Nervous System
+Q04.0,Congenital malformations of corpus callosum,,Nervous System
+Q04.1,Arhinencephaly,,Nervous System
+Q04.2,Holoprosencephaly,,Nervous System
+Q04.3,Other reduction deformities of brain,,Nervous System
+Q04.4,Septo-optic dysplasia,,Nervous System
+Q04.5,Megalencephaly,,Nervous System
+Q04.8,Other specified congenital malformations of brain,,Nervous System
+Q04.9,"""Congenital malformation of brain, unspecified""",,Nervous System
+Q05,Spina bifida,,Nervous System
+Q05.0,Cervical spina bifida with hydrocephalus,,Nervous System
+Q05.1,Thoracic spina bifida with hydrocephalus,,Nervous System
+Q05.2,Lumbar spina bifida with hydrocephalus,,Nervous System
+Q05.3,Sacral spina bifida with hydrocephalus,,Nervous System
+Q05.4,Unspecified spina bifida with hydrocephalus,,Nervous System
+Q05.5,Cervical spina bifida without hydrocephalus,,Nervous System
+Q05.6,Thoracic spina bifida without hydrocephalus,,Nervous System
+Q05.7,Lumbar spina bifida without hydrocephalus,,Nervous System
+Q05.8,Sacral spina bifida without hydrocephalus,,Nervous System
+Q05.9,"""Spina bifida, unspecified""",,Nervous System
+Q06,Other congenital malformations of spinal cord,,Nervous System
+Q06.0,Amyelia,,Nervous System
+Q06.1,Hypoplasia and dysplasia of spinal cord,,Nervous System
+Q06.2,Diastematomyelia,,Nervous System
+Q06.3,Other congenital cauda equina malformations,,Nervous System
+Q06.4,Hydromyelia,,Nervous System
+Q06.8,Other specified congenital malformations of spinal cord,,Nervous System
+Q06.9,"""Congenital malformation of spinal cord, unspecified""",,Nervous System
+Q07,Other congenital malformations of nervous system,,Nervous System
+Q07.0,Arnold-Chiari syndrome,,Nervous System
+Q07.8,Other specified congenital malformations of nervous system,,Nervous System
+Q07.9,"""Congenital malformation of nervous system, unspecified""",,Nervous System
+Q35,Cleft palate,,Orofacial Clefts
+Q35.1,Cleft hard palate,,Orofacial Clefts
+Q35.3,Cleft soft palate,,Orofacial Clefts
+Q35.5,Cleft hard palate with cleft soft palate,,Orofacial Clefts
+Q35.6,"""Cleft palate, medial""",,Orofacial Clefts
+Q35.7,Cleft uvula,,Orofacial Clefts
+Q35.9,"""Cleft palate, unspecified""",,Orofacial Clefts
+Q36,Cleft lip,,Orofacial Clefts
+Q36.0,"""Cleft lip, bilateral""",,Orofacial Clefts
+Q36.1,"""Cleft lip, medial""",,Orofacial Clefts
+Q36.9,"""Cleft lip, unilateral""",,Orofacial Clefts
+Q37,Cleft palate with cleft lip,,Orofacial Clefts
+Q37.0,Cleft hard palate with  bilateral cleft lip,,Orofacial Clefts
+Q37.1,Cleft hard palate with unilateral cleft lip,,Orofacial Clefts
+Q37.2,Cleft soft palate with bilateral cleft lip,,Orofacial Clefts
+Q37.3,Cleft soft palate with unilateral cleft lip,,Orofacial Clefts
+Q37.4,Cleft hard and soft palate with bilateral cleft lip,,Orofacial Clefts
+Q37.5,Cleft hard and soft palate with unilateral cleft lip,,Orofacial Clefts
+Q37.8,Unspecified cleft palate with bilateral cleft lip,,Orofacial Clefts
+Q37.9,Unspecified cleft palate with unilateral cleft lip,,Orofacial Clefts
+Q27.0,Congenital absence and hypoplasia of umbilical artery,Yes,Other
+Q31.4,Congenital laryngeal stridor,Yes,Other
+Q75.2,Hypertelorism,Yes,Other
+Q75.3,Macrocephaly,Yes,Other
+Q76.5,Cervical rib,Yes,Other
+Q53,Undescended testicle,Yes,Other
+Q53.0,Ectopic testis,Yes,Other
+Q53.1,"""Undescended testicle, unilateral""",Yes,Other
+Q53.2,"""Undescended testicle, bilateral""",Yes,Other
+Q53.9,"""Undescended testicle, unspecified""",Yes,Other
+Q27,Other congenital malformations of peripheral vascular system,,Other
+Q27.1,Congenital renal artery stenosis,,Other
+Q27.2,Other congenital malformations of renal artery,,Other
+Q27.3,Peripheral arteriovenous malformation,,Other
+Q27.4,Congenital phlebectasia,,Other
+Q27.8,Other spec cong malformations of peripheral vasc system,,Other
+Q27.9,Cong malformation of peripheral vascular system unspecified,,Other
+Q28,Other congenital malformations of circulatory system,,Other
+Q28.0,Arteriovenous malformation of precerebral vessels,,Other
+Q28.1,Other malformations of precerebral vessels,,Other
+Q28.2,Arteriovenous malformation of cerebral vessels,,Other
+Q28.3,Other malformations of cerebral vessels,,Other
+Q28.8,Other spec congenital malformations of circulatory system,,Other
+Q28.9,"""Congenital malformation of circulatory system, unspecified""",,Other
+Q31,Congenital malformations of larynx,,Other
+Q31.0,Web of larynx,,Other
+Q31.1,Congenital subglottic stenosis,,Other
+Q31.2,Laryngeal hypoplasia,,Other
+Q31.3,Laryngocele,,Other
+Q31.8,Other congenital malformations of larynx,,Other
+Q31.9,"""Congenital malformation of larynx, unspecified""",,Other
+Q75,Other congenital malformations of skull and face bones,,Other
+Q75.0,Craniosynostosis,,Other
+Q75.8,Other spec congenital malformations of skull and face bones,,Other
+Q75.9,"""Congenital malformation of skull and face bones, unspecified""",,Other
+Q76,Congenital malformations of spine and bony thorax,,Other
+Q76.0,Spina bifida occulta,,Other
+Q76.2,Congenital spondylolisthesis,,Other
+Q76.3,Congenital scoliosis due to congenital bony malformation,,Other
+Q76.4,Oth cong malformation of spine not associated with scoliosis,,Other
+Q76.6,Other congenital malformations of ribs,,Other
+Q76.7,Congenital malformation of sternum,,Other
+Q76.8,Other congenital malformations of bony thorax,,Other
+Q76.9,"""Congenital malformation of bony thorax, unspecified""",,Other
+Q77,Osteochondrodysplasia with defect growth tub bones spine,,Other
+Q77.8,Oth osteochondrodysplas with defect growth tub bone spine,,Other
+Q77.9,Osteochondrodyspl with defct growth tub bone spine unspec,,Other
+Q78,Other osteochondrodysplasias,,Other
+Q78.1,Polyostotic fibrous dysplasia,,Other
+Q78.4,Enchondromatosis,,Other
+Q78.8,Other specified osteochondrodysplasias,,Other
+Q78.9,"""Osteochondrodysplasia, unspecified""",,Other
+Q79,Congenital malformations of the musculoskel system NEC,,Other
+Q79.1,Other congenital malformations of diaphragm,,Other
+Q79.8,Other congenital malformations of musculoskeletal system,,Other
+Q79.9,Congenital malformation of musculoskeletal system unspecf,,Other
+Q30,Congenital malformations of nose,,Other
+Q30.1,Agenesis and underdevelopment of nose,,Other
+Q30.2,"""Fissured, notched and cleft nose""",,Other
+Q30.3,Congenital perforated nasal septum,,Other
+Q30.8,Other congenital malformations of nose,,Other
+Q30.9,"""Congenital malformation of nose, unspecified""",,Other
+Q82,Other congenital malformations of skin,,Other
+Q82.2,Mastocytosis,,Other
+Q82.5,Congenital non-neopastic naevus,,Other
+Q82.8,Other specified congenital malformations of skin,,Other
+Q82.9,"""Congenital malformation of skin, unspecified""",,Other
+Q83,Congenital malformations of breast,,Other
+Q83.0,Congenital absence of breast with absent nipple,,Other
+Q83.1,Accessory breast,,Other
+Q83.2,Absent nipple,,Other
+Q83.3,Accessory nipple,,Other
+Q83.8,Other congenital malformations of breast,,Other
+Q83.9,"""Congenital malformation of breast, unspecified""",,Other
+Q84,Other congenital malformations of integument,,Other
+Q84.0,Congenital alopecia,,Other
+Q84.1,Congenital morphological disturbances of hair NEC,,Other
+Q84.2,Other congenital malformations of hair,,Other
+Q84.3,Anonychia,,Other
+Q84.4,Congenital leukonychia,,Other
+Q84.5,Enlarged and hypertrophic nails,,Other
+Q84.6,Other congenital malformations of nails,,Other
+Q84.8,Other specified congenital malformations of integument,,Other
+Q84.9,"""Congenital malformation of integument, unspecified""",,Other
+Q89,"""Other congenital malformations, not elsewhere classified""",,Other
+Q89.0,Congenital malformations of spleen,,Other
+Q89.1,Congenital malformations of adrenal gland,,Other
+Q89.2,Congenital malformations of other endocrine glands,,Other
+Q89.3,Situs inversus,,Other
+Q89.4,Conjoined twins,,Other
+Q89.7,"""Multiple congenital malformations, not elsewhere classified""",,Other
+Q89.8,Other specified congenital malformations,,Other
+Q89.9,"""Congenital malformation, unspecified""",,Other
+Q32.0,Congenital tracheomalacia,Yes,Respiratory
+Q33.1,Accessory lobe of lung,Yes,Respiratory
+Q30.0,Choanal atresia,,Respiratory
+Q32,Congenital malformations of trachea and bronchus,,Respiratory
+Q32.1,Other congenital malformations of trachea,,Respiratory
+Q32.2,Congenital bronchomalacia,,Respiratory
+Q32.3,Congenital stenosis of bronchus,,Respiratory
+Q32.4,Other congenital malformations of bronchus,,Respiratory
+Q33,Congenital malformations of lung,,Respiratory
+Q33.0,Congenital cystic lung,,Respiratory
+Q33.2,Sequestration of lung,,Respiratory
+Q33.3,Agenesis of lung,,Respiratory
+Q33.4,Congenital bronchiectasis,,Respiratory
+Q33.5,Ectopic tissue in lung,,Respiratory
+Q33.6,Hypoplasia and dysplasia of lung,,Respiratory
+Q33.8,Other congenital malformations of lung,,Respiratory
+Q33.9,"""Congenital malformation of lung, unspecified""",,Respiratory
+Q34,Other congenital malformations of respiratory system,,Respiratory
+Q34.0,Anomaly of pleura,,Respiratory
+Q34.1,Congenital cyst of mediastinum,,Respiratory
+Q34.8,Other spec congenital malformations of respiratory system,,Respiratory
+Q34.9,"""Congenital malformation of respiratory system, unspecified""",,Respiratory
+Q61.0,Congenital single renal cyst,Yes,Urinary
+Q62.7,Congenital vesico-uretero-renal reflux,Yes,Urinary
+Q63.3,Hyperplastic and giant kidney,Yes,Urinary
+Q60,Renal agenesis and other reduction defects of kidney,,Urinary
+Q60.0,"""Renal agenesis, unilateral""",,Urinary
+Q60.1,"""Renal agenesis, bilateral""",,Urinary
+Q60.2,"""Renal agenesis, unspecified""",,Urinary
+Q60.3,"""Renal hypoplasia, unilateral""",,Urinary
+Q60.4,"""Renal hypoplasia, bilateral""",,Urinary
+Q60.5,"""Renal hypoplasia, unspecified""",,Urinary
+Q60.6,Potter's syndrome,,Urinary
+Q61,Cystic kidney disease,,Urinary
+Q61.4,Renal dysplasia,,Urinary
+Q61.8,Other cystic kidney diseases,,Urinary
+Q61.9,"""Cystic kidney disease, unspecified""",,Urinary
+Q62,Cong obstructive defect renal pelvis and cong malform ureter,,Urinary
+Q62.0,Congenital hydronephrosis,,Urinary
+Q62.1,Atresia and stenosis of ureter,,Urinary
+Q62.2,Congenital megaloureter,,Urinary
+Q62.3,Other obstructive defects of renal pelvis and ureter,,Urinary
+Q62.4,Agenesis of ureter,,Urinary
+Q62.5,Duplication of ureter,,Urinary
+Q62.6,Malposition of ureter,,Urinary
+Q62.8,Other congenital malformations of ureter,,Urinary
+Q63,Other congenital malformations of kidney,,Urinary
+Q63.0,Accessory kidney,,Urinary
+Q63.1,"""Lobulated, fused and horseshoe kidney""",,Urinary
+Q63.2,Ectopic kidney,,Urinary
+Q63.8,Other specified congenital malformations of kidney,,Urinary
+Q63.9,"""Congenital malformation of kidney, unspecified""",,Urinary
+Q64,Other congenital malformations of urinary system,,Urinary
+Q64.0,Epispadias,,Urinary
+Q64.1,Exstrophy of urinary bladder,,Urinary
+Q64.2,Congenital posterior urethral valves,,Urinary
+Q64.3,Other atresia and stenosis of urethra and bladder neck,,Urinary
+Q64.4,Malformation of urachus,,Urinary
+Q64.5,Congenital absence of bladder and urethra,,Urinary
+Q64.6,Congenital diverticulum of bladder,,Urinary
+Q64.7,Other congenital malformations of bladder and urethra,,Urinary
+Q64.8,Other specified congenital malformations of urinary system,,Urinary
+Q64.9,"""Congenital malformation of urinary system, unspecified""",,Urinary
+Q79.4,Prune belly syndrome,,Urinary
