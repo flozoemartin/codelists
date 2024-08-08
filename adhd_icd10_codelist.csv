@@ -1,0 +1,5 @@
+code,alt_code,usage,description
+F90.0,F90,DEFAULT,Hyperkinetic disorders
+F90.1,F901,DEFAULT,Hyperkinetic conduct disorder
+F90.8,F908,DEFAULT,Other hyperkinetic disorders
+F90.9,F909,DEFAULT,"Hyperkinetic disorder, unspecified"
