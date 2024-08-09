@@ -1,0 +1,86 @@
+medcode,readcode,readterm
+112843,38VB.00,Clinical Outcomes in Routine Evaluatn Learning Disabilities
+4246,6664.00,Mental handicap problem
+96895,69DB.00,Learning disability health examination
+22760,918e.00,On learning disability register
+19445,9HB..00,Learning disabilities administration status
+43447,9HB0.00,Learning disabilities health action plan declined
+41391,9HB1.00,Learning disabilities health action plan offered
+43445,9HB2.00,Learning disabilities health action plan reviewed
+32511,9HB3.00,Learning disabilities health assessment
+43436,9HB4.00,Learning disabilities health action plan completed
+32952,9HB5.00,Learning disabilities annual health assessment
+100730,9HB6.00,Learning disabilities annual health assessment declined
+100965,9HB6.11,Learning disabilities annual health check declined
+100729,9HB7.00,Did not attend learning disabilities annual health assessmnt
+102234,9HB7.11,Did not attend learning disabilities annual health check
+110792,9Nh4.00,Under care of community learning disability team
+111041,9bA0.00,Mental handicap (specialty)
+100980,9hL..00,Exception reporting: learning disability quality indicators
+106219,9mA..00,Learning disability annual health check invitation
+106249,9mA0.00,Learning disability annual health check verbal invitation
+106248,9mA1.00,Learning disability annual health check telephone invitation
+67513,C03..11,Cretinism
+27533,C03z.12,Cretinism
+1362,E3...00,Mental retardation
+1787,E30..00,"Mild mental retardation, IQ in range 50-70"
+1680,E30..11,Educationally subnormal
+51954,E30..12,Feeble-minded
+71632,E30..13,Moron
+56577,E31..00,Other specified mental retardation
+302,E310.00,"Moderate mental retardation, IQ in range 35-49"
+1278,E310.11,Imbecile
+4825,E311.00,"Severe mental retardation, IQ in range 20-34"
+45133,E312.00,Profound mental retardation with IQ less than 20
+51622,E312.11,Idiocy
+54179,E31z.00,Other specified mental retardation NOS
+57199,E3y..00,Other specified mental retardation
+37867,E3z..00,Mental retardation NOS
+28962,Eu7..00,[X]Mental retardation
+28740,Eu70.00,[X]Mild mental retardation
+84154,Eu70.11,[X]Feeble-mindedness
+33949,Eu70.12,[X]Mild mental subnormality
+46504,Eu70000,[X]Mld mental retard with statement no or min impairm behav
+39412,Eu70100,[X]Mld mental retard sig impairment behav req attent/treatmt
+39016,Eu70y00,"[X]Mild mental retardation, other impairments of behaviour"
+50606,Eu70z00,[X]Mild mental retardation without mention impairment behav
+6123,Eu71.00,[X]Moderate mental retardation
+34734,Eu71.11,[X]Moderate mental subnormality
+60913,Eu71000,[X]Mod mental retard with statement no or min impairm behav
+54881,Eu71100,[X]Mod mental retard sig impairment behav req attent/treatmt
+59407,Eu71y00,[X]Mod retard oth behav impair
+60473,Eu71z00,[X]Mod mental retardation without mention impairment behav
+36143,Eu72.00,[X]Severe mental retardation
+27691,Eu72.11,[X]Severe mental subnormality
+50947,Eu72000,[X]Sev mental retard with statement no or min impairm behav
+50751,Eu72100,[X]Sev mental retard sig impairment behav req attent/treatmt
+55848,Eu72y00,"[X]Severe mental retardation, other impairments of behaviour"
+55560,Eu72z00,[X]Sev mental retardation without mention impairment behav
+51268,Eu73.00,[X]Profound mental retardation
+65468,Eu73.11,[X]Profound mental subnormality
+70102,Eu73000,[X]Profound ment retrd wth statement no or min impairm behav
+98100,Eu73100,[X]Profound ment retard sig impairmnt behav req attent/treat
+90276,Eu73y00,"[X]Profound mental retardation, other impairments of behavr"
+60062,Eu73z00,[X]Prfnd mental retardation without mention impairment behav
+71196,Eu7y.00,[X]Other mental retardation
+70008,Eu7y000,[X]Oth mental retard with statement no or min impairm behav
+56547,Eu7y100,[X]Oth mental retard sig impairment behav req attent/treatmt
+42520,Eu7yy00,"[X]Other mental retardation, other impairments of behaviour"
+63273,Eu7yz00,[X]Other mental retardation without mention impairment behav
+42589,Eu7z.00,[X]Unspecified mental retardation
+37887,Eu7z.11,[X]Mental deficiency NOS
+37911,Eu7z.12,[X]Mental subnormality NOS
+42886,Eu7z000,[X]Unsp mental retard with statement no or min impairm behav
+66783,Eu7z100,[X]Unsp mentl retard sig impairment behav req attent/treatmt
+66383,Eu7zy00,"[X]Unspecified mental retardatn, other impairments of behav"
+32820,Eu7zz00,[X]Unsp mental retardation without mention impairment behav
+98342,Eu81400,[X]Moderate learning disability
+98293,Eu81500,[X]Severe learning disability
+99774,Eu81600,[X]Mild learning disability
+100648,Eu81700,[X]Profound learning disability
+4477,Eu81z11,[X]Learning disability NOS
+34174,Eu84112,[X]Mental retardation with autistic features
+52602,Eu84400,[X]Overactive disorder assoc mental retard/stereotype movts
+32588,ZL1B500,Under care of psychiatrist for mental handicap
+66203,ZR3c.11,CASP - Communic assess profile adults with mental handicap
+19436,ZS34.11,Learning disability
