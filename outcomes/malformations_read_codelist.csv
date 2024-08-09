@@ -1,0 +1,3193 @@
+medcode,readcode,readterm,minormalformation,subgroup
+99786,14av.00,history of ventricular septal defect,,Heart
+102408,14h..00,never had mammogram,,Other
+20838,14h..00,h/o: congenital anomaly,,Other
+18820,14h1.00,h/o: cardiac anomaly,,Heart
+17175,14h1.11,h/o: heart anomaly,,Heart
+21043,14h2.00,h/o: cleft palate,,Orofacial Clefts
+17207,14h3.00,h/o: cleft lip,,Orofacial Clefts
+16812,14h4.00,h/o: urinary anomaly,,Urinary
+4804,14h5.00,h/o: cong. dislocation - hip,,Limb
+30344,14hz.00,h/o: congenital anomaly nos,,Other
+104307,2126800,ostium secundum atrial septal defect resolved,,Heart
+104345,24m..00,spontaneous closure of ventricular septal defect,,Heart
+19532,2bb4.00,o/e - retinal microaneurysms,,Eye
+45743,33b8.00,detection of cardiac shunt,,Heart
+7588,66g..00,allergic disorder monitoring,,Heart
+72576,66g..00,congenital heart condition monitoring,,Heart
+98265,7010111,insertion of halber valve for spina bifida,,Nervous System
+29739,7031000,repair of meningoencephalocele,,Nervous System
+5307,7043100,closure of spinal myelomeningocele,,Nervous System
+29633,7043200,closure of spinal meningocele,,Nervous System
+50672,7043y00,other specified repair of spina bifida,,Nervous System
+62742,7043z00,repair of spina bifida nos,,Nervous System
+86022,7131900,excision of accessory breast tissue,,Other
+7797,7136800,excision of accessory nipple,Yes,Other
+46751,7204a00,correction of hypertelorism with orbital osteotomies,Yes,Other
+108261,7204b00,corr hypertelorism c orbital osteotomies+facial bipartition,Yes,Other
+95400,7204c00,corr hypertelorism c orbital osteotomies+nasal reconstruct,Yes,Other
+43356,7204d00,correction of hypotelorism with orbital osteotomies,Yes,Other
+40989,7255411,insertion molteno implantation tube in anterior chamber eye,,Eye
+39050,7258600,excision of pupillary membrane,,Eye
+65079,7259000,needling of bleb following glaucoma surgery,,Eye
+89934,7259100,injection of bleb following glaucoma surgery,,Eye
+88595,7259200,revision of bleb nec following glaucoma surgery,,Eye
+91442,7259300,removal of releasable suture following glaucoma surgery,,Eye
+93967,7259400,laser suture lysis following glaucoma surgery,,Eye
+88142,7259y00,other specified operations following glaucoma surgery,,Eye
+95852,7259z00,operations following glaucoma surgery nos,,Eye
+4832,7300200,excision of preauricular abnormality,Yes,"""Ear, Face & Neck"""
+8252,7302200,pinnaplasty,Yes,"""Ear, Face & Neck"""
+6453,7302211,bat ear pinnaplasty,Yes,"""Ear, Face & Neck"""
+1176,7302212,correction of prominent ear,Yes,"""Ear, Face & Neck"""
+52654,7302213,mustarde pinnaplasty,Yes,"""Ear, Face & Neck"""
+25476,7302214,revision pinnaplasty,Yes,"""Ear, Face & Neck"""
+36354,7306100,reconstruction of external auditory canal,,"""Ear, Face & Neck"""
+53456,7306111,pattee reconstruction of external auditory canal,,"""Ear, Face & Neck"""
+108732,7308000,insertion of fixtures for auricular prosthesis stage 1,,"""Ear, Face & Neck"""
+108733,7308100,insertion of fixtures for auricular prosthesis stage 2,,"""Ear, Face & Neck"""
+94199,7308300,attention to fixtures for auricular prosthesis,,"""Ear, Face & Neck"""
+39741,7406200,correction of congenital atresia of choana,,Respiratory
+21363,7409000,primary correction of cleft lip nasal deformity,,Orofacial Clefts
+28600,7409011,primary correction of alar cartilage,,Orofacial Clefts
+70876,7409013,pigott alar leap-frog correction,,Orofacial Clefts
+49350,7409100,secondary correction of cleft lip nasal deformity,,Orofacial Clefts
+48195,7409111,secondary correction of alar slump,,Orofacial Clefts
+105377,7409113,skoog correction of alar slump,,Orofacial Clefts
+45229,7409114,dibbell correction of alar slump,,Orofacial Clefts
+63658,7409200,correction of cleft lip nasal tip deformity,,Orofacial Clefts
+62304,7409211,alar base advancement,,Orofacial Clefts
+51498,7409300,columella lengthening procedure unspecified,,Orofacial Clefts
+72318,7409400,unilateral columella lengthening operation,,Orofacial Clefts
+34175,7409411,tajima unilateral columella lengthening operation,,Orofacial Clefts
+8002,7409500,rhinoplasty for cleft lip nasal deformity,,Orofacial Clefts
+49874,7409600,septorhinoplasty for cleft lip nasal deformity,,Orofacial Clefts
+32465,7409700,septoplasty for cleft lip nasal deformity,,Orofacial Clefts
+16221,7448100,excision of cyst of bronchus,,Respiratory
+2020,7502.11,repair of cleft lip operations,,Orofacial Clefts
+24102,7502000,"primary closure of cleft lip, unspecified",,Orofacial Clefts
+69871,7502011,lemesurier cleft lip repair,,Orofacial Clefts
+34071,7502012,millard cleft lip correction,,Orofacial Clefts
+60496,7502014,tenison cleft lip repair,,Orofacial Clefts
+24026,7502100,revision of primary closure of cleft lip,,Orofacial Clefts
+21245,7502300,unilateral lip adhesion,,Orofacial Clefts
+62102,7502400,bilateral lip adhesion,,Orofacial Clefts
+65866,7502500,repair of unilateral cleft lip using straight line technique,,Orofacial Clefts
+65664,7502600,repair unilat cleft lip - rotation advancement flp technique,,Orofacial Clefts
+56520,7502611,millard repair unilateral cleft lip,,Orofacial Clefts
+49751,7502700,repair of unilateral cleft lip with triangular flap,,Orofacial Clefts
+110201,7502712,skoog repair unilateral cleft lip,,Orofacial Clefts
+96645,7502713,tennyson repair unilateral cleft lip,,Orofacial Clefts
+69454,7502800,repair unilateral cleft lip with quadrilateral flap,,Orofacial Clefts
+100946,7502811,repair unilateral cleft lip with quadrilateral flap,,Orofacial Clefts
+23739,7502900,repair of unilateral cleft lip unspecified,,Orofacial Clefts
+103535,7502a00,repair bilateral cleft lip - rotation advancement flap tech,,Orofacial Clefts
+23714,7502a11,rep bilat cleft lip millard,,Orofacial Clefts
+98506,7502b00,repair of bilateral cleft lip with quadrilateral flap,,Orofacial Clefts
+42525,7502c11,manchester bilateral cleft lip repair,,Orofacial Clefts
+54973,7502c12,veau type iii bilateral cleft lip repair,,Orofacial Clefts
+14974,7502d00,repair of bilateral cleft lip unspecified,,Orofacial Clefts
+58977,7502f00,asynchronous bilateral cleft lip repair,,Orofacial Clefts
+3679,7523100,incision of frenulum of tongue,Yes,Digestive
+37760,7523111,frenotomy of tongue,Yes,Digestive
+5032,7523112,release of tongue tie,Yes,Digestive
+38085,7523200,freeing of adhesions of tongue,,Digestive
+16090,7523400,excision of frenulum of tongue,Yes,Digestive
+60456,7523500,glossopexy,,Digestive
+36752,7525.11,repair of deformity of palate,,Other
+6341,7525.12,repair of cleft palate,,Orofacial Clefts
+1679,7525000,"primary repair of cleft palate, unspecified",,Orofacial Clefts
+90923,7525011,kilner repair of cleft palate,,Orofacial Clefts
+23683,7525012,langenbeck repair of cleft palate,,Orofacial Clefts
+65948,7525013,wardill repair of cleft palate,,Orofacial Clefts
+20542,7525100,revision of repair of cleft palate,,Orofacial Clefts
+65887,7525200,repair cleft hard palate post based axial transposition flap,,Orofacial Clefts
+99908,7525212,wardill repair cleft palate,,Orofacial Clefts
+54974,7525213,veau flap repair cleft palate,,Orofacial Clefts
+31584,7525300,repair of cleft hard palate with bipedicled flaps,,Orofacial Clefts
+71457,7525311,langenbeck repair cleft palate,,Orofacial Clefts
+37079,7525400,repair of cleft soft palate with z-plasty,,Orofacial Clefts
+51058,7525411,furlow repair cleft palate,,Orofacial Clefts
+34024,7525500,repair of anterior cleft palate with local flap,,Orofacial Clefts
+47845,7525600,repair of anterior cleft palate with vomerine flap,,Orofacial Clefts
+30249,7525700,repair of cleft soft palate with intra-velar veloplasty,,Orofacial Clefts
+37071,7525711,rep anterior cleft palate local flap,,Orofacial Clefts
+48749,7525712,plastic repair palate mucosal graft,,Other
+51196,7525800,repair cleft soft palate with other musculature correction,,Orofacial Clefts
+48646,7525y00,other specified correction of deformity of palate,,Other
+41002,7525z00,correction of deformity of palate nos,,Other
+33654,7606000,closure of tracheooesophageal fistula,,Digestive
+92822,7606011,excision of tracheooesophageal fistula,,Digestive
+58583,7606100,closure of fistula of oesophagus nec,,Digestive
+43818,7606200,correction of congenital atresia of oesophagus,,Digestive
+59013,7607000,exteriorisation of pouch of oesophagus,,Digestive
+34229,7608200,division of web of oesophagus,,Digestive
+89035,760d400,fibreoptic endoscopic dilation of web of oesophagus,,Digestive
+93429,760g400,dilation of web of oesophagus using rigid oesophagoscope,,Digestive
+8270,760k.00,repair of diaphragmatic hernia,,Digestive
+18664,760k.11,repair of oesophageal hiatus hernia,Yes,Digestive
+1178,760k.12,repair of hiatus hernia,Yes,Digestive
+20114,760k000,repair of oesophageal hiatus using thoracic approach,Yes,Digestive
+47416,760k011,allison repair of oesophageal hiatus hernia,Yes,Digestive
+94728,760k012,mason repair of oesophageal hiatus hernia,Yes,Digestive
+63539,760k100,repair of diaphragmatic hernia using thoracic approach nec,,Digestive
+56512,760k200,repair of oesophageal hiatus using abdominal approach,Yes,Digestive
+30980,760k300,repair of diaphragmatic hernia using abdominal approach nec,,Digestive
+72571,760k400,boerema repair of hiatus hernia,Yes,Digestive
+22845,760k500,laparoscopic repair of hiatus hernia,Yes,Digestive
+60094,760ky00,other specified repair of diaphragmatic hernia,,Digestive
+37471,760kz00,repair of diaphragmatic hernia nos,,Digestive
+61616,760l312,hill repair of hiatus hernia and gastropexy,Yes,Digestive
+39917,761b100,repair of congenital atresia of pylorus,,Digestive
+3506,7641000,excision of meckel diverticulum,Yes,Digestive
+21059,7726y11,duhamel hirschsprung abdoperin,,Digestive
+68527,7726y12,soave endorectal pull through op for hirschsprung's disease,,Digestive
+48226,7726y13,swenson hirschsprung proctect,,Digestive
+33725,7733300,reanastomosis rectum-anal canal correct cong rectal atresia,,Digestive
+93912,7838000,division of annular pancreas,,Digestive
+12844,7902.11,repair of tetralogy of fallot,,Heart
+16538,7902000,correct fallot tetralogy- valved right ventr outflow conduit,,Heart
+73029,7902100,correct fallot tetralogy- right ventric outflow conduit nec,,Heart
+99198,7902200,correct fallot tetralogy- right ventricular outflow patch,,Heart
+70857,7902300,revision of correction of tetralogy of fallot,,Heart
+88842,7902400,repair of tetralogy of fallot using transannular patch,,Heart
+88479,7902500,repair of tetralogy of fallot with absent pulmonary valve,,Heart
+93719,7902600,repair fallot-type pulmonary atresia aortopulmonary collater,,Heart
+65401,7902y00,other specified correction of tetralogy of fallot,,Heart
+19956,7902z00,correction of tetralogy of fallot nos,,Heart
+108402,7902z11,repair of tetralogy of fallot nos,,Heart
+31085,7903.11,mustard interatrial tr venous return,,Heart
+37987,7903.12,senning correction for transposition of great vessels,,Heart
+89968,7903.13,atrial inversion operations for transposition of great art,,Heart
+62470,7903000,atrium reconstruction atrial patch for transpos great vessel,,Heart
+69021,7903100,atrium reconstruction atrial wall for transpos great vessels,,Heart
+69200,7903y00,atrial inversion op for transposition of great vessels os,,Heart
+58886,7903z00,atrial inversion op for transposition of great vessels nos,,Heart
+33909,7904000,repositioning of transposed great vessels,,Heart
+98383,7904200,left ventricle aorta tunnel right ventricle pul art val con,,Heart
+91533,7904300,atrial switch and arterial switch,,Heart
+64470,7904y00,other correction of transposition of great vessels os,,Heart
+38411,7904z00,other correction of transposition of great vessels nos,,Heart
+94475,7905000,correct total anomal pulm venous connect to supracard vessel,,Heart
+56741,7905100,correct total anomal pulm venous connect to coronary sinus,,Heart
+105154,7905y00,correction of total anomalous pulmonary venous connection os,,Heart
+73820,7905z00,correction total anomalous pulmonary venous connection nos,,Heart
+73476,7906.11,repair of defect of the atrioventricular septum,,Heart
+57102,7906000,close defect atrioventric septum using dual prosthetic patch,,Heart
+105465,7906011,rep defect atrioventricular septum dual prosthetic patches,,Heart
+39884,7906100,close defect atrioventric septum using prosthetic patch nec,,Heart
+95755,7906111,repair defect atrioventricular septum prosthetic patch nec,,Heart
+73817,7906200,closure defect atrioventricular septum using tissue graft,,Heart
+104708,7906211,repair defect of atrioventricular septum using tissue graft,,Heart
+42181,7906300,closure of persistent ostium primum,,Heart
+99346,7906311,repair of persistent ostium primum,,Heart
+48331,7906400,primary closure of defect of atrioventricular septum nec,,Heart
+39885,7906500,revision of closure of defect of atrioventricular septum,,Heart
+57270,7906y00,other specified closure of defect of atrioventricular septum,,Heart
+38436,7906z00,closure of defect of atrioventricular septum nos,,Heart
+88772,7907.11,repair of defect of interatrial septum,,Heart
+31101,7907000,closure defect of interatrial septum using prosthetic patch,,Heart
+94191,7907011,repair defect of interatrial septum using prosthetic patch,,Heart
+43926,7907100,closure defect of interatrial septum using pericardial patch,,Heart
+108307,7907111,repair defect of interatrial septum using pericardial patch,,Heart
+52287,7907200,closure defect of interatrial septum using tissue graft nec,,Heart
+28367,7907300,primary closure of defect of interatrial septum nec,,Heart
+102977,7907311,primary repair of defect of interatrial septum nec,,Heart
+70424,7907400,revision of closure of defect of interatrial septum,,Heart
+67299,7907y00,other specified closure of defect of interatrial septum,,Heart
+16191,7907z00,closure of defect of interatrial septum nos,,Heart
+91892,7908.11,repair of defect of interventricular septum,,Heart
+39803,7908000,close defect interventricular septum using prosthetic patch,,Heart
+99781,7908011,repair defect interventricular septum us prosthetic patch,,Heart
+50626,7908100,close defect interventricular septum using pericardial patch,,Heart
+96130,7908111,repair defect interventricular septum us pericardial patch,,Heart
+67483,7908200,close defect interventricular septum using tissue graft nec,,Heart
+45358,7908300,primary closure of defect of interventricular septum nec,,Heart
+95578,7908311,primary repair of defect of interventricular septum nec,,Heart
+105759,7908400,revision of closure of defect of interventricular septum,,Heart
+94023,7908500,closure of multiple interventricular septal defects,,Heart
+98273,7908511,repair of multiple interventricular septal defects,,Heart
+65234,7908600,closure interventricular septal defect us intraop trans pros,,Heart
+92020,7908611,repair interventricular septal defect us intraop trans pros,,Heart
+57271,7908y00,other specified closure of defect of interventricular septum,,Heart
+3864,7908z00,closure of defect of interventricular septum nos,,Heart
+86763,7909.11,repair of defect of unspecified septum of heart,,Heart
+42090,7909000,closure of defect of heart septum using prosthetic patch nec,,Heart
+59012,7909100,closure defect of heart septum using pericardial patch nec,,Heart
+28006,7909300,primary closure of defect of septum of heart nec,,Heart
+38828,7909y00,other specified closure of defect unspecified heart septum,,Heart
+50310,7909z00,closure of defect of unspecified septum of heart nos,,Heart
+103939,7909z11,repair of defect of unspecified septum of heart nos,,Heart
+36989,790a.00,other open operations on septum of heart,,Heart
+68073,790a000,open enlargement of defect of atrial septum,,Heart
+31084,790a100,open atrial septostomy,,Heart
+36967,790a111,atrial septostomy nec,,Heart
+89969,790a200,open atrial septum fenestration,,Heart
+67045,790a300,atrial septectomy,,Heart
+89333,790a400,atrial septation procedure,,Heart
+93264,790a600,surgical atrial septation,,Heart
+41085,790ay00,other specified other open operation on septum of heart,,Heart
+66308,790az00,other open operation on septum of heart nos,,Heart
+49625,790b.00,closed operations on septum of heart,,Heart
+28470,790b000,closed enlargement of defect of atrial septum,,Heart
+44665,790b011,blalock creation of defect in atrial septum,,Heart
+10916,790b012,hanlon creation of defect in atrial septum,,Heart
+37452,790b100,closed atrial septostomy,,Heart
+47885,790by00,other specified closed operation on septum of heart,,Heart
+94040,790bz00,closed operation on septum of heart nos,,Heart
+62685,790f.00,refashioning of atrium,,Heart
+39029,790f000,correction of persistent sinus venosus,,Heart
+44117,790f100,correction of partial anomalous pulmonary venous drainage,,Heart
+99829,790f200,repair of cor triatriatum,,Heart
+101639,790f300,repair of coronary sinus abnormality,,Heart
+105637,790fy00,other specified refashioning of atrium,,Heart
+90605,790j.00,other repair of transposition of great arteries,,Heart
+95106,790j000,repositioning of transposed great arteries,,Heart
+108021,790jz00,other repair of transposition of great arteries nos,,Heart
+89231,790k.00,repair of double outlet ventricle,,Heart
+107122,790k100,repair of fallot-type double outlet right ventricle,,Heart
+98443,790k200,repair of double outlet right ventricle,,Heart
+86418,790l.00,transluminal closure of defect of septum,,Heart
+89697,790l000,percutan transluminal closure defect intervent sept us pros,,Heart
+102523,790l111,percutaneous translum repair defect intervent septum nec,,Heart
+102473,790l200,percutan translum closure defect interatr septum us prosth,,Heart
+93807,790l300,percutan transluminal closure defect interatrial septum nec,,Heart
+106726,790l311,percutan transluminal repair defect interatrial septum nec,,Heart
+93953,790l400,percut translum closure defect unspecified septum us prosth,,Heart
+99452,790ly00,other specified transluminal closure of defect of septum,,Heart
+94982,790lz00,transluminal closure of defect of septum nos,,Heart
+97058,790m.00,repair of univentricular heart,,Heart
+95444,790m000,total cavopulmonary con extrac inf cav vein pulmon art con,,Heart
+91455,790m100,total cavopulmonary connection with lateral atrial tunnel,,Heart
+96818,790m200,radical aortopulmonary reconstr systemic-to-pulmon art shunt,,Heart
+96637,790m400,biventricular repair of hypoplastic left heart syndrome,,Heart
+97825,790m500,takedown of total cavopulmonary connection,,Heart
+98899,790m600,conversion atrial pulmonary anastomosis total pulmon connect,,Heart
+101844,790m700,aortopulm reconstruct with systemic to pulmon arterial shunt,,Heart
+89257,790my00,other specified repair of univentricular heart,,Heart
+95951,790mz00,repair of univentricular heart nos,,Heart
+91693,790n000,relief of right ventricular outflow tract obstruction,,Heart
+103641,790n100,repair of double chambered right ventricle,,Heart
+93408,790n400,relief of left ventricular outflow tract obstruction,,Heart
+90112,790n500,myectomy of left ventricular outflow tract,,Heart
+52608,791a000,infundibulectomy of heart using patch,,Heart
+22413,791a100,infundibulectomy of heart nec,,Heart
+20940,791a200,repair of subaortic stenosis,,Heart
+62293,791a300,repair of supraaortic stenosis,,Heart
+91468,791b400,closure of aortic sinus of valsalva fistula,,Heart
+91467,791b500,repair of aortic sinus of valsalva aneurysm,,Heart
+18903,7927000,repair of arteriovenous fistula of coronary artery,,Heart
+48206,7927300,transposition of coronary artery nec,,Heart
+93432,792b200,repair of arteriovenous malformation of coronary artery,,Heart
+91720,7934700,percutaneous transluminal ablation congenit heart malformat,,Heart
+31195,7a0..00,great vessels and pulmonary artery operations,,Heart
+100570,7a0..11,great vessel operations,,Heart
+91759,7a00.00,open operations for combined abnormality of great vessels,,Heart
+56081,7a00000,correction of persistent truncus arteriosus,,Heart
+61915,7a00200,repair of hemitruncus arteriosus,,Heart
+61794,7a00300,closure of aortopulmonary window,,Heart
+94503,7a00400,repair anomalous pulmonary artery origin ascending aorta,,Heart
+62845,7a00y00,open operation for combined abnormality of great vessels os,,Heart
+97659,7a00z00,open operation for combined abnormality of great vessels nos,,Heart
+21090,7a01.00,open correction of patent ductus arteriosus,,Heart
+7342,7a01.11,open correction of patent ductus arteriosus (pda),,Heart
+50019,7a01000,division of patent ductus arteriosus,,Heart
+9573,7a01100,ligation of patent ductus arteriosus,,Heart
+36668,7a01200,closure of patent ductus arteriosus nec,,Heart
+63163,7a01300,revision of correction of patent ductus arteriosus,,Heart
+106081,7a01y00,other specified open correction of patent ductus arteriosus,,Heart
+2728,7a01z00,open correction of patent ductus arteriosus nos,,Heart
+62356,7a02.00,transluminal operations on abnormality of great vessel,,Heart
+12889,7a02000,percut transluminal prosth occlusion patent ductus arterios,,Heart
+19188,7a02011,percut translum prosth occlus patent ductus arteriosus (pda),,Heart
+85946,7a02100,percutaneous transluminal stent implantation arterial duct,,Heart
+65097,7a02y00,transluminal operation on abnormality of great vessel os,,Heart
+98952,7a02z00,transluminal operation on abnormality of great vessel nos,,Heart
+43683,7a03.00,creation interposition tube prosth shunt aorta to pulm art,,Heart
+103793,7a03000,creation interpos tube prosth shunt asc aorta to main pulm a,,Heart
+71873,7a03100,create interpos tube prosth shunt asc aorta to right pulm a,,Heart
+56170,7a03200,creation interpos tube prosth shunt asc aorta to left pulm a,,Heart
+99369,7a03y00,create interpos tube prosth shunt fr aorta to pulm artery os,,Heart
+71791,7a03z00,create interpos tube prosth shunt aorta to pulm artery nos,,Heart
+68138,7a04.00,other connection from aorta to pulmonary artery,,Heart
+70561,7a04000,creation of aortopulmonary window,,Heart
+72750,7a04100,creation of anastomosis ascending aorta to main pulm art nec,,Heart
+71795,7a04200,creation anastomosis ascending aorta to right pulm art nec,,Heart
+56571,7a04211,waterson anastomosis ascending aorta to right pulmonary art,,Heart
+68278,7a05.00,create interpos tube prosth shunt subclavian art to pulm art,,Heart
+73815,7a05000,create interpos tube prosth shunt r subclavian a to r pulm a,,Heart
+99659,7a05100,create interpos tube prosth shunt l subclavian a to l pulm a,,Heart
+103332,7a05200,closure prosthetic shunt pulmonary artery subclavian artery,,Heart
+56529,7a06.00,other connection from subclavian artery to pulmonary artery,,Heart
+73919,7a06000,creation anastomosis right subclav art to right pulm art nec,,Heart
+73918,7a06100,creation anastomosis left subclav art to left pulm art nec,,Heart
+59428,7a06200,creation anastomosis subclavian artery to pulmonary art nec,,Heart
+28104,7a06211,blalock anastomosis of subclavian artery to pulmonary artery,,Heart
+40017,7a06212,taussig anastomosis of subclavian artery to pulmonary artery,,Heart
+73489,7a06300,revision anastomosis subclavian artery to pulmonary artery,,Heart
+91692,7a06500,perc trans ball dilat anas bet pulmon artery subclav artery,,Heart
+90852,7a06600,perc translu occlusion anast pulmonary artery subclavian art,,Heart
+90119,7a07.00,other connection to pulmonary artery,,Heart
+37037,7a07000,creation of anastomosis from vena cava to pulmonary artery,,Heart
+52159,7a07011,creation glenn anastomosis from vena cava to pulmonary art,,Heart
+96047,7a07y00,other specified other connection to pulmonary artery,,Heart
+62255,7a07z00,other connection to pulmonary artery nos,,Heart
+42524,7a08200,repair of anomalous pulmonary artery nec,,Heart
+73970,7a08300,repair of pulmonary arterial sling,,Heart
+37324,7a09000,application of band to pulmonary artery,,Heart
+101932,7a09100,adjustment of band to pulmonary artery,,Heart
+72797,7a09200,removal of band from pulmonary artery,,Heart
+91479,7a09500,pulmonary artery ligation,,Heart
+38328,7a0a.00,transluminal operations on pulmonary artery,,Heart
+93433,7a0a700,percut transluminal insertion of stent into pulmonary artery,,Heart
+59659,7a0ay00,other specified transluminal operation on pulmonary artery,,Heart
+34262,7a0az00,transluminal operation on pulmonary artery nos,,Heart
+103081,7a0b.00,open operations on both pulmonary arteries,,Heart
+99576,7a0c.00,operation on major systemic to pulmonary collateral arteries,,Heart
+110194,7a0c000,major systemic to pulmonary collateral artery occlusion,,Heart
+96488,7a0c100,pulmonary unifocalisation,,Heart
+104062,7a0c400,percut translumin stent major systemic pulmon collateral art,,Heart
+66801,7a0y.00,great vessel or pulmonary artery operations os,,Heart
+51112,7a0z.00,great vessel and pulmonary artery operations nos,,Heart
+92330,7a18111,hamilton repair coarctation of aorta using subclavian flap,,Heart
+67046,7a18600,repair of interrupted aortic arch,,Heart
+30403,7a61000,excision of congenital arteriovenous malformation,,Other
+31174,7a61200,embolisation of arteriovenous abnormality,,Other
+64859,7a61300,ligation of congenital arteriovenous malformation,,Other
+94806,7a61500,percutan transluminal embolis arteriovenous malformation nec,,Other
+89761,7a61600,percut translumin venous embolisat arteriovenous malform,,Other
+86587,7a61700,perc translum arterial venous embolis arteriovenous malform,,Other
+85997,7a61800,embolisation of arteriovenous abnormality nec,,Other
+108804,7a63500,repair of anomalous caval vein connection,,Heart
+90121,7a6k000,repair of pulmonary vein stenosis,,Heart
+34834,7b01300,heminephrectomy for horseshoe kidney,,Urinary
+60919,7b01311,excision of half of horseshoe kidney,,Urinary
+34999,7b02000,heminephrectomy for duplex kidney,,Urinary
+52671,7b02100,division of isthmus of horseshoe kidney,,Urinary
+94128,7b10400,excision of duplex ureter,,Urinary
+21797,7b12.00,reimplantation of ureter,,Urinary
+42046,7b12000,unspecified bilateral reimplantation of ureter,,Urinary
+59714,7b12100,unspecified unilateral reimplantation of ureter,,Urinary
+45744,7b12500,extravesical bilateral reimplantation of ureters,,Urinary
+67953,7b12511,leadbetter bilateral reimplantation of ureters,,Urinary
+33930,7b12512,politano bilateral reimplantation of ureters,,Urinary
+52134,7b12611,cohen unilateral reimplantation of ureter,,Urinary
+52509,7b12800,extravesical unilateral reimplantation of ureter,,Urinary
+57045,7b12811,leadbetter unilateral reimplantation of ureter,,Urinary
+68134,7b12812,politano unilateral reimplantation of ureter,,Urinary
+53898,7b12y00,other specified reimplantation of ureter,,Urinary
+15822,7b12z00,reimplantation of ureter nos,,Urinary
+21102,7b16000,open excision of ureterocele,,Urinary
+42767,7b17400,percut nephroscopic balloon dilatation of ureter,,Urinary
+25285,7b17411,percut antegrade balloon dilatation of ureter,,Urinary
+89354,7b18500,ureteroscopic endoluminal balloon rupture of stenosis ureter,,Urinary
+2782,7b1a300,endoscopic dilatation of ureter,,Urinary
+5552,7b1d300,endoscopic incision of ureterocele,,Urinary
+11587,7b1d400,endoscopic dilatation of ureteric orifice,,Urinary
+90265,7b1d600,endoscopic incision of ureterocele,,Urinary
+31714,7b23400,closure of exstrophy of bladder,,Urinary
+3441,7b41000,other hypospadias repair,,Genital
+71899,7b41011,byars hypospadias repair,,Genital
+30198,7b41012,cecil reconstruction of urethra,,Genital
+11142,7b41013,denis - browne hypospadias repair,,Genital
+37920,7b41014,ombredanne hypospadias repair,,Genital
+65156,7b41015,van der meulen hypospadias repair,,Genital
+55579,7b41016,young hypospadias repair,,Genital
+24238,7b41017,first stage hypospadias repair,,Genital
+29709,7b41018,second stage hypospadias repair,,Genital
+15823,7b41100,epispadias repair,,Urinary
+94300,7b41112,denis-browne epispadias repair,,Urinary
+72699,7b41113,young-dees epispadias repair,,Urinary
+35853,7b41200,closure of urethral fistula,,Urinary
+29884,7b41211,excision of urethral fistula,,Urinary
+11036,7b41700,magpi hypospadias repair,,Genital
+36187,7b41800,duckett hypospadias repair,,Genital
+33979,7b43500,endoscopic destruction of posterior urethral valve,,Urinary
+91399,7b43a00,endoscopic destruction of urethral valves,,Urinary
+29139,7b45600,hook ablation of posterior urethral valve,,Urinary
+101310,7c03111,excision of aberrant testis,Yes,Other
+27452,7c04200,excision of cyst of male hydatid of morgagni,,Genital
+27878,7c08600,correction of hydrocele of infancy,Yes,Genital
+11855,7c09700,excision of appendix of testis,,Genital
+18943,7c09711,excision of male hydatid of morgagni,,Genital
+18340,7c25400,correction of chordee,,Genital
+16869,7c25411,release of chordee,,Genital
+49752,7d14.00,excision of band of vagina,Yes,Genital
+51141,7d14000,laser excision of septum of vagina,Yes,Genital
+28217,7d14100,excision of septum of vagina nec,Yes,Genital
+97563,7d14200,excision of transverse vaginal septum high,Yes,Genital
+89331,7d14300,excision of transverse vaginal septum low,Yes,Genital
+92244,7d14400,excision of transverse vaginal septum vertical,Yes,Genital
+96510,7d14y00,other specified excision of band of vagina,Yes,Genital
+64678,7d14z00,excision of band of vagina nos,Yes,Genital
+21762,7d1a200,repair of rectovaginal fistula,,Genital
+57261,7e0d014,endoscopic resection of uterine septum,,Genital
+15412,7e1a200,excision of hydatid of morgagni,,Genital
+37509,7f1a300,drainage of hydrocephalus of fetus to facilitate delivery,,Nervous System
+27327,7h01000,correction of pectus deformity of chest wall,Yes,Limb
+28517,7h01011,correction of pectus carinatum,Yes,Limb
+18597,7h01012,correction of pectus excavatum,Yes,Limb
+21142,7h01100,insertion of silicone implant correction of pectus excavatum,Yes,Limb
+40984,7h0d300,repair of congenital diaphragmatic hernia,,Digestive
+17898,7h10.00,simple excision of inguinal hernial sac,Yes,Other
+12527,7h10200,ligation of patent processus vaginalis,Yes,Genital
+59925,7h10y00,other specified simple excision of inguinal hernial sac,Yes,Other
+35236,7h10z00,simple excision of inguinal hernial sac nos,Yes,Other
+3742,7h11.00,primary repair of inguinal hernia,Yes,Other
+5425,7h11.11,primary inguinal herniorrhaphy,Yes,Digestive
+45687,7h11000,primary repair inguinal hernia using insert natural material,Yes,Other
+33485,7h11100,prim repair inguinal hernia using insert prosthet material,Yes,Other
+10139,7h11111,primary mesh repair of inguinal hernia,Yes,Other
+14670,7h11200,primary repair of inguinal hernia using sutures,Yes,Other
+34915,7h11211,bassini repair of inguinal hernia,Yes,Other
+94065,7h11212,ferguson repair of inguinal hernia,Yes,Other
+99143,7h11213,mcvay repair of inguinal hernia,Yes,Other
+36963,7h11214,shouldice repair of inguinal hernia,Yes,Other
+19219,7h11300,primary repair inguinal hernia & reduction of sliding hernia,Yes,Other
+33743,7h11400,endoscopic primary repair of inguinal hernia,Yes,Other
+9949,7h11500,bilateral inguinal hernia repair,Yes,Other
+19397,7h11600,primary laparoscopic repair of inguinal hernia,Yes,Other
+29442,7h11y00,other specified primary repair of inguinal hernia,Yes,Other
+69455,7h11y11,halsted repair of inguinal hernia,Yes,Other
+652,7h11z00,primary repair of inguinal hernia nos,Yes,Other
+3200,7h12.00,repair of recurrent inguinal hernia,Yes,Other
+28558,7h12.11,herniorrhaphy for recurrent inguinal hernia,Yes,Other
+64977,7h12000,repair recurr inguinal hernia using insert natural material,Yes,Other
+41524,7h12100,repair recurr inguinal hernia using insert prosthet material,Yes,Other
+24982,7h12200,repair of recurrent inguinal hernia using sutures,Yes,Other
+62486,7h12300,removal prosthet material fr previous repair inguinal hernia,Yes,Other
+42716,7h12y00,other specified repair of recurrent inguinal hernia,Yes,Other
+3367,7h12z00,repair of recurrent inguinal hernia nos,Yes,Other
+35924,7h19511,closure of exomphalos,,Abdominal Wall
+40547,7h67100,operation on branchial cleft nec,Yes,"""Ear, Face & Neck"""
+4467,7h67200,excision of branchial cyst,Yes,"""Ear, Face & Neck"""
+16239,7h67300,closure of branchial fistula,Yes,"""Ear, Face & Neck"""
+63812,7h67w00,other specified operation on branchial cleft,Yes,"""Ear, Face & Neck"""
+96769,7h67x00,operation on branchial cleft nos,Yes,"""Ear, Face & Neck"""
+34258,7j44y00,instrumental correction of deformity of spine os,,Limb
+42842,7j44z00,instrumental correction deformity of spine nos,,Limb
+24041,7j45.00,other correction of deformity of spine,,Limb
+60269,7j45y00,other specified correction of deformity of spine,,Limb
+28186,7j45z00,correction of deformity of spine nos,,Limb
+5941,7k02500,correction of metatarsus varus,Yes,Limb
+57857,7k02511,herndon correction of metatarsus varus,Yes,Limb
+59486,7k02512,heymann correction of metatarsus varus,Yes,Limb
+2022,7k51200,syndactylisation of lesser toes,Yes,Limb
+57367,7k6t000,release of webbing of neck,,"""Ear, Face & Neck"""
+106951,7l0b200,excision of ovotestis,,Genital
+16570,7l0d.00,correction of congenital deformity of shoulder or upper arm,,Limb
+57519,7l0d000,reduction of sprengel deformity,,Limb
+95502,7l0dy00,correction of congenital deformity shoulder or upper arm os,,Limb
+109504,7l0dz00,correction of congenital deformity shoulder or upper arm nos,,Limb
+26851,7l0e.00,correction of congenital deformity of forearm,,Limb
+69588,7l0e200,centralisation carpus- correctn congenital deformity forearm,,Limb
+60207,7l0e300,revisn release radius- correctn congenital deformity forearm,,Limb
+61387,7l0e400,revisn release ulna- correction congenital deformity forearm,,Limb
+47217,7l0e500,correction of congenital absence of radius,,Limb
+57811,7l0e600,radialialization correction for radial club hand,,Limb
+96621,7l0ey00,correction of congenital deformity of forearm os,,Limb
+96511,7l0ez00,correction of congenital deformity of forearm nos,,Limb
+28034,7l0f.00,correction of congenital deformity of hand,,Limb
+24051,7l0f200,correction of syndactyly of fingers using skin graft,,Limb
+41360,7l0f300,correction of syndactyly of fingers using skin expander,,Limb
+20691,7l0f400,amputation of duplicate thumb,,Limb
+12526,7l0f500,amputation of supernumerary finger nec,,Limb
+49527,7l0fa00,realignment of congenital ulnar drift,,Limb
+34765,7l0ff00,correction of radial polydactyly,,Limb
+46139,7l0fg00,excision of radial digit & skeletal repair for polydactyly,,Limb
+22316,7l0fh00,excision of ulnar digit and skeletal repair for polydactyly,,Limb
+65790,7l0fj00,correction of macrodactyly,,Limb
+96336,7l0fk00,reconstruction of radial club hand,,Limb
+57917,7l0fy00,other specified correction of congenital deformity of hand,,Limb
+45324,7l0fz00,correction of congenital deformity of hand nos,,Limb
+24670,7l0g.00,correction of congenital deformity of hip,,Limb
+30363,7l0g000,open reduction of congenital dislocation of hip,,Limb
+55872,7l0g011,ferguson open reduction of congenital deformity of hip,,Limb
+69116,7l0g012,ludloff open reduction of congenital deformity of hip,,Limb
+34038,7l0g100,primary osteotomy pelvis correction congenital deformity hip,,Limb
+72410,7l0g200,secndry arthroplasty hip for correctn congenital deformity,,Limb
+101676,7l0g300,intraartic soft tiss proced correct congenital deformity hip,,Limb
+36847,7l0g500,osteotomy of ilium correction of congenital deformity of hip,,Limb
+53639,7l0g600,femoral osteotomy for correction congenital deformity of hip,,Limb
+63750,7l0g700,pelvic osteotomy for congenital deformity of hip,,Limb
+22742,7l0g800,salter osteotomy for congenital deformity of hip,,Limb
+9299,7l0g900,pemberton osteotomy for congenital deformity of hip,,Limb
+25109,7l0ga00,chiari osteotomy for congenital deformity of hip,,Limb
+65113,7l0gb00,colonna osteotomy for congenital deformity of hip,,Limb
+36685,7l0gc00,shelf procedure for correction congenital deformity of hip,,Limb
+50504,7l0gy00,other specified correction of congenital deformity of hip,,Limb
+36269,7l0gz00,correction of congenital deformity of hip nos,,Limb
+96461,7l0gz11,adams correction of congenital dislocation of hip,,Limb
+34200,7l0h.00,correction of congenital deformity of leg,,Limb
+31032,7l0h000,open reduction of congenital dislocation of knee,,Limb
+43175,7l0h800,open reduction congenital dislocation of patella,,Limb
+24167,7l0h900,tibiofibular synostosis for congenital deformity,,Limb
+54240,7l0hy00,other specified correction of congenital deformity of leg,,Limb
+44045,7l0hz00,correction of congenital deformity of leg nos,,Limb
+17996,7l0j.00,primary correction of congenital deformity of foot,,Limb
+7822,7l0j.11,primary correction of club foot,,Limb
+6406,7l0j.12,primary correction of talipes,,Limb
+23981,7l0j000,release pantalar joints correction congenital deformity foot,,Limb
+60305,7l0j011,turco soft tissue release for club foot,,Limb
+45928,7l0j100,post release foot joints for correction congenital deformity,,Limb
+7823,7l0j200,medial release foot joints- correction congenital deformity,,Limb
+51738,7l0j211,dillwyn operation for club foot,,Limb
+39769,7l0j212,evans operation for club foot,,Limb
+23738,7l0j213,medial release of joints of foot for correction of club foot,,Limb
+110361,7l0j214,perkins operation for club foot,,Limb
+60598,7l0j300,anterior release foot joints correction congenital deformity,,Limb
+40396,7l0j400,posteromedial release of clubfoot,,Limb
+57063,7l0j500,combined posteromedial + posterolateral release of clubfoot,,Limb
+69492,7l0j600,lateral release for congenital deformity of foot,,Limb
+69268,7l0j700,correction of congenital vertical talus,Yes,Limb
+55347,7l0j800,complete subtalar release of clubfoot,,Limb
+62026,7l0jy00,primary correction of congenital deformity of foot os,,Limb
+56739,7l0jz00,primary correction of congenital deformity of foot nos,,Limb
+21716,7l0k.00,other correction of congenital deformity of foot,,Limb
+19378,7l0k.11,other operations for club foot,,Limb
+10751,7l0k.12,other correction of talipes,,Limb
+23852,7l0k100,wedge tarsectomy for correction congenital deformity of foot,,Limb
+48248,7l0k300,separation of tarsal coalition,Yes,Limb
+5378,7l0k400,triple arthrodesis for correction of congenital deformity,,Limb
+24777,7l0k500,dilwyn evans proc for correction of congenital deformity,,Limb
+59934,7l0ky00,other correction of congenital deformity of foot os,,Limb
+50314,7l0kz00,other correction of congenital deformity of foot nos,,Limb
+24617,7l0l.00,correction of minor congenital deformity of foot,,Limb
+23440,7l0l100,release of syndactyly of toes,,Limb
+28715,7l0l200,amputation of supernumerary toe,,Limb
+20783,7l0l300,correction of curly fifth toe,Yes,Limb
+23757,7l0l400,correction of congenital crossed toes,Yes,Limb
+44997,7l0l500,reduction of macrodactyly of toe,Yes,Limb
+59249,7l0ly00,correction of minor congenital deformity of foot os,Yes,Limb
+25710,7l0lz00,correction of minor congenital deformity of foot nos,Yes,Limb
+52065,7l0n.00,correction of complex craniofacial deformity,,Limb
+28372,7l0n000,cranio-orbital remodelling for plagiocephaly,Yes,Limb
+39362,7l0n100,cranio-orbital remodelling for trigonocephaly,,Other
+39825,7l0n200,"cranio-orbital remodelling, unspecified",,Limb
+61076,7l0n500,correction of oblique facial cleft,,Limb
+97556,7l0nz00,correction of complex craniofacial deformity nos,,Limb
+97515,8d35.00,spectacles for aphakia,,Eye
+63297,9rd0.00,transfer of care from paediatric congenital heart service,,Heart
+17605,d410200,polycythaemia due to cyanotic heart disease,,Heart
+2069,f23..00,congenital cerebral palsy,,Nervous System
+15530,f23..11,congenital spastic cerebral palsy,,Nervous System
+99040,f230.11,paraplegia - congenital,,Nervous System
+37160,f230000,congenital paraplegia,,Nervous System
+45551,f230z00,congenital diplegia nos,,Nervous System
+27966,f231.00,congenital hemiplegia,,Nervous System
+21249,f232.00,congenital quadriplegia,,Nervous System
+48126,f232.11,tetraplegia - congenital,,Nervous System
+33925,f233.00,congenital monoplegia,,Nervous System
+55593,f233.11,congenital spastic foot,,Limb
+53178,f23y.00,other congenital cerebral palsy,,Nervous System
+100627,f23y511,congenital suprabulbar paresis,,Nervous System
+28306,f23z.00,congenital cerebral palsy nos,,Nervous System
+44338,f404211,glaucoma - absolute,,Eye
+11053,f421800,retinal microaneurysms nos,,Eye
+29764,f442100,glaucomatocyclitic crises,,Eye
+22838,f447700,pupillary membranes nos,,Eye
+2074,f45..00,glaucoma,,Eye
+8971,f450.00,borderline glaucoma,,Eye
+24860,f450000,unspecified preglaucoma,,Eye
+10070,f450100,open angle glaucoma with borderline intraocular pressure,,Eye
+35748,f450200,borderline glaucoma with anatomical narrow angle,,Eye
+36737,f450300,borderline glaucoma steroid responder,,Eye
+9260,f450z00,borderline glaucoma nos,,Eye
+1798,f451.00,open-angle glaucoma,,Eye
+42447,f451000,unspecified open-angle glaucoma,,Eye
+4581,f451100,primary open-angle glaucoma,,Eye
+30649,f451111,simple chronic glaucoma,,Eye
+9469,f451200,low tension glaucoma,,Eye
+53879,f451211,normal pressure glaucoma,,Eye
+12251,f451300,pigmentary glaucoma,,Eye
+58645,f451400,glaucoma of childhood,,Eye
+72394,f451500,open-angle glaucoma residual stage,,Eye
+28189,f451z00,open-angle glaucoma nos,,Eye
+2823,f452.00,primary angle-closure glaucoma,,Eye
+6315,f452.11,closed angle glaucoma,,Eye
+20520,f452000,unspecified primary angle-closure glaucoma,,Eye
+44817,f452100,intermittent primary angle-closure glaucoma,,Eye
+28536,f452200,acute primary angle-closure glaucoma,,Eye
+35446,f452300,chronic primary angle-closure glaucoma,,Eye
+67413,f452400,primary angle-closure glaucoma residual stage,,Eye
+39120,f452z00,primary angle-closure glaucoma nos,,Eye
+69195,f454000,glaucoma due to chamber angle anomaly,,Eye
+67341,f454100,glaucoma due to iris anomaly,,Eye
+96707,f454200,glaucoma due to other anterior segment anomaly,,Eye
+54262,f455.00,glaucoma associated with disorders of the lens,,Eye
+44798,f455000,phacolytic glaucoma,,Eye
+18743,f455100,pseudoexfoliation glaucoma,,Eye
+34354,f455z00,glaucoma associated with disorders of the lens nos,,Eye
+37876,f456100,glaucoma due to pupillary block,,Eye
+28505,f45y.00,other specified forms of glaucoma,,Eye
+44295,f45yz00,other specified glaucoma nos,,Eye
+8001,f45z.00,glaucoma nos,,Eye
+107168,f463100,glaucomatous subcapsular flecks,,Eye
+35596,f4b..00,corneal opacity and other disorders of cornea,,Eye
+4366,f4b0.00,corneal scars and opacities,,Eye
+4524,f4b0000,unspecified corneal opacity,,Eye
+29346,f4b0100,minor opacity of cornea,,Eye
+51176,f4b0200,peripheral opacity of cornea,,Eye
+36355,f4b0300,central opacity of cornea,,Eye
+3474,f4b0z00,corneal scar or opacity nos,,Eye
+9253,f4e4600,other blepharophimosis,Yes,Eye
+39942,f4e6.00,blepharochalasis,,Eye
+67583,f4g4100,hypertelorism of orbit,Yes,Other
+20230,f4h1400,optic disc glaucomatous atrophy,,Eye
+22325,f4h2200,coloboma of optic disc,,Eye
+16473,f4k3.00,aphakia and other disorders of lens,,Eye
+1663,f4k3000,aphakia,,Eye
+64214,f4k3z00,aphakia and other disorders of lens nos,,Eye
+10563,f4k4100,anisocoria - unequal pupil diameter,,Eye
+52888,fyug.00,[x]glaucoma,,Eye
+70195,fyug000,[x]other glaucoma,,Eye
+1267,g11..00,mitral valve diseases,,Heart
+1885,g110.00,mitral stenosis,,Heart
+44488,g112.00,mitral stenosis with insufficiency,,Heart
+50983,g112.12,mitral stenosis with incompetence,,Heart
+44328,g112.13,mitral stenosis with regurgitation,,Heart
+28662,g113.00,nonrheumatic mitral valve stenosis,,Heart
+57633,g114.00,ruptured mitral valve cusp,,Heart
+30443,g11z.00,mitral valve disease nos,,Heart
+10078,g13..00,diseases of mitral and aortic valves,,Heart
+8274,g130.00,mitral and aortic stenosis,,Heart
+49355,g131.00,mitral stenosis and aortic insufficiency,,Heart
+61250,g131.13,mitral stenosis and aortic incompetence,,Heart
+17596,g131.14,mitral stenosis and aortic regurgitation,,Heart
+33262,g132.00,mitral insufficiency and aortic stenosis,,Heart
+31759,g132.12,mitral incompetence and aortic stenosis,,Heart
+33907,g132.13,mitral regurgitation and aortic stenosis,,Heart
+31727,g133.00,mitral and aortic incompetence,,Heart
+94872,g133.11,mitral and aortic insufficiency,,Heart
+11878,g133.12,mitral and aortic regurgitation,,Heart
+70698,g13y.00,multiple mitral and aortic valve involvement,,Heart
+29158,g13z.00,mitral and aortic valve disease nos,,Heart
+16373,g140.00,tricuspid valve disease nec,,Heart
+56029,g140300,"tricuspid stenosis, cause unspecified",,Heart
+42128,g140400,"tricuspid insufficiency, cause unspecified",,Heart
+34869,g140412,"tricuspid incompetence, cause unspecified",,Heart
+9286,g140413,"tricuspid regurgitation, cause unspecified",,Heart
+72306,g140500,"tricuspid stenosis and insufficiency, cause unspecified",,Heart
+49551,g140514,"tricuspid stenosis and regurgitation, cause unspecified",,Heart
+53377,g420.00,arteriovenous fistula of pulmonary vessels,,Heart
+28850,g54..11,heart valve disorders - non rheumatic,,Heart
+2977,g540.00,mitral valve incompetence,,Heart
+40949,g540.12,mitral valve insufficiency,,Heart
+5058,g540000,"mitral incompetence, non-rheumatic",,Heart
+34240,g540100,"mitral incompetence, cause unspecified",,Heart
+47887,g541011,"aortic insufficiency, non-rheumatic",,Heart
+10187,g541012,"aortic regurgitation, non-rheumatic",,Heart
+58810,g541211,"aortic insufficiency alone, cause unspecified",,Heart
+1005,g541212,"aortic regurgitation alone, cause unspecified",,Heart
+10964,g541400,aortic valve stenosis with insufficiency,,Heart
+1779,g542000,"tricuspid incompetence, non-rheumatic",,Heart
+97738,g542011,"tricuspid insufficiency, non-rheumatic",,Heart
+35724,g542100,"tricuspid stenosis, non-rheumatic",,Heart
+52271,g542200,nonrheumatic tricuspid valve stenosis with insufficiency,,Heart
+98538,g542x00,"nonrheumatic tricuspid valve disorder, unspecified",,Heart
+12312,g543.00,pulmonary valve disorders,,Heart
+14723,g543100,"pulmonary stenosis, non-rheumatic",,Heart
+2669,g543300,"pulmonary stenosis, cause unspecified",,Heart
+61878,g543311,"pulmonary stenosis, cause unspecified",,Heart
+34932,g543400,pulmonary valve stenosis with insufficiency,,Heart
+19957,g543z00,pulmonary valve disorders nos,,Heart
+39671,g54z000,incompetence of unspecified heart valve,,Heart
+89579,g54z014,insufficiency of unspecified heart valve,,Heart
+54478,g553.00,endocardial fibroelastosis,,Heart
+53756,gyu1000,[x]other mitral valve diseases,,Heart
+99077,gyu1200,[x]other tricuspid valve diseases,,Heart
+98560,gyu5500,[x]other nonrheumatic mitral valve disorders,,Heart
+49272,gyu5600,[x]other aortic valve disorders,,Heart
+53959,gyu5800,[x]other pulmonary valve disorders,,Heart
+15363,j040.15,micrognathism,,"""Ear, Face & Neck"""
+29316,j040300,mandibular micrognathism,,"""Ear, Face & Neck"""
+23467,j040800,maxillary micrognathism,,"""Ear, Face & Neck"""
+95850,j040b00,micrognathism unspecified,,"""Ear, Face & Neck"""
+40334,j074.00,fistula of salivary gland,,Digestive
+40309,j074000,fistula of parotid gland,,Digestive
+37195,j074100,fistula of submandibular gland,,Digestive
+50319,j074200,fistula of sublingual gland,,Digestive
+99215,j074z00,fistula of salivary gland nos,,Digestive
+57606,j085200,fistula of lip,,Digestive
+29879,j085300,hypertrophy of lip,Yes,"""Ear, Face & Neck"""
+4048,j10y200,tracheo-oesophageal fistula,,Digestive
+408,j30..00,inguinal hernia,Yes,Other
+8042,j30..12,direct inguinal hernia,Yes,Other
+10926,j30..13,indirect inguinal hernia,Yes,Other
+64521,j300.00,inguinal hernia with gangrene,Yes,Other
+63166,j300000,unilateral inguinal hernia with gangrene,Yes,Other
+97892,j300300,bilateral recurrent inguinal hernia with gangrene,Yes,Other
+2230,j300z00,inguinal hernia with gangrene nos,Yes,Other
+34784,j301.00,inguinal hernia with obstruction,Yes,Other
+27607,j301000,unilateral inguinal hernia with obstruction,Yes,Other
+29088,j301100,unilateral recurrent inguinal hernia with obstruction,Yes,Other
+63481,j301200,bilateral inguinal hernia with obstruction,Yes,Other
+15681,j301z00,inguinal hernia with obstruction nos,Yes,Other
+16913,j302.00,inguinal hernia - irreducible,Yes,Other
+27684,j302000,unilateral inguinal hernia - irreducible,Yes,Other
+53662,j302100,unilateral recurrent inguinal hernia - irreducible,Yes,Other
+62839,j302200,bilateral inguinal hernia - irreducible,Yes,Other
+70896,j302300,bilateral recurrent inguinal hernia - irreducible,Yes,Other
+44672,j302z00,inguinal hernia - irreducible and nos,Yes,Other
+35442,j303.00,simple inguinal hernia,Yes,Other
+7921,j303000,unilateral inguinal hernia - simple,Yes,Other
+2863,j303011,left inguinal hernia,Yes,Other
+1406,j303012,right inguinal hernia,Yes,Other
+22315,j303100,unilateral recurrent inguinal hernia - simple,Yes,Other
+21516,j303200,bilateral inguinal hernia - simple,Yes,Other
+25257,j303300,bilateral recurrent inguinal hernia - simple,Yes,Other
+33531,j303z00,simple inguinal hernia nos,Yes,Other
+9405,j304.00,direct inguinal hernia,Yes,Other
+27850,j305.00,indirect inguinal hernia,Yes,Other
+23543,j30y.00,inguinal hernia unspecified,Yes,Other
+5653,j30y000,unilateral inguinal hernia unspecified,Yes,Other
+5531,j30y100,unilateral recurrent inguinal hernia unspecified,Yes,Other
+3651,j30y200,bilateral inguinal hernia unspecified,Yes,Other
+48277,j30y300,bilateral recurrent inguinal hernia unspecified,Yes,Other
+54857,j30yz00,unspecified inguinal hernia nos,Yes,Other
+20603,j30z.00,inguinal hernia nos,Yes,Other
+38418,j32..11,omphalocele,,Abdominal Wall
+100368,j321000,omphalocele with obstruction,,Abdominal Wall
+42590,j323000,simple omphalocoele,,Abdominal Wall
+99515,j32y000,unspecified omphalocoele,,Abdominal Wall
+4987,j34..00,diaphragmatic hernia,,Digestive
+256,j34..11,hiatus hernia,Yes,Digestive
+31732,j34..12,parasternal hernia,,Other
+110120,j34..13,retrosternal hernia,,Other
+24703,j340.00,diaphragmatic hernia with gangrene,,Digestive
+44233,j341.00,diaphragmatic hernia with obstruction,,Digestive
+60697,j342.00,diaphragmatic hernia - irreducible,,Digestive
+34691,j343.00,simple diaphragmatic hernia,,Digestive
+68880,j344.00,hiatus hernia with gangrene,Yes,Digestive
+63180,j345.00,hiatus hernia with obstruction,Yes,Digestive
+48153,j346.00,hiatus hernia - irreducible,Yes,Digestive
+33779,j347.00,simple hiatus hernia,Yes,Digestive
+12086,j348.00,sliding hiatus hernia,Yes,Digestive
+62920,j34y.00,unspecified diaphragmatic hernia,,Digestive
+11780,j34z.00,diaphragmatic hernia nos,,Digestive
+10104,j34z000,hiatus hernia nos,Yes,Digestive
+35852,j50z200,stenosis of intestine nos,,Digestive
+21375,j50z300,stricture of intestine nos,,Digestive
+66500,j527100,secondary megacolon - congenital,,Digestive
+29179,j572.00,stenosis of rectum and anus,,Digestive
+5334,j572000,stenosis of rectum,,Digestive
+4856,j572111,anal stenosis,,Digestive
+53581,j572z00,stenosis of rectum and anus nos,,Digestive
+7154,k09..00,small kidney of unknown cause,,Urinary
+43919,k090.00,unilateral small kidney,,Urinary
+105369,k090100,unilateral small kidney with contralateral hypertrophy,,Urinary
+38774,k091.00,bilateral small kidneys,,Urinary
+38768,k09z.00,small kidneys unspecified,,Urinary
+3277,k11..00,hydronephrosis,,Urinary
+17778,k111.00,hydroureteronephrosis,,Urinary
+10410,k113.00,hydronephrosis with ureteropelvic junction obstruction,,Urinary
+8522,k113.11,hydronephrosis with pelviureteric junction obstruction,,Urinary
+28159,k11x.00,hydronephrosis with ureteral stricture nec,,Urinary
+27302,k11z.00,hydronephrosis nos,,Urinary
+3485,k133.00,stricture of ureter,,Urinary
+4890,k133100,stricture of pelviureteric junction,,Urinary
+15835,k133z00,stricture of ureter nos,,Urinary
+98013,k13b.00,calyceal diverticulum,,Urinary
+67386,k140000,calculus in diverticulum of bladder,,Urinary
+21785,k163.00,diverticulum of bladder,,Urinary
+44863,k191100,urethrorectal fistula,,Urinary
+5256,k521200,rectovaginal fistula,,Genital
+20954,k562.00,stricture or atresia of the vagina,,Genital
+73156,k562.12,atresia of vagina,,Genital
+27648,k562300,atresia of vagina,,Genital
+44710,k562z00,stricture or atresia of the vagina nos,,Genital
+21379,k562z11,vaginal band,Yes,Genital
+72621,kyu1100,[x]other and unspecified hydronephrosis,,Urinary
+98067,kyu1f00,[x]hydronephrosis with ureteral stricture nec,,Urinary
+44429,l236.00,hydrocephalic disproportion,,Nervous System
+101559,l236000,hydrocephalic disproportion unspecified,,Nervous System
+94384,l236100,hydrocephalic disproportion - delivered,,Nervous System
+104764,l236200,hydrocephalic disproportion with antenatal problem,,Nervous System
+96414,l236z00,hydrocephalic disproportion nos,,Nervous System
+44644,l250.00,fetus with central nervous system malformation,,Nervous System
+38608,l250.11,suspect fetal anencephaly,,Nervous System
+46413,l250.12,suspect fetal hydrocephaly,,Nervous System
+8846,l250.13,suspect fetal spina bifida,,Nervous System
+71279,l250000,fetus with central nervous system malformation unspecified,,Nervous System
+32838,l250100,fetus with central nervous system malformation - delivered,,Nervous System
+61162,l250200,fetus with central nervous system malformation + a/n problem,,Nervous System
+105097,l250300,maternal care for suspected cns malformation in fetus,,Nervous System
+54690,l250400,maternal care for cns malformation in fetus,,Nervous System
+71495,l250z00,fetus with central nervous system malformation nos,,Nervous System
+96331,l258.00,fetus with cardiovascular abnormality,,Heart
+31418,n233000,arthrogryposis,,Limb
+23320,n233011,arthrogryposis multiplex congenita.,,Limb
+613,n34..00,flat foot,Yes,Limb
+27753,n340000,hypermobile flat foot,Yes,Limb
+70916,n340100,rigid flat foot,Yes,Limb
+64943,n340200,peroneal spastic flat foot,Yes,Limb
+28519,n34z.00,flat foot nos,Yes,Limb
+17158,n357.00,crossover toe,Yes,Limb
+26843,n358.00,mallet toe,Yes,Limb
+10729,n35a.00,over-riding 5th toe,Yes,Limb
+1818,n361.00,mallet finger,Yes,Limb
+4378,n363400,persistent femoral anteversion,,Limb
+945,n364011,knock knee,Yes,Limb
+2352,n364111,bow legged,Yes,Limb
+68287,n36y300,deformity of clavicle,,Limb
+61876,n36y400,deformity of scapula,,Limb
+55975,n36y500,deformity of humerus,,Limb
+63874,n36y600,deformity of radius,,Limb
+32607,n36y700,deformity of ulna,,Limb
+69168,n36y800,deformity of carpal bone,,Limb
+61993,n36y900,deformity of metacarpal,,Limb
+59037,n36ya00,deformity of phalanx of finger/thumb,,Limb
+73597,n36yb00,deformity of pelvis,,Limb
+37679,n36yc00,deformity of femur,,Limb
+52764,n36yd00,deformity of patella,,Limb
+28205,n36ye00,deformity of tibia,,Limb
+104434,n36yf00,deformity of fibula,,Limb
+63818,n36yg00,deformity of calcaneum,,Limb
+67463,n36yh00,deformity of talus,Yes,Limb
+99922,n36yj00,deformity of other tarsal bone,Yes,Limb
+54686,n36yk00,deformity of metatarsal,Yes,Limb
+54718,n36yl00,deformity of phalanx of toe,Yes,Limb
+65017,n384000,dysplastic spondylolisthesis,,Other
+10396,p....00,congenital anomalies,,Other
+72707,p0...00,anencephalus and similar anomalies,,Nervous System
+11531,p00..00,anencephalus,,Nervous System
+54714,p00..11,congenital absence of brain,,Nervous System
+50729,p000.00,acrania,,Nervous System
+64623,p001.00,amyelencephalus,,Nervous System
+110165,p002.00,hemicephaly,,Nervous System
+68181,p002.11,hemianencephaly,,Nervous System
+109394,p00y.00,other specified anencephalus,,Nervous System
+66499,p00z.00,anencephalus nos,,Nervous System
+103882,p01..00,craniorachischisis,,Nervous System
+63821,p02..00,iniencephaly,,Nervous System
+94467,p0z..00,anencephalus and similar anomalies nos,,Nervous System
+3947,p1...00,spina bifida,,Nervous System
+46790,p10..00,spina bifida with hydrocephalus,,Nervous System
+72390,p10..11,arnold - chiari syndrome,,Nervous System
+42497,p100.00,unspecified spina bifida with hydrocephalus,,Nervous System
+5306,p100000,"spina bifida with hydrocephalus, unspecified",,Nervous System
+109243,p100100,cervical spina bifida with hydrocephalus,,Nervous System
+50565,p100200,thoracic spina bifida with hydrocephalus,,Nervous System
+57113,p100300,lumbar spina bifida with hydrocephalus,,Nervous System
+98298,p100z00,spina bifida with hydrocephalus nos,,Nervous System
+9848,p101.00,arnold - chiari syndrome,,Nervous System
+63513,p101.11,closed spina bifida with arnold-chiari malformation,,Nervous System
+62968,p101000,chiari malformation type i,,Nervous System
+89572,p101100,chiari malformation type ii,,Nervous System
+98811,p102.00,spina bifida with hydrocephalus - open,,Nervous System
+104943,p102.11,fissured spine with hydrocephalus,,Nervous System
+52683,p102.13,myelocele with hydrocephalus,,Nervous System
+53471,p102.14,rachischisis with hydrocephalus,,Nervous System
+57243,p102200,thoracic spina bifida with hydrocephalus - open,,Nervous System
+103284,p102300,lumbar spina bifida with hydrocephalus - open,,Nervous System
+60623,p102400,sacral spina bifida with hydrocephalus - open,,Nervous System
+47288,p102z00,spina bifida with hydrocephalus - open nos,,Nervous System
+93902,p103.00,spina bifida with hydrocephalus - closed,,Nervous System
+105767,p103300,lumbar spina bifida with hydrocephalus - closed,,Nervous System
+72928,p103400,sacral spina bifida with hydrocephalus - closed,,Nervous System
+90482,p103z11,thoracolumbar spina bifida with hydrocephalus - closed,,Nervous System
+102628,p104.00,spina bifida with hydrocephalus of late onset,,Nervous System
+56362,p105.00,spina bifida with stenosis of aqueduct of sylvius,,Nervous System
+73085,p10y.00,other specified spina bifida with hydrocephalus,,Nervous System
+59218,p10y000,dandy - walker syndrome with spina bifida,,Nervous System
+64717,p10z.00,spina bifida with hydrocephalus nos,,Nervous System
+5431,p11..00,spina bifida without mention of hydrocephalus,,Nervous System
+95743,p110.11,split notochord syndrome,,Other
+101013,p110000,"spina bifida without hydrocephalus, site unspecified",,Nervous System
+68221,p110100,cervical spina bifida without mention of hydrocephalus,,Nervous System
+96709,p110200,thoracic spina bifida without mention of hydrocephalus,,Nervous System
+96407,p110300,lumbar spina bifida without mention of hydrocephalus,,Nervous System
+95018,p110z00,unspecified spina bifida without hydrocephalus nos,,Nervous System
+53578,p111.00,spinal hydromeningocele,,Nervous System
+67878,p112.00,hydromyelocele,,Nervous System
+6866,p113.00,spinal meningocele,,Nervous System
+53929,p113000,spinal meningocele of unspecified site,,Nervous System
+67351,p113100,cervical spinal meningocele,,Nervous System
+91600,p113200,thoracic spinal meningocele,,Nervous System
+61862,p113300,lumbar spinal meningocele,,Nervous System
+50365,p113z00,spinal meningocele nos,,Nervous System
+9722,p114.00,meningomyelocele,,Nervous System
+99332,p114000,meningomyelocele of unspecified site,,Nervous System
+107144,p114100,cervical meningomyelocele,,Nervous System
+99299,p114200,thoracic meningomyelocele,,Nervous System
+47827,p114300,lumbar meningomyelocele,,Nervous System
+57611,p114z00,meningomyelocele nos,,Nervous System
+31775,p115.00,myelocele,,Nervous System
+94598,p115100,cervical myelocele,,Nervous System
+66516,p115300,lumbar myelocele,,Nervous System
+73712,p115z00,myelocele nos,,Nervous System
+59380,p116.00,myelocystocele,,Nervous System
+107377,p116100,cervical myelocystocele,,Nervous System
+101493,p116300,lumbar myelocystocele,,Nervous System
+109893,p116z00,myelocystocele nos,,Nervous System
+99281,p117.00,spina bifida without hydrocephalus - open,,Nervous System
+56386,p117.11,fissured spine,,Nervous System
+67708,p117.12,rachischisis,,Nervous System
+95478,p117200,thoracic spina bifida without hydrocephalus - open,,Nervous System
+69397,p117300,lumbar spina bifida without hydrocephalus - open,,Nervous System
+71525,p117400,sacral spina bifida without hydrocephalus - open,,Nervous System
+73608,p117z00,spina bifida without hydrocephalus - open nos,,Nervous System
+48609,p118.00,spina bifida without hydrocephalus - closed,,Nervous System
+69370,p118000,unspecified spina bifida without hydrocephalus - closed,,Nervous System
+72018,p118100,cervical spina bifida without hydrocephalus - closed,,Nervous System
+65936,p118300,lumbar spina bifida without hydrocephalus - closed,,Nervous System
+70923,p118400,sacral spina bifida without hydrocephalus - closed,,Nervous System
+65246,p118z00,spina bifida without hydrocephalus - closed nos,,Nervous System
+99894,p11y.00,other specified spina bifida without hydrocephalus,,Nervous System
+43593,p11y.11,syringomyelocele,,Nervous System
+98280,p11z.00,spina bifida without mention of hydrocephalus nos,,Nervous System
+101703,p11z.14,congenital hernia of dura mater,,Nervous System
+21802,p1z..00,spina bifida nos,,Nervous System
+65088,p2...00,other nervous system congenital anomalies,,Nervous System
+4673,p20..00,encephalocele,,Nervous System
+101312,p20..11,hydroencephalocele,,Nervous System
+67556,p20..12,cephalocele,,Nervous System
+53474,p20..13,congenital cerebral hernia,,Nervous System
+72048,p20..14,congenital endaural hernia,,Nervous System
+31717,p20..15,sinus pericranii,,Nervous System
+30168,p200.00,encephalocystocele,,Nervous System
+36116,p201.00,encephalomyelocele,,Nervous System
+103527,p202.00,hydromeningocele - cranial,,Nervous System
+27686,p203.00,meningocele - cerebral,,Nervous System
+25282,p203.11,meningocele - cranial,,Nervous System
+52130,p204.00,meningoencephalocele,,Nervous System
+67264,p205.00,frontal encephalocele,,Nervous System
+65099,p206.00,nasofrontal encephalocele,,Nervous System
+73055,p20z.00,encephalocele nos,,Nervous System
+48027,p20z000,occipital encephalocele,,Nervous System
+100582,p20z100,encephalocele of other specified site,,Nervous System
+5712,p21..00,microcephalus,,Nervous System
+85988,p210.00,hydromicrocephaly,,Nervous System
+6515,p211.00,micrencephaly,,Nervous System
+33939,p21z.00,microcephalus nos,,Nervous System
+54717,p22..00,reduction deformities of brain,,Nervous System
+23457,p220.00,"agenesis of brain, part unspecified",,Nervous System
+100305,p221.00,"aplasia of brain, part unspecified",,Nervous System
+63668,p222.00,"hypoplasia of brain, part unspecified",,Nervous System
+53723,p223.00,agyria,,Nervous System
+34950,p223.11,lissencephaly,,Nervous System
+93441,p224.00,arhinencephaly,,Nervous System
+34161,p225.00,holoprosencephaly,,Nervous System
+42784,p226.00,microgyria,,Nervous System
+39724,p227.00,anomalies of cerebrum,,Nervous System
+40777,p227000,agenesis of cerebrum,,Nervous System
+103611,p227100,congenital hypoplasia of cerebrum,,Nervous System
+111258,p227z00,anomaly of cerebrum nos,,Nervous System
+32468,p228.00,anomalies of corpus callosum,,Nervous System
+41775,p228000,congenital absence of corpus callosum,,Nervous System
+39486,p228011,agenesis of corpus callosum,,Nervous System
+37600,p228100,hypoplasia of corpus callosum,,Nervous System
+103057,p228200,aplasia of corpus callosum,,Nervous System
+60648,p228z00,anomaly of corpus callosum nos,,Nervous System
+46471,p229.00,anomalies of hypothalamus,,Nervous System
+28318,p22a.00,anomalies of cerebellum,,Nervous System
+25316,p22a000,congenital absence of cerebellum,,Nervous System
+54877,p22a011,agenesis of cerebellum,,Nervous System
+44717,p22a100,hypoplasia of cerebellum,,Nervous System
+91846,p22a200,aplasia of cerebellum,,Nervous System
+44253,p22az00,anomaly of cerebellum nos,,Nervous System
+107378,p22y.00,other specified reduction deformities of brain,,Nervous System
+58163,p22y300,partial absence of septum pellucidum,,Nervous System
+106704,p22yz00,other reduction deformity of brain nos,,Nervous System
+64541,p22z.00,reduction deformities of brain nos,,Nervous System
+37785,p22z.11,cerebellar hypoplasia,,Nervous System
+58710,p22z.12,agenesis of part of brain nec,,Nervous System
+60216,p22z.13,hypoplasia of part of brain nec,,Nervous System
+9611,p23..00,congenital hydrocephalus,,Nervous System
+54912,p230.00,aqueduct of sylvius anomaly,,Nervous System
+40588,p230.11,hydrocephauls with anomaly of aqueduct of sylvius,,Nervous System
+46120,p230.12,stenosis of aqueduct of sylvius,,Nervous System
+55960,p230100,aqueduct of sylvius stenosis,,Nervous System
+92350,p231.00,foramen of magendie atresia,,Nervous System
+59040,p232.00,foramen of luschka atresia,,Nervous System
+51345,p233.00,atresia of foramina of magendie and luschka,,Nervous System
+18537,p233.11,dandy - walker syndrome,,Nervous System
+97663,p233.12,hydrocephalus with atresia of foramina of magendie+luschka,,Nervous System
+46583,p234.00,hydranencephaly,,Nervous System
+111641,p23y.00,other specified congenital hydrocephalus,,Nervous System
+28353,p23z.00,congenital hydrocephalus nos,,Nervous System
+47514,p24..00,other specified brain anomalies,,Nervous System
+39391,p240.00,congenital cerebral cyst,Yes,Nervous System
+95632,p240.11,congenital intracerebral cyst,,Nervous System
+107846,p240000,single congenital cerebral cyst,Yes,Nervous System
+109441,p240100,multiple congenital cerebral cysts,,Nervous System
+28824,p240200,schizencephaly,,Nervous System
+71733,p240z00,congenital cerebral cyst nos,Yes,Nervous System
+37474,p241.00,macroencephaly,,Nervous System
+33442,p241.11,megalencephaly,,Nervous System
+71451,p241.12,enlarged brain,,Nervous System
+27537,p241.13,macrocephaly,Yes,Other
+72094,p242.00,macrogyria,,Nervous System
+62992,p243.00,porencephaly,,Nervous System
+110763,p244.00,ulegyria,,Nervous System
+60195,p245.00,congenital adhesions of cerebral meninges,,Nervous System
+12284,p246.00,septo-optic dysplasia,,Nervous System
+51745,p247.00,dysplasia of cerebral cortex,,Nervous System
+64134,p248.00,congenital dilated lateral ventricles of brain,,Nervous System
+50169,p249.00,megalencephaly,,Nervous System
+95697,p24a.00,hemimegalencephaly,,Nervous System
+62242,p24z.00,other specified brain anomalies nos,,Nervous System
+70266,p25..00,other specified spinal cord anomalies,,Nervous System
+15988,p250.00,diastematomyelia,,Nervous System
+44939,p251.00,hydromyelia,,Nervous System
+48940,p252.00,congenital tethering of spinal cord,,Nervous System
+95591,p25y.00,other specified anomalies of spinal cord,,Nervous System
+65162,p25y.11,neuroenteric cyst,,Nervous System
+93903,p25y000,amyelia,,Nervous System
+67498,p25y100,atelomyelia,,Nervous System
+69221,p25y111,myelatelia,,Nervous System
+45142,p25y112,myelodysplasia of spinal cord,,Nervous System
+45918,p25y200,congenital anomaly of spinal meninges,,Nervous System
+61647,p25y300,defective development of the cauda equina,,Nervous System
+73166,p25y400,spinal cord hypoplasia,,Nervous System
+104035,p25yz00,other specified spinal cord anomalies nos,,Nervous System
+16164,p25z.00,spinal cord anomalies nos,,Nervous System
+105186,p26..00,disorder of neuronal migration and differentiation,,Nervous System
+73819,p2x..00,other specified nervous system anomalies,,Nervous System
+67476,p2x0.00,"agenesis of nerve, unspecified",,Nervous System
+22738,p2x1.00,brachial plexus displacement,,Nervous System
+43808,p2x6.00,chiari malformation type i,,Nervous System
+81446,p2x7.00,congenital facial nerve palsy,,Nervous System
+50663,p2xz.00,other specified nervous system anomalies nos,,Nervous System
+93911,p2xz000,agenesis of nerve nec,,Nervous System
+39392,p2xz100,congenital optic atrophy,,Nervous System
+73574,p2y..00,unspec nervous system anomaly of brain/cord/nervous system,,Nervous System
+8893,p2y0.00,congenital brain anomaly,,Nervous System
+36974,p2y1.00,congenital spinal cord anomaly,,Nervous System
+67870,p2yz.00,unspecified nervous system anomaly nos,,Nervous System
+15345,p2z..00,nervous system anomalies nos,,Nervous System
+4086,p3...00,congenital eye anomalies,,Eye
+23605,p30..00,anophthalmos,,Eye
+31592,p300.00,"clinical anophthalmos, unspecified",,Eye
+56285,p300100,agenesis of eye,,Eye
+68208,p300200,congenital absence of eye,,Eye
+70742,p300z00,anophthalmos nos,,Eye
+51185,p301.00,congenital cystic eyeball,,Eye
+67756,p303.00,congenital absence of eyes,,Eye
+37557,p30z.00,anophthalmos nos,,Eye
+26462,p31..00,microphthalmos,,Eye
+72284,p310.00,"microphthalmos, unspecified",,Eye
+37781,p310000,dysplasia of eye,,Eye
+23889,p310100,hypoplasia of eye,,Eye
+65888,p310200,rudimentary eye,,Eye
+64325,p310z00,unspecified microphthalmos nos,,Eye
+31651,p311.00,simple microphthalmos,,Eye
+48507,p312.00,microphthalmos with other eye anomaly,,Eye
+63439,p31z.00,microphthalmos nos,,Eye
+31328,p32..00,buphthalmos,,Eye
+23407,p320000,congenital glaucoma,,Eye
+98721,p320011,newborn glaucoma,,Eye
+111582,p320z00,unspecified buphthalmos nos,,Eye
+96390,p321.00,simple buphthalmos,,Eye
+92890,p321.11,enlarged eye nos,,Eye
+70469,p32z.00,buphthalmos nos,,Eye
+4148,p33..00,congenital cataract and lens anomalies,,Eye
+35351,p33..11,congenital lens anomaly,,Eye
+299,p330.00,"congenital cataract, unspecified",,Eye
+59914,p331.00,capsular and subcapsular cataract,,Eye
+18089,p331000,capsular cataract,,Eye
+11255,p331100,subcapsular cataract,,Eye
+88738,p331z00,capsular or subcapsular cataract nos,,Eye
+96385,p332.00,cortical and zonular cataract,,Eye
+60425,p332000,cortical cataract - congenital,,Eye
+63429,p332100,zonular cataract,,Eye
+98962,p332z00,cortical or zonular cataract nos,,Eye
+63212,p333.00,nuclear cataract - congenital,,Eye
+39081,p334000,total congenital cataract,,Eye
+71623,p334z00,total or subtotal congenital cataract nos,,Eye
+69823,p335.00,congenital aphakia,,Eye
+62531,p335.11,congenital absence of lens,,Eye
+107635,p335.12,agenesis of lens,,Eye
+66637,p336.00,anomalies of lens shape,,Eye
+26127,p336200,coloboma of lens,,Eye
+61381,p336z00,anomalies of lens shape nos,,Eye
+29474,p337.00,congenital ectopic lens,,Eye
+95791,p337.11,congenital displaced lens,,Eye
+55135,p337.12,congenital dislocation of lens,,Eye
+70700,p33y.00,other specified congenital cataract or lens anomaly,,Eye
+27898,p33y000,blue dot cataract,,Eye
+99424,p33y100,congenital membranous cataract,,Eye
+90279,p33yz00,other congenital cataract or lens anomaly nos,,Eye
+45926,p33z.00,congenital cataract or lens anomaly nos,,Eye
+21632,p34..00,anterior chamber anomalies,,Eye
+36003,p340.00,corneal size and shape anomalies,,Eye
+57790,p340000,microcornea,,Eye
+23783,p340100,congenital keratoconus,,Eye
+47661,p340200,cornea plana,,Eye
+58005,p340z00,corneal size or shape anomalies nos,,Eye
+11583,p341.00,congenital corneal opacities,,Eye
+32615,p341.11,arcus juvenilis,Yes,Eye
+71732,p341000,congenital corneal opacity with visual deficit,,Eye
+86412,p341100,congenital corneal opacity without visual deficit,,Eye
+66259,p341z00,congenital corneal opacities nos,,Eye
+60073,p342.00,specified anterior chamber anomalies,,Eye
+62483,p342z00,specified anterior chamber anomalies nos,,Eye
+99401,p344.11,goniodysgenesis,,Eye
+44851,p344000,congenital anisocoria,,Eye
+73673,p344100,atresia of pupil,,Eye
+15902,p344200,coloboma of iris,,Eye
+40571,p344300,corectopia,,Eye
+92173,p344400,polycoria,,Eye
+71298,p344500,hypoplasia of iris,,Eye
+59944,p344600,aplasia of iris,,Eye
+63097,p344z00,other iris or ciliary body anomalies nos,,Eye
+17422,p345.00,specified anomalies of sclera,,Eye
+48943,p345z00,specified anomaly of sclera nos,,Eye
+69009,p34z.00,anterior segment anomalies nos,,Eye
+62479,p35..00,posterior chamber congenital anomalies,,Eye
+10756,p350.00,vitreous anomalies,,Eye
+21063,p350000,congenital vitreous opacity,,Eye
+42271,p350z00,vitreous anomalies nos,,Eye
+15501,p351.00,fundus coloboma,,Eye
+34924,p352.00,congenital chorioretinal degeneration,,Eye
+71724,p353000,congenital folds of the posterior segment,,Eye
+60812,p353100,congenital cysts of the posterior segment,,Eye
+62976,p355.00,other congenital retinal changes,,Eye
+22114,p355000,coloboma of retina,,Eye
+50584,p355100,congenital retinal fold,,Eye
+101194,p355200,congenital hypertrophy of retinal pigment epithelium,,Eye
+25692,p355z00,other congenital retinal changes nos,,Eye
+29719,p356.00,specified optic disc anomalies,,Eye
+19244,p356.11,optic disc congenital anomalies,,Eye
+26024,p356000,congenital optic disc coloboma,,Eye
+44929,p356z00,specified optic disc anomaly nos,,Eye
+55127,p357.00,posterior chamber vascular anomalies,,Other
+49791,p357000,congenital retinal aneurysm,,Eye
+62587,p357100,congenital arteriovenous malformation of retina,,Other
+65200,p357z00,posterior chamber vascular anomalies nos,,Other
+30000,p358.00,specified anomalies of choroid,,Eye
+21767,p358000,coloboma of choroid,,Eye
+41903,p358z00,specified anomaly of choroid nos,,Eye
+89873,p35y.00,other specified congenital anomalies of posterior chamber,,Eye
+94285,p35z.00,congenital anomalies of posterior chamber nos,,Eye
+94280,p36..00,"congenital anomalies of eyelid, lacrimal system and orbit",,Eye
+8319,p360.00,congenital ptosis,,Eye
+16690,p360.11,blepharoptosis,,Eye
+15587,p361.00,congenital eyelid deformity,Yes,Eye
+60185,p361000,ablepharon -absent eyelids,Yes,Eye
+49494,p361100,accessory eyelid,Yes,Eye
+7458,p361200,congenital entropion,Yes,Eye
+31998,p361300,congenital ectropion,Yes,Eye
+37513,p361400,congenital blepharophimosis,Yes,Eye
+39789,p361500,coloboma of eyelids,Yes,Eye
+67169,p361z00,congenital eyelid deformity nos,Yes,Eye
+48233,p362.00,other specified congenital eyelid anomalies,Yes,Eye
+67919,p362000,agenesis of cilia,Yes,Eye
+71382,p362100,agenesis of eyelid,Yes,Eye
+60907,p362200,fused eyelids,Yes,Eye
+91657,p362300,hypoplasia of eyelid,,Eye
+61084,p362z00,other specified congenital eyelid anomalies nos,Yes,Eye
+12753,p363.00,congenital lacrimal gland anomalies,,Eye
+30468,p364.00,congenital lacrimal passage anomalies,,Eye
+29686,p364.11,congenital blocked tear duct,,Eye
+39152,p364000,agenesis of lacrimal apparatus,,Eye
+93282,p364011,congenital absence of lacrimal apparatus,,Eye
+65781,p364100,agenesis of punctum lacrimale,,Eye
+97779,p364111,congenital absence of punctum lacrimale,,Eye
+65131,p364200,accessory lacrimal canal,Yes,Eye
+41479,p364300,stenosis or stricture of lacrimal duct,Yes,Eye
+11463,p364400,congenital blocked tear duct,,Eye
+70085,p364y00,other specified congenital anomaly of lacrimal passages,Yes,Eye
+16355,p364z00,congenital anomaly of lacrimal passages nos,Yes,Eye
+50282,p365.00,congenital orbit anomalies,,Eye
+68836,p36z.00,other/unspecified anomalies of eyelid/lacrimal system/orbit,,Eye
+54829,p36z000,accessory eye muscles,Yes,Eye
+64255,p36z100,hypoplasia of eye muscle,Yes,Eye
+20325,p36zz00,"eyelid, lacrimal system and orbit congenital anomalies nos",,Eye
+58909,p37..00,macrophthalmos,,Eye
+45352,p3y..00,other specified eye anomalies,,Eye
+49394,p3yz.00,other eye anomalies nos,,Eye
+43783,p3z..00,congenital eye anomalies nos,,Eye
+57556,p4...00,"ear, face and neck congenital anomalies",,"""Ear, Face & Neck"""
+5016,p40..00,ear anomalies with hearing impairment,,"""Ear, Face & Neck"""
+50016,p400.00,"ear anomalies with hearing impaired, unspecified",,"""Ear, Face & Neck"""
+46122,p401.00,congenital absence of external ear,,"""Ear, Face & Neck"""
+43777,p401000,"congenital absence of external ear, unspecified",,"""Ear, Face & Neck"""
+29900,p401011,absence of ear nos,,"""Ear, Face & Neck"""
+67353,p401100,absence of external auditory canal,,"""Ear, Face & Neck"""
+60570,p401200,ear auricle and external auditory canal absent,,"""Ear, Face & Neck"""
+72932,p401211,congenital absence ear auricle,,"""Ear, Face & Neck"""
+70139,p401300,congenital absence of auricle,,"""Ear, Face & Neck"""
+73496,p401z00,absence of external ear nos,,"""Ear, Face & Neck"""
+52802,p402.00,other external ear anomaly with hearing impairment,,"""Ear, Face & Neck"""
+25819,p402000,atresia of external auditory canal,,"""Ear, Face & Neck"""
+35987,p402100,stenosis of external auditory canal,Yes,"""Ear, Face & Neck"""
+102497,p402111,congenital stricture of external auditory canal,Yes,"""Ear, Face & Neck"""
+95103,p402112,congenital stricture of osseous meatus,Yes,"""Ear, Face & Neck"""
+72933,p402z00,other external ear anomaly with hearing impairment nos,,"""Ear, Face & Neck"""
+15968,p403.00,"middle ear anomaly, excluding ossicles",,"""Ear, Face & Neck"""
+73596,p403000,ear osseous meatus atresia,,"""Ear, Face & Neck"""
+40461,p403z00,middle ear anomaly nec nos,,"""Ear, Face & Neck"""
+41037,p404.00,anomaly of ossicles,,"""Ear, Face & Neck"""
+93483,p404000,congenital fusion of ear ossicles,,"""Ear, Face & Neck"""
+48460,p404z00,anomaly of ossicles nos,,"""Ear, Face & Neck"""
+41206,p405.00,inner ear anomalies,,"""Ear, Face & Neck"""
+63603,p405z00,inner ear anomalies nos,,"""Ear, Face & Neck"""
+27313,p40z.00,other and unspecified ear anomaly with hearing impaired,,"""Ear, Face & Neck"""
+31374,p40z.11,deafness due to congenital anomaly nec,,"""Ear, Face & Neck"""
+35677,p40z000,congenital absence of ear nos,,"""Ear, Face & Neck"""
+57053,p40zz00,ear anomaly with hearing impaired nos,,"""Ear, Face & Neck"""
+8747,p41..00,accessory ear auricle,Yes,"""Ear, Face & Neck"""
+93879,p41..11,polyotia,Yes,"""Ear, Face & Neck"""
+3013,p410.00,supernumerary ear,Yes,"""Ear, Face & Neck"""
+36681,p411.00,accessory tragus,Yes,"""Ear, Face & Neck"""
+44205,p412.00,supernumerary ear lobule,Yes,"""Ear, Face & Neck"""
+45556,p413.00,"preauricular appendage, tag or lobule",Yes,"""Ear, Face & Neck"""
+17143,p413.11,preauricular appendage,Yes,"""Ear, Face & Neck"""
+8746,p413.12,preauricular tag,Yes,"""Ear, Face & Neck"""
+43131,p413.13,preauricular lobule,Yes,"""Ear, Face & Neck"""
+56864,p414.00,other ear appendage or tag,Yes,"""Ear, Face & Neck"""
+61057,p414.11,other ear appendage,Yes,"""Ear, Face & Neck"""
+26004,p414.12,other ear tag,Yes,"""Ear, Face & Neck"""
+56861,p41z.00,accessory ear auricle nos,Yes,"""Ear, Face & Neck"""
+39033,p42..00,other specified ear anomalies,,"""Ear, Face & Neck"""
+14846,p420.00,congenital ear lobe absence,,"""Ear, Face & Neck"""
+15391,p421.00,macrotia - abnormally big ears,Yes,"""Ear, Face & Neck"""
+42721,p421.11,congenital big ears,Yes,"""Ear, Face & Neck"""
+5624,p422.00,microtia - abnormally small ears,Yes,"""Ear, Face & Neck"""
+65828,p422.11,congenital small ears,Yes,"""Ear, Face & Neck"""
+29327,p423.00,eustachian tube anomalies,,"""Ear, Face & Neck"""
+101739,p423100,congenital stenosis of eustachian tube,,"""Ear, Face & Neck"""
+71280,p423z00,eustachian tube anomalies nos,,"""Ear, Face & Neck"""
+35784,p42z.00,other specified ear anomalies nos,,"""Ear, Face & Neck"""
+1162,p42z000,congenital bat ear,Yes,"""Ear, Face & Neck"""
+38959,p42z100,darwin's tubercle,Yes,"""Ear, Face & Neck"""
+53579,p42z200,congenital pointed ear,Yes,"""Ear, Face & Neck"""
+48936,p42z300,congenital prominent auricle,Yes,"""Ear, Face & Neck"""
+93302,p42z400,congenital ridge ear,Yes,"""Ear, Face & Neck"""
+48258,p42z500,other mis-shapen ear,Yes,"""Ear, Face & Neck"""
+34701,p42z511,aztec ear,Yes,"""Ear, Face & Neck"""
+93223,p42z512,cat ear,Yes,"""Ear, Face & Neck"""
+98996,p42z513,vulcan ear,Yes,"""Ear, Face & Neck"""
+64038,p42z600,misplaced ears,Yes,"""Ear, Face & Neck"""
+54583,p42z611,low-set ears,Yes,"""Ear, Face & Neck"""
+36169,p42zz00,other ear anomalies nos,,"""Ear, Face & Neck"""
+1379,p43..00,congenital ear anomaly nos,,"""Ear, Face & Neck"""
+41869,p44..00,"branchial cleft, cyst or fistula; preauricular sinus",Yes,"""Ear, Face & Neck"""
+26340,p440.00,branchial cleft sinus and fistula,Yes,"""Ear, Face & Neck"""
+35369,p440.11,branchial cleft,Yes,"""Ear, Face & Neck"""
+26217,p440.12,branchial cleft sinus,Yes,"""Ear, Face & Neck"""
+70435,p440000,"branchial cleft vestige, unspecified",Yes,"""Ear, Face & Neck"""
+37476,p440100,branchial cleft external sinus,Yes,"""Ear, Face & Neck"""
+70474,p440200,branchial cleft internal sinus,Yes,"""Ear, Face & Neck"""
+16154,p440300,branchial cleft fistula,Yes,"""Ear, Face & Neck"""
+71872,p440z00,branchial cleft vestige nos,Yes,"""Ear, Face & Neck"""
+1324,p441.00,branchial cleft cyst,Yes,"""Ear, Face & Neck"""
+51335,p442.00,cervical auricle,Yes,"""Ear, Face & Neck"""
+27852,p443.00,preauricular sinus and fistula,Yes,"""Ear, Face & Neck"""
+12522,p443000,preauricular sinus,Yes,"""Ear, Face & Neck"""
+43702,p443100,preauricular fistula,Yes,"""Ear, Face & Neck"""
+52335,p443z00,preauricular sinus or fistula nos,Yes,"""Ear, Face & Neck"""
+29843,p444.00,preauricular cyst,Yes,"""Ear, Face & Neck"""
+73953,p44y.00,other branchial cleft anomalies,Yes,"""Ear, Face & Neck"""
+43843,p44z.00,"branchial cleft,cyst,or fistula preauricular anomaly os/nos",Yes,"""Ear, Face & Neck"""
+67579,p44z000,fistula of congenital auricle,Yes,"""Ear, Face & Neck"""
+96615,p44z100,cervicoaural fistula,Yes,"""Ear, Face & Neck"""
+49632,p44zz00,"branchial cleft, cyst or fistula preauricular anomaly nos",Yes,"""Ear, Face & Neck"""
+35616,p45..00,congenital webbing of neck,,"""Ear, Face & Neck"""
+58011,p451.00,pterygium colli,,"""Ear, Face & Neck"""
+99458,p45z.00,congenital webbing of neck nos,,"""Ear, Face & Neck"""
+59565,p4y..00,other specified face and neck anomalies,,"""Ear, Face & Neck"""
+63318,p4y0.00,macrocheilia,Yes,"""Ear, Face & Neck"""
+26847,p4y0.11,lip hypertrophy,Yes,"""Ear, Face & Neck"""
+55541,p4y1.00,microcheilia,Yes,"""Ear, Face & Neck"""
+34837,p4y2.00,macrostomia,Yes,"""Ear, Face & Neck"""
+36831,p4y3.00,microstomia,Yes,"""Ear, Face & Neck"""
+35942,p4y4.00,congenital absence of chin,,"""Ear, Face & Neck"""
+35256,p4y5.00,mid-facial hypoplasia,,"""Ear, Face & Neck"""
+16271,p4yz.00,other specified face and neck anomalies nos,,"""Ear, Face & Neck"""
+70982,p4z..00,congenital face or neck anomaly nos,,"""Ear, Face & Neck"""
+93198,p4z0.00,congenital anomaly of neck nos,,"""Ear, Face & Neck"""
+37784,p4z1.00,congenital anomaly of face nos,,"""Ear, Face & Neck"""
+31518,p5...00,bulbus cordis and cardiac septal closure anomalies,,Heart
+21943,p5...11,cardiac septal defects,,Heart
+23754,p5...12,"congenital heart disease, septal and bulbar anomalies",,Heart
+18785,p5...13,heart septal defects,,Heart
+4964,p50..00,common aorto-pulmonary trunk,,Heart
+37405,p50..11,aortic septal defect,,Heart
+98893,p50..12,common truncus,,Heart
+72604,p500.00,absent septum between aorta and pulmonary artery,,Heart
+61914,p500.11,persistent truncus arteriosus,,Heart
+45187,p500.12,truncus arteriosus,,Heart
+45505,p501.00,aortic septal defect,,Heart
+51418,p501.11,aortopulmonary window,,Heart
+65330,p501.12,aorticopulmonary septal defect,,Heart
+66245,p502.00,persistent truncus arteriosus,,Heart
+41371,p502.11,truncus arteriosus,,Heart
+94344,p50z.00,common aorto-pulmonary trunk nos,,Heart
+2816,p51..00,transposition of great vessels,,Heart
+69858,p510.00,total great vessel transposition,,Heart
+1778,p511.00,double outlet right ventricle,,Heart
+23988,p511100,dextratransposition of aorta,,Heart
+102980,p511200,incomplete great vessel transposition,,Heart
+40025,p511300,taussig-bing syndrome,,Heart
+65318,p511z00,double outlet right ventricle nos,,Heart
+63390,p512.00,corrected great vessel transposition,,Heart
+62169,p51y.00,other specified transposition of great vessels,,Heart
+61100,p51y.11,transposition of aorta,,Heart
+73539,p51z.00,great vessel transposition nos,,Heart
+100622,p51z.11,transposition of arterial trunk nec,,Heart
+4864,p52..00,tetralogy of fallot,,Heart
+38967,p520.00,"tetralogy of fallot, unspecified",,Heart
+23692,p520.11,ventricular septal defect in fallot's tetralogy,,Heart
+71252,p520.12,dextraposition of aorta in fallot's tetralogy,,Heart
+51649,p521.00,pentalogy of fallot,,Heart
+63046,p52z.00,tetralogy of fallot nos,,Heart
+19969,p53..00,common ventricle,,Heart
+246,p54..00,ventricular septal defect,,Heart
+42132,p540.00,"ventricular septal defect, unspecified",,Heart
+56575,p541.00,interventricular septal defect,,Heart
+67657,p542.00,left ventricle to right atrial communication,,Heart
+9011,p543.00,eisenmenger's complex,,Heart
+51897,p544.00,gerbode's defect,,Heart
+20153,p545.00,roger's disease,,Heart
+54772,p54y.00,other specified ventricular septal defect,,Heart
+34067,p54z.00,ventricular septal defect nos,,Heart
+7474,p55..00,ostium secundum atrial septal defect,,Heart
+3255,p550.00,atrial septal defect nos,,Heart
+40673,p550.11,auricular septal defect nos,,Heart
+28174,p550.12,interatrial septal defect nec,,Heart
+72577,p550.13,interauricular septal defect,,Heart
+3625,p551.00,patent foramen ovale,Yes,Heart
+37816,p552.00,persistent ostium secundum,,Heart
+109853,p552.11,patent ostium secundum,,Heart
+59144,p553.00,lutembacher's syndrome,,Heart
+53088,p55y.00,other specified ostium secundum atrial septal defect,,Heart
+18395,p55y.11,other specified atrial septal defect,,Heart
+54243,p55z.00,ostium secundum atrial septal defect nos,,Heart
+63340,p56..00,endocardial cushion defects,,Heart
+51053,p561.00,ostium primum defect,,Heart
+93161,p561.11,persistent ostium primum,,Heart
+101393,p56y.00,other specified endocardial cushion defects,,Heart
+49702,p56z.00,endocardial cushion defects nos,,Heart
+55535,p56z000,common atrium,,Heart
+61715,p56z011,cor triloculare biventriculare,,Heart
+43049,p56z100,common atrioventricular canal,,Heart
+44896,p56z200,common atrioventricular-type ventricular septal defect,,Heart
+73816,p56zz00,endocardial cushion defects nos,,Heart
+46117,p58..00,double outlet left ventricle,,Heart
+9361,p59..00,isomerism of atrial appendages,,Heart
+48205,p5x..00,congenital malforms of cardiac chambers+connections unsp,,Heart
+66401,p5y..00,other heart bulb and septal closure defect,,Heart
+54196,p5z..00,heart bulb or septal closure defects nos,,Heart
+5621,p6...00,other congenital heart anomalies,,Heart
+39992,p60..00,pulmonary valve anomalies,,Heart
+69940,p600.00,"pulmonary valve anomaly, unspecified",,Heart
+3862,p601.00,congenital atresia of the pulmonary valve,,Heart
+54488,p601000,hypoplasia of pulmonary valve,,Heart
+93561,p601z00,congenital atresia of pulmonary valve nos,,Heart
+22778,p602.00,congenital pulmonary stenosis,,Heart
+45452,p602100,congenital fusion of pulmonary valve segment,,Heart
+33919,p602z00,congenital pulmonary stenosis nos,,Heart
+21851,p603.00,right hypoplastic heart syndrome,,Heart
+68982,p603.11,pseudotruncus arteriosus,,Heart
+44478,p60z.00,other pulmonary valve anomalies,,Heart
+107150,p60z000,congenital insufficiency of the pulmonary valve,,Heart
+52607,p60z100,fallot's trilogy,,Heart
+70880,p60zz00,other pulmonary valve anomaly nos,,Heart
+12752,p61..00,congenital tricuspid atresia and stenosis,,Heart
+21272,p610.00,congenital tricuspid atresia,,Heart
+69169,p611.00,congenital tricuspid stenosis,,Heart
+100065,p61z.00,congenital tricuspid atresia or stenosis nos,,Heart
+23709,p62..00,ebstein's anomaly,,Heart
+6886,p63..00,congenital aortic valve stenosis,,Heart
+8636,p64..00,congenital aortic valve insufficiency,,Heart
+58734,p640.00,"congenital aortic valve insufficiency, unspecified",,Heart
+3300,p641.00,bicuspid aortic valve,,Heart
+6843,p64z.00,congenital aortic valve insufficiency nos,,Heart
+57091,p65..00,congenital mitral stenosis,,Heart
+68888,p65..11,duroziez's disease,,Heart
+90551,p650.00,"congenital mitral stenosis, unspecified",,Heart
+73592,p651.00,fused commissure of the mitral valve,,Heart
+63069,p652.00,parachute deformity of the mitral valve,,Heart
+100291,p65z.00,congenital mitral stenosis nos,,Heart
+61651,p66..00,congenital mitral insufficiency,,Heart
+20772,p67..00,hypoplastic left heart syndrome,,Heart
+89256,p68..00,congenital heart disease,,Heart
+108457,p69..00,left ventricular outflow tract obstruction,,Heart
+46825,p6w..00,congenital malformation of aortic and mitral valves unsp,,Heart
+50529,p6x..00,"congenital malformation of tricuspid valve, unspecified",,Heart
+24789,p6y..00,other specified heart anomalies,,Heart
+16539,p6y0.00,subaortic stenosis,,Heart
+34668,p6y1.00,cor triatriatum,,Heart
+9401,p6y2.00,pulmonary infundibular stenosis,,Heart
+99128,p6y3.00,obstructive heart anomaly nec,,Heart
+32748,p6y3000,uhl's disease,,Heart
+104266,p6y3100,right ventricular outflow tract obstruction,,Heart
+97818,p6y3z00,obstructive heart anomaly nec nos,,Heart
+25481,p6y4.00,coronary artery anomaly,,Heart
+71956,p6y4000,congenital absence of coronary artery,,Heart
+62163,p6y4100,single coronary artery,,Heart
+103894,p6y4300,coronary artery from pulmonary trunk,,Heart
+31373,p6y4400,anomalous coronary artery communication,,Heart
+28705,p6y4411,congenital coronary arterio-venous fistula,,Heart
+49901,p6y4500,congenital coronary aneurysm,,Heart
+103412,p6y4600,congenital stricture of coronary artery,,Heart
+53546,p6y4z00,coronary artery anomaly nos,,Heart
+24533,p6y5.00,congenital heart block,,Heart
+68097,p6y5000,"congenital heart block, unspecified",,Heart
+52310,p6y5100,congenital complete atrio-ventricular heart block,,Heart
+102167,p6y5200,congenital incomplete atrio-ventricular heart block,,Heart
+70992,p6y5z00,congenital heart block nos,,Heart
+71678,p6y6.00,heart and cardiac apex malposition,,Heart
+20466,p6y6.11,ectopic heart,,Heart
+3774,p6y6000,dextrocardia,,Heart
+72259,p6y6100,levocardia,,Heart
+69556,p6y6111,laevocardia,,Heart
+72405,p6y6200,mesocardia,,Heart
+50284,p6y6300,ectopia cordis,,Heart
+103584,p6y6400,abdominal heart,,Heart
+92426,p6y6z00,heart or cardiac apex malposition nos,,Heart
+52615,p6y7.00,myocardial bridge of coronary artery,,Heart
+98061,p6y8.00,congenital dextroposition of heart,,Heart
+24854,p6yy.00,other specified heart anomalies,,Heart
+44767,p6yy.11,hypoplastic aortic orifice or valve,,Heart
+9232,p6yy.12,hypoplasia of heart nos,,Heart
+93089,p6yy000,atresia of cardiac vein,,Heart
+68063,p6yy100,hypoplasia of cardiac vein,,Heart
+34007,p6yy200,congenital cardiomegaly,,Heart
+49133,p6yy300,congenital left ventricular diverticulum,,Heart
+50362,p6yy400,congenital pericardial defect,,Heart
+101896,p6yy411,congenital absence of pericardium,,Heart
+68894,p6yy500,congenital anomaly of myocardium,,Heart
+108193,p6yy600,congenital aneurysm of heart,,Heart
+37451,p6yy700,atresia of heart valve nec,,Heart
+23752,p6yy900,congenital epicardial cyst,,Heart
+95785,p6yya00,hemicardia,,Heart
+111360,p6yyb00,supernumerary heart valve cusps nec,,Heart
+24714,p6yyz00,other specified heart anomalies nos,,Heart
+247,p6z..00,congenital heart anomaly nos,,Heart
+8279,p6z..11,chiari's malformation,,Nervous System
+26626,p6z0.00,unspecified anomaly of heart valve,,Heart
+109236,p6z1.00,anomalous bands of heart,,Heart
+103432,p6z1000,anomalous atrial bands,,Heart
+64778,p6z1100,anomalous ventricular bands,,Heart
+38968,p6z2.00,acyanotic congenital heart disease nos,,Heart
+3863,p6z3.00,cyanotic congenital heart disease nos,,Heart
+7262,p6z3.11,blue baby,,Heart
+11982,p6zz.00,congenital heart anomaly nos,,Heart
+9778,p7...00,other congenital circulatory system anomalies,,Other
+2727,p70..00,patent ductus arteriosus,If gest. age <37 weeks,Heart
+94257,p70..11,botalli's patent ductus,If gest. age <37 weeks,Heart
+3301,p71..00,coarctation of aorta,,Heart
+57932,p710.00,"hypoplasia of aortic arch, unspecified",,Heart
+72295,p711.00,preductal coarctation of aorta,,Heart
+106756,p711.13,preductal aortic stenosis,,Heart
+70853,p712.00,postductal coarctation of aorta,,Heart
+64953,p712.12,postductal interruption of aorta,,Heart
+49279,p712.13,postductal aortic stenosis,,Heart
+37323,p713.00,interruption of aortic arch,,Heart
+16731,p713.11,stenosis of aortic arch,,Heart
+59907,p71z.00,coarctation of aorta nos,,Heart
+50220,p72..00,other anomalies of aorta,,Heart
+40030,p72..11,anomalies of the aorta excluding coarction,,Heart
+62230,p720.00,"anomaly of aorta, unspecified",,Heart
+30725,p721.00,aortic arch anomalies,,Heart
+67286,p721000,anomalous origin of the aortic arch,,Heart
+30949,p721100,dextraposition of aorta,,Heart
+69589,p721111,overriding aorta,,Heart
+46530,p721200,double aortic arch,,Heart
+38731,p721211,vascular ring,,Heart
+49731,p721300,kommerell's diverticulum,,Heart
+44334,p721500,persistent right aortic arch,Yes,Heart
+90486,p721600,"vascular ring, aorta",,Heart
+70691,p721700,overriding aorta,,Heart
+34176,p721z00,aortic arch anomalies nos,,Heart
+68198,p722.00,atresia and stenosis of aorta,,Heart
+59298,p722100,aplasia of aorta,,Heart
+37515,p722200,hypoplasia of aorta,,Heart
+63768,p722300,stricture of aorta,,Heart
+53964,p722400,supra-valvular aortic stenosis,,Heart
+58189,p722411,congenital stenosis of ascending aorta,,Heart
+62376,p722500,atresia of aorta,,Heart
+58076,p722z00,atresia or stenosis of aorta nos,,Heart
+44781,p72z.00,other anomalies of aorta nos,,Heart
+49474,p72z000,aneurysm of sinus of valsalva,,Heart
+56200,p72z100,congenital aneurysm of aorta,,Heart
+11293,p72z111,congenital dilatation of aorta,,Heart
+11945,p72zz00,other anomaly of aorta nos,,Heart
+11127,p73..00,pulmonary artery anomalies,,Heart
+63187,p730.00,"pulmonary artery anomaly, unspecified",,Heart
+67928,p731.00,pulmonary artery agenesis,,Heart
+103672,p731.11,congenital absence of pulmonary artery,,Heart
+31112,p732.00,pulmonary artery atresia,,Heart
+18982,p733.00,coarctation of the pulmonary artery,,Heart
+54487,p734.00,hypoplasia of the pulmonary artery,,Heart
+2670,p735.00,stenosis of pulmonary artery,If gest. age <37 weeks,Heart
+111389,p735.11,congenital stricture of pulmonary artery,,Heart
+96225,p736.00,pulmonary arterio-venous aneurysm,,Heart
+47853,p736.11,pulmonary arterio-venous fistula,,Heart
+10047,p736.12,pulmonary arterio-venous malformation,,Heart
+65029,p737.00,pulmonary artery aneurysm,,Heart
+36307,p737.11,dilatation of pulmonary artery,,Heart
+32508,p738.00,atresia of pulmonary artery with septal defect,,Heart
+52411,p73y.00,other specified anomaly of pulmonary artery,,Heart
+42127,p73z.00,pulmonary artery anomaly nos,,Heart
+42684,p74..00,anomalies of great veins,,Heart
+45291,p740.00,"anomaly of great veins, unspecified",,Heart
+74890,p740000,"anomaly of the pulmonary veins, unspecified",,Heart
+50886,p740100,"anomaly of the vena cava, unspecified",,Heart
+51941,p741.00,total anomalous pulmonary venous return - tapvr,,Heart
+105037,p741000,subdiaphragmatic total anomalous pulmonary venous return,,Heart
+103039,p741100,supradiaphragmatic total anomalous pulmonary venous return,,Heart
+68784,p741z00,total anomalous pulmonary venous return nos,,Heart
+46176,p742.00,partial anomalous pulmonary venous return,,Heart
+63677,p742.11,anomalous termination of right pulmonary vein,,Heart
+101307,p743.00,anomalous portal vein termination,,Heart
+99649,p744.00,portal vein - hepatic artery fistula,,Heart
+73663,p74z.00,other great vein anomalies,,Heart
+100772,p74z.11,persistent left posterior cardinal vein,,Heart
+101520,p74z000,absence of inferior vena cava,,Heart
+72655,p74z100,absence of superior vena cava,,Heart
+51675,p74z200,stenosis of inferior vena cava,,Heart
+41197,p74z300,stenosis of superior vena cava,,Heart
+110026,p74z500,persistent left superior vena cava,Yes,Heart
+36606,p74z600,scimitar syndrome,,Heart
+71874,p74z700,transposition of pulmonary veins,,Heart
+51911,p74z800,atresia of pulmonary vein,,Heart
+73554,p74zz00,other great vein anomaly nos,,Heart
+24207,p75..00,absence or hypoplasia of the umbilical artery,Yes,Other
+98124,p750.00,"congenital absence of umbilical artery, unspecified",Yes,Other
+31429,p752.00,single umbilical artery,Yes,Other
+61765,p753.00,two umbilical vessels,,Other
+68898,p75z.00,absence or hypoplasia of the umbilical artery nos,Yes,Other
+45384,p76..00,other peripheral vascular system anomalies,,Other
+65384,p76..11,other congenital anomalies of peripheral arteries,,Other
+22070,p76..12,other congenital anomalies of peripheral veins,,Other
+105717,p760.00,absence of artery nec,,Other
+42389,p761.00,anomaly of artery nec,,Other
+68310,p762.00,atresia of artery nec,,Other
+72950,p763.00,absence of vein nec,,Other
+47670,p764.00,anomaly of vein nec,,Other
+18269,p766.00,peripheral arterio-venous aneurysm,,Other
+10401,p766.11,peripheral arterio-venous malformation,,Other
+61062,p767.00,congenital peripheral aneurysm,,Other
+40430,p767.11,cirsoid aneurysm,,Other
+16710,p768.00,congenital phlebectasia,,Other
+58591,p769.00,congenital arterial stricture,,Other
+8511,p769000,renal artery stenosis,,Other
+35208,p76a.00,congenital varix,,Other
+55078,p76b.00,multiple renal arteries,,Other
+60755,p76b.11,accessory renal artery,,Other
+50786,p76c.00,anomalies of renal artery nec,,Other
+92629,p76c000,aberrant main renal artery,,Other
+97401,p76cz00,anomaly of renal artery nec nos,,Other
+1354,p76d.00,arteriovenous malformation,,Other
+47814,p76e.00,aber retro-oesophag subclavian artery causing dysphag lusori,,Other
+108675,p76y.00,congenital anomaly of peripheral vascular system os,,Other
+107735,p76y100,four vessels in umbilical cord,,Other
+73738,p76yz00,other congenital anomaly of peripheral vascular system nos,,Other
+56429,p76z.00,peripheral vascular system anomaly nos,,Other
+45214,p77..00,arteriovenous malformation of precerebral vessels,,Other
+29738,p7w..00,"congenital malformation of circulatory system, unspecif",,Other
+45910,p7x..00,"congenital malformation of great arteries, unspecified",,Other
+40320,p7y..00,other specified circulatory system anomalies,,Other
+31451,p7y0.00,cerebrovascular system anomalies,,Other
+55893,p7y0000,"congenital anomaly of cerebral vessel, unspecified",,Other
+24424,p7y0100,congenital cerebral arteriovenous aneurysm,,Other
+95800,p7y0111,congenital arteriovenous fistula of brain,,Other
+44581,p7y0112,congenital cerebral arteriovenous malformation,,Other
+36666,p7y0200,congenital brain aneurysm nec,,Other
+95798,p7y0400,vein of galen malformation,,Other
+94105,p7y0y00,other specified cerebrovascular anomaly,,Other
+60781,p7y0z00,cerebrovascular system anomaly nos,,Other
+101592,p7yz.00,other cardiovascular system anomaly nos,,Other
+63173,p7yz000,congenital aneurysm nec,,Other
+56810,p7yz100,congenital chylothorax,,Other
+65499,p7yzz00,other cardiovascular system anomaly nos,,Other
+43297,p7z..00,circulatory system anomaly nos,,Other
+46398,p8...00,respiratory system congenital anomalies,,Respiratory
+31027,p80..00,choanal atresia,,Respiratory
+66643,p800.00,"choanal atresia, unspecified",,Respiratory
+68606,p802.00,atresia of the posterior nares,,Respiratory
+107172,p803.00,congenital stenosis of the anterior nares,,Respiratory
+96389,p804.00,congenital stenosis of the posterior nares,,Respiratory
+60514,p80z.00,choanal atresia nos,,Respiratory
+45438,p81..00,other anomalies of nose,,Other
+15715,p810.00,"congenital nose deformity, unspecified",,Other
+52579,p811.00,absent nose,,Other
+102794,p811000,agenesis of nose,,Other
+60987,p812.00,accessory nose,,Other
+66698,p813.00,congenital cleft nose,,Other
+37110,p814.00,deformity of nasal sinus wall,Yes,Other
+58422,p815.00,congenital notching of tip of nose,Yes,Other
+73595,p816.00,congenital perforation of the nasal sinus wall,,Other
+10793,p817.00,perforated nasal septum,,Other
+65192,p818.00,congenital fissure of nose,,Other
+28199,p819.00,congenital hypoplastic nose,,Other
+45376,p81z.00,other anomalies of nose nos,,Other
+16933,p81z.11,single nostril,,Other
+31771,p82..00,congenital web of larynx,,Other
+111186,p820.00,"congenital web of larynx, unspecified",,Other
+42855,p821.00,congenital glottic web of larynx,,Other
+97956,p822.00,congenital subglottic web of larynx,,Other
+70985,p82z.00,congenital web of larynx nos,,Other
+29373,p83..00,"other anomalies of larynx, trachea and bronchus",,Respiratory
+101497,p830200,agenesis of trachea,,Respiratory
+63530,p831.00,anomaly of laryngeal and tracheal cartilage,,Respiratory
+44151,p831000,anomaly of cricoid cartilage,,Other
+43205,p831100,anomaly of epiglottis,,Other
+47467,p831200,anomaly of thyroid cartilage,,Other
+31020,p831300,anomaly of tracheal cartilage,,Respiratory
+2910,p831400,tracheomalacia,Yes,Respiratory
+51933,p831500,laryngeal hypoplasia,,Other
+7592,p831600,laryngomalacia,Yes,Other
+104555,p831700,congenital laryngomalacia,Yes,Other
+55062,p831z00,anomaly of laryngeal or tracheal cartilage nos,,Respiratory
+72001,p832.00,atresia of larynx and trachea,,Respiratory
+61727,p832000,atresia of epiglottis,,Other
+92834,p832100,atresia of glottis,,Other
+63288,p832300,atresia of trachea,,Respiratory
+59273,p833.00,"congenital stenosis of larynx, trachea and bronchus",,Respiratory
+61450,p833000,congenital stenosis of larynx,,Other
+48818,p833100,congenital stenosis of trachea,,Respiratory
+71893,p833200,congenital stenosis of bronchus,,Respiratory
+49142,p833300,congenital subglottic stenosis,,Other
+55144,p833400,congenital supraglottic stenosis,,Other
+63637,p83y.00,"other anomaly of larynx, trachea and bronchus",,Respiratory
+37835,p83y100,congenital dilatation of trachea,,Respiratory
+45351,p83y300,congenital laryngocele,,Other
+99683,p83y500,congenital diverticulum of trachea,,Respiratory
+58868,p83y600,congenital fissure of epiglottis,,Other
+105605,p83y700,congenital cleft of posterior cricoid cartilage,,Other
+55656,p83y800,rudimentary tracheal bronchus,,Respiratory
+5405,p83y900,congenital laryngeal stridor,Yes,Other
+11845,p83yb00,congenital bronchomalacia,,Respiratory
+63507,p83yw00,other anomaly of larynx,,Other
+36474,p83yx00,"congenital malformation of larynx, unspecified",,Other
+70193,p83yx00,other anomaly of trachea,,Other
+104976,p83yy00,other anomaly of bronchus,,Respiratory
+103042,p83yz00,"other anomaly of larynx, trachea or bronchus nos",,Respiratory
+36779,p83z.00,"other anomalies of larynx, trachea or bronchus nos",,Respiratory
+10699,p84..00,congenital cystic lung,,Respiratory
+66223,p840.00,"congenital cystic lung disease, unspecified",,Respiratory
+31820,p841.00,congenital polycystic lung,,Respiratory
+57330,p841.11,multiple lung cysts,,Respiratory
+50980,p841.12,multiple congenital bronchogenic cysts,,Respiratory
+66951,p842.00,congenital honeycomb lung,,Respiratory
+38769,p843.00,single lung cyst,,Respiratory
+15639,p843.11,lung cyst,,Respiratory
+32600,p843.12,congenital bronchogenic cyst,,Respiratory
+96586,p844.00,congenital cystic adenomatoid malformation of the lung,,Respiratory
+64802,p84y.00,other specified congenital cystic lung,,Respiratory
+33804,p84z.00,congenital cystic lung nos,,Respiratory
+26838,p85..00,"lung agenesis, hypoplasia and dysplasia",,Respiratory
+52664,p850.00,aplasia of lung,,Respiratory
+23874,p851.00,hypoplasia of lung,,Respiratory
+35661,p852.00,sequestration of lung,,Respiratory
+59444,p853.00,agenesis of lung,,Respiratory
+54384,p853.11,congenital absence of lung,,Respiratory
+68268,p853000,congenital absence of lung fissures,,Respiratory
+97185,p853100,congenital absence of lobe of lung,,Respiratory
+89691,p853z00,agenesis of lung nos,,Respiratory
+99799,p85y.00,"other specified lung agenesis, hypoplasia or dysplasia",,Respiratory
+50991,p85y000,fusion of lobes of lung,,Respiratory
+100037,p85yz00,"other lung agenesis, hypoplasia or dysplasia nos",,Respiratory
+93008,p85z.00,"lung agenesis, hypoplasia or dysplasia nos",,Respiratory
+18487,p86..00,other lung anomalies,,Respiratory
+63453,p860.00,"anomaly of lung, unspecified",,Respiratory
+56427,p861.00,congenital bronchiectasis,,Respiratory
+60290,p86y.00,other lung anomaly,,Respiratory
+48229,p86y100,azygos lobe of lung,Yes,Respiratory
+83570,p86y200,accessory lobe of lung,Yes,Respiratory
+64758,p86yz00,other lung anomaly nos,,Respiratory
+8311,p86z.00,lung anomaly nos,,Respiratory
+89730,p8y..00,other specified respiratory system anomalies,,Respiratory
+70956,p8y0.00,abnormal pericardio-pleural communication,,Heart
+39900,p8y1.00,"anomaly, pleural folds",,Respiratory
+52894,p8y2.00,atresia of nasopharynx,,Respiratory
+32883,p8y3.00,congenital cyst of mediastinum,,Respiratory
+44347,p8y4.00,congenital pulmonary lymphangiectasis,,Respiratory
+32416,p8yz.00,other specified respiratory system anomaly nos,,Respiratory
+46397,p8z..00,respiratory system anomaly nos,,Respiratory
+5374,p9...00,cleft palate and lip,,Orofacial Clefts
+2170,p90..00,cleft palate,,Orofacial Clefts
+58885,p900.00,"cleft palate, unspecified",,Orofacial Clefts
+57453,p900.11,palatoschisis,,Orofacial Clefts
+73531,p901.00,unilateral complete cleft palate,,Orofacial Clefts
+38873,p901.11,"cleft hard palate, unilateral",,Orofacial Clefts
+73558,p902.00,unilateral incomplete cleft palate,,Orofacial Clefts
+97631,p902.11,cleft uvula,,Orofacial Clefts
+57490,p902.12,"cleft soft palate, unilateral",,Orofacial Clefts
+48948,p903.00,bilateral complete cleft palate,,Orofacial Clefts
+106078,p904.00,bilateral incomplete cleft palate,,Orofacial Clefts
+97477,p904.11,"cleft soft palate, bilateral",,Orofacial Clefts
+100787,p905.00,central complete cleft palate,,Orofacial Clefts
+45313,p906.00,central incomplete cleft palate,,Orofacial Clefts
+68166,p906.11,"cleft soft palate, central",,Orofacial Clefts
+93030,p907.00,complete cleft palate nos,,Orofacial Clefts
+65623,p907.11,cleft hard palate nos,,Orofacial Clefts
+51377,p908.00,incomplete cleft palate nos,,Orofacial Clefts
+25740,p908.11,cleft soft palate nos,,Orofacial Clefts
+24846,p909.00,cleft uvula,,Orofacial Clefts
+42208,p90a.00,"cleft soft palate, bilateral",,Orofacial Clefts
+64549,p90b.00,"cleft hard palate, bilateral",,Orofacial Clefts
+101223,p90c.00,"cleft hard palate, unilateral",,Orofacial Clefts
+15364,p90z.00,cleft palate nos,,Orofacial Clefts
+2027,p91..00,cleft lip (harelip),,Orofacial Clefts
+16938,p91..11,cheiloschisis,,Orofacial Clefts
+60474,p91..12,congenital fissure of lip,,Orofacial Clefts
+16457,p910.00,"cleft lip, unspecified",,Orofacial Clefts
+63930,p911.00,unilateral complete cleft lip,,Orofacial Clefts
+54012,p912.00,unilateral incomplete cleft lip,,Orofacial Clefts
+54721,p913.00,bilateral complete cleft lip,,Orofacial Clefts
+30957,p914.00,bilateral incomplete cleft lip,,Orofacial Clefts
+52827,p915.00,central cleft lip,,Orofacial Clefts
+35374,p91z.00,cleft lip nos,,Orofacial Clefts
+5386,p92..00,cleft palate with cleft lip,,Orofacial Clefts
+105114,p92..11,cheilopalatoschisis,,Orofacial Clefts
+51301,p920.00,"cleft palate with cleft lip, unspecified",,Orofacial Clefts
+62987,p921.00,unilateral complete cleft palate with cleft lip,,Orofacial Clefts
+54144,p922.00,unilateral incomplete cleft palate with cleft lip,,Orofacial Clefts
+44977,p923.00,bilateral complete cleft palate with cleft lip,,Orofacial Clefts
+62690,p924.00,bilateral incomplete cleft palate with cleft lip,,Orofacial Clefts
+93972,p928.00,"cleft hard palate with cleft soft palate, unilateral",,Orofacial Clefts
+33902,p92a.00,"cleft hard palate with cleft lip, bilateral",,Orofacial Clefts
+62321,p92b.00,"cleft hard palate with cleft lip, unilateral",,Orofacial Clefts
+68398,p92z.00,cleft palate with cleft lip nos,,Orofacial Clefts
+50430,p9z..00,cleft palate or cleft lip nos,,Orofacial Clefts
+72991,pa...00,other congenital upper alimentary tract anomalies,,Digestive
+8394,pa0..00,tongue tie - ankyloglossia,Yes,Digestive
+30299,pa0..11,ankyloglossia,Yes,Digestive
+2227,pa0..12,tongue tie,Yes,Digestive
+35634,pa1..00,other tongue anomalies,,Digestive
+37358,pa10.00,"anomaly of tongue, unspecified",,Digestive
+39308,pa11.00,aglossia,,Digestive
+24266,pa12.00,congenital adhesions of tongue,,Digestive
+23769,pa13.00,fissure of tongue,Yes,Digestive
+32747,pa13.11,bifid tongue,,Digestive
+101593,pa13.12,double tongue,,Digestive
+30176,pa14.00,macroglossia,Yes,Digestive
+17103,pa14.11,congenital tongue hypertrophy,Yes,Digestive
+103145,pa15.00,microglossia,,Digestive
+67559,pa15.11,hypoplasia of tongue,,Digestive
+66477,pa15.12,short tongue,,Digestive
+72209,pa16.00,dislocation of tongue,,Digestive
+102580,pa17.00,cleft tongue,,Digestive
+65298,pa18.00,congenital plicated tongue,,Digestive
+33573,pa1z.00,other tongue anomalies nos,,Digestive
+96239,pa2..00,other specified mouth and pharynx anomalies,,Digestive
+68884,pa20.00,congenital absence of salivary gland,,Digestive
+43442,pa21.00,accessory salivary gland,,Digestive
+34305,pa22.00,"atresia, salivary duct",,Digestive
+49382,pa23.00,congenital salivary gland fistula,,Digestive
+96432,pa24.00,congenital fistula of lip,Yes,Digestive
+51454,pa24.11,congenital pits of lip,,Other
+40055,pa25.00,other mouth anomalies,,Digestive
+38317,pa25.11,fordyce's disease of mouth,,Digestive
+54524,pa25000,congenital absence of uvula,,Digestive
+21406,pa25100,high arched palate,Yes,Digestive
+37517,pa25y00,other congenital anomaly of palate,,Digestive
+24781,pa25z00,other mouth anomalies nos,,Digestive
+39976,pa26.00,diverticulum of pharynx,,Digestive
+3753,pa26.11,pharyngeal pouch,,Digestive
+44945,pa27.00,other pharynx anomalies,,Digestive
+56901,pa27000,imperforate pharynx,,Digestive
+49742,pa27100,congenital pharyngeal polyp,,Other
+57264,pa27z00,other pharynx anomalies nos,,Digestive
+45210,pa28.00,"ranula, congenital",Yes,Digestive
+16343,pa29.00,other anomalies of salivary glands or ducts,,Digestive
+61320,pa29.11,displacement of wharton's duct,,Digestive
+17875,pa2a.00,other anomalies of lip,,Digestive
+109860,pa2a000,congenital ectropion of lip,,Other
+21244,pa2az00,other anomaly of lip nos,,Digestive
+39628,pa2z.00,other mouth and pharynx anomalies nos,,Digestive
+37408,pa3..00,"oesophageal atresia, stenosis and fistula",,Digestive
+46814,pa3..11,congenital oesophageal ring,,Digestive
+4122,pa30.00,atresia of oesophagus,,Digestive
+16744,pa31.00,congenital oesophageal stricture,,Digestive
+49707,pa31.11,congenital oesophageal stenosis,,Digestive
+31730,pa32.00,congenital oesophageal fistula,,Digestive
+48087,pa32000,oesophagobronchial fistula,,Digestive
+37868,pa32100,oesophagotracheal fistula,,Digestive
+35042,pa32111,congenital tracheo-oesophageal fistula,,Digestive
+95311,pa32z00,congenital oesophageal fistula nos,,Digestive
+98741,pa33.00,imperforate oesophagus,,Digestive
+4620,pa34.00,webbed oesophagus,,Digestive
+98859,pa35.00,congenital absence of oesophagus,,Digestive
+98860,pa36.00,cong.absence of oesophagus with tracheo-oesophageal fistula,,Digestive
+33655,pa37.00,atresia of oesophagus with tracheo-oesophageal fistula,,Digestive
+29767,pa3y.00,"other specified oesophageal atresia, stenosis or fistula",,Digestive
+5801,pa3z.00,"oesophageal atresia, stenosis or fistula nos",,Digestive
+38320,pa4..00,other specified oesophageal anomalies,,Digestive
+22560,pa40.00,congenital dilatation of oesophagus,,Digestive
+45197,pa42.00,congenital diverticulum of oesophagus,,Digestive
+55900,pa43.00,congenital duplication of oesophagus,,Digestive
+94472,pa44.00,giant oesophagus,,Digestive
+43558,pa45.00,congenital oesophageal pouch,,Digestive
+27895,pa4z.00,other specified oesophageal anomaly nos,,Digestive
+2469,pa5..00,congenital hypertrophic pyloric stenosis,Yes,Digestive
+63866,pa50.00,congenital pyloric hypertrophy,Yes,Digestive
+69167,pa51.00,congenital pyloric spasm,Yes,Digestive
+64485,pa51.11,congenital pylorospasm,Yes,Digestive
+3263,pa52.00,congenital pyloric stenosis,Yes,Digestive
+69528,pa52.11,congenital pyloric stricture,Yes,Digestive
+22586,pa5y.00,other specified congenital pyloric obstruction,,Digestive
+60432,pa5z.00,congenital pyloric obstruction nos,,Digestive
+43215,pa6..00,congenital hiatus hernia,Yes,Digestive
+44972,pa7..00,other specified stomach anomalies,,Digestive
+72271,pa70.00,congenital cardiospasm,,Digestive
+23416,pa70.11,congenital achalasia of cardia,,Digestive
+47776,pa71.00,congenital hourglass stomach,,Digestive
+65337,pa73.00,congenital stomach diverticulum,,Digestive
+66130,pa74.00,duplication of stomach,,Digestive
+71255,pa75.00,megalogastria,,Digestive
+35278,pa76.00,microgastria,,Digestive
+66199,pa77.00,transposition of stomach,,Digestive
+33453,pa78.00,ectopic gastric mucosa,,Digestive
+51486,pa7z.00,other specified stomach anomaly nos,,Digestive
+2981,pay..00,other specified upper alimentary tract anomaly,,Digestive
+40528,paz..00,upper alimentary tract anomalies nos,,Digestive
+16845,paz0.00,unspecified anomalies of mouth and pharynx,,Digestive
+7107,paz1.00,unspecified anomalies of oesophagus,,Digestive
+25280,paz2.00,unspecified anomalies of stomach,,Digestive
+55080,pazz.00,anomalies of upper alimentary tract nos,,Digestive
+29785,pazz.11,malformation of throat,,Digestive
+42998,pb...00,other congenital digestive system anomaly,,Digestive
+5069,pb0..00,meckel's diverticulum,Yes,Digestive
+109846,pb0..12,persistent vitelline duct,,Digestive
+29302,pb00.00,"meckel's diverticulum, unspecified",Yes,Digestive
+94449,pb01.00,displaced meckel's diverticulum,Yes,Digestive
+47428,pb03.00,persistent omphalomesenteric duct,,Digestive
+51731,pb03.11,persistent vitelline duct,,Digestive
+33781,pb0z.00,meckel's diverticulum nos,Yes,Digestive
+60083,pb1..00,small intestine atresia and stenosis,,Digestive
+33584,pb10.00,atresia of small intestine,,Digestive
+40252,pb10000,"atresia of small intestine, unspecified",,Digestive
+19039,pb10100,atresia of duodenum,,Digestive
+53565,pb10200,atresia of ileum,,Digestive
+52687,pb10300,atresia of jejunum,,Digestive
+70579,pb10z00,small intestine atresia nos,,Digestive
+18406,pb11200,congenital absence of ileum,,Digestive
+66309,pb12.00,congenital obstruction of small intestine,,Digestive
+59399,pb13.00,congenital stenosis of small intestine,,Digestive
+20686,pb13000,congenital stenosis of duodenum,,Digestive
+67021,pb13100,congenital stenosis of jejunum,,Digestive
+69712,pb13200,congenital stenosis of ileum,,Digestive
+99366,pb13z00,congenital stenosis of small intestine nos,,Digestive
+47939,pb13z11,congenital stricture of small intestine,,Digestive
+68484,pb14.00,imperforate jejunum,,Digestive
+25042,pb1z.00,small intestine atresia or stenosis nos,,Digestive
+51672,pb2..00,atresia and stenosis of large intestine/rectum/anal canal,,Digestive
+27598,pb2..11,atresia large intestine,,Digestive
+50109,pb2..12,stenosis large intestine,,Digestive
+58855,pb20.00,congenital absence of large intestine,,Digestive
+59430,pb20000,congenital absence of anus,,Digestive
+44471,pb20100,congenital absence of appendix,,Digestive
+50443,pb20200,congenital absence of rectum,,Digestive
+34909,pb20211,agenesis of rectum,,Digestive
+93826,pb20300,congenital absence of anus with fistula,,Digestive
+58095,pb20400,congenital absence of rectum with fistula,,Digestive
+56383,pb20411,agenesis of rectum with fistula,,Digestive
+31468,pb21.00,atresia of large intestine,,Digestive
+31731,pb21000,atresia of anus,,Digestive
+23593,pb21100,atresia of colon,,Digestive
+46123,pb21200,atresia of rectum,,Digestive
+99653,pb21300,atresia of appendix,,Digestive
+12610,pb21400,atresia of anus with fistula,,Digestive
+71153,pb21500,atresia of rectum with fistula,,Digestive
+65762,pb22.00,congenital obstruction of large intestine,,Digestive
+108445,pb22.11,congenital stenosis of large intestine,,Digestive
+90483,pb23.00,congenital occlusion of anus,,Digestive
+97750,pb23.11,anal septum,,Digestive
+101348,pb23000,congenital occlusion of anus with fistula,,Digestive
+62671,pb23z00,congenital occlusion of anus nos,,Digestive
+48020,pb24.00,congenital stricture of anus,,Digestive
+35019,pb24.11,congenital anal stricture,,Digestive
+41359,pb24000,congenital stricture of anus with fistula,,Digestive
+100539,pb24011,congenital stenosis of anus with fistula,,Digestive
+107117,pb24100,congenital stricture of anus without mention of fistula,,Digestive
+49089,pb24111,congenital stenosis of anus without mention of fistula,,Digestive
+73497,pb24z00,congenital stricture of anus nos,,Digestive
+49501,pb25.00,congenital stricture of rectum,,Digestive
+38655,pb25.11,congenital rectal stricture,,Digestive
+69054,pb25000,congenital stricture of rectum with fistula,,Digestive
+88890,pb25011,congenital stenosis of rectum with fistula,,Digestive
+101122,pb25111,congenital stenosis of rectum without mention of fistula,,Digestive
+42469,pb25z00,congenital stricture of rectum nos,,Digestive
+4855,pb26.00,imperforate anus,,Digestive
+61401,pb26000,imperforate anus with fistula,,Digestive
+67319,pb26z00,imperforate anus nos,,Digestive
+49242,pb27.00,imperforate rectum,,Digestive
+44953,pb27000,imperforate rectum with fistula,,Digestive
+35968,pb2z.00,atresia and stenosis of large intestine/rectum/anus nos,,Digestive
+56630,pb3..00,hirschsprung's disease and allied congenital conditions,,Digestive
+94813,pb3..11,aganglionosis,,Digestive
+8546,pb30.00,hirschsprung's disease,,Digestive
+63395,pb30000,long segment hirschsprung's disease,,Digestive
+70868,pb30100,short segment hirschsprung's disease,,Digestive
+70582,pb30z00,hirschsprung's disease nos,,Digestive
+37401,pb31.00,idiopathic congenital megacolon,,Digestive
+52258,pb33.00,total intestinal aganglionosis,,Digestive
+65511,pb33.11,aganglionic macrocolon,,Digestive
+53517,pb33.12,congenital aganglionic megacolon,,Digestive
+59085,pb3z.00,hirschsprung's disease and allied congenital conditions nos,,Digestive
+31401,pb4..00,intestinal fixation anomalies,,Digestive
+67830,pb40.00,congenital intestinal adhesions,,Digestive
+69684,pb40000,congenital omental adhesions,,Digestive
+35714,pb40100,jackson's membrane,,Digestive
+67420,pb40200,congenital peritoneal adhesions,,Digestive
+47616,pb40211,congenital peritoneal bands,,Digestive
+69811,pb40z00,congenital intestinal adhesions nos,,Digestive
+5532,pb41.00,malrotation of colon and caecum,,Digestive
+56743,pb41000,malrotation of colon,,Digestive
+57921,pb41100,malrotation of caecum,,Digestive
+66375,pb41z00,malrotation of colon or caecum nos,,Digestive
+62998,pb42.00,universal mesentery,,Digestive
+50785,pb43.00,other anomalies of mesentery,,Digestive
+107768,pb4y.00,other specified intestinal fixation anomaly,,Digestive
+72186,pb4z.00,intestinal fixation anomaly nos,,Digestive
+64436,pb4z.11,malfixation of gut nec,,Digestive
+39735,pb4z.12,malrotation of gut,,Digestive
+34304,pb4z.13,malrotation of intestine,,Digestive
+50278,pb5..00,other anomalies of intestine,,Digestive
+20830,pb50.00,congenital diverticulum of colon,,Digestive
+62438,pb51.00,dolichocolon,,Digestive
+65831,pb52.00,duplication of intestine,,Digestive
+73631,pb52000,"duplication of intestine, unspecified",,Digestive
+71858,pb52100,duplication of anus,,Digestive
+68728,pb52300,duplication of caecum,,Digestive
+69243,pb52z00,duplication of intestine nos,,Digestive
+68819,pb52z11,congenital redundant rectal mucosa,,Digestive
+48260,pb52z12,congenital redundant colon,,Digestive
+67877,pb53.00,transposition of intestine,,Digestive
+71180,pb53000,"transposition of intestine, unspecified",,Digestive
+59279,pb53100,transposition of appendix,,Digestive
+66200,pb53200,transposition of caecum,,Digestive
+45857,pb53300,transposition of colon,,Digestive
+20126,pb53z00,transposition of intestine nos,,Digestive
+34967,pb54.00,ectopic anus,,Digestive
+50050,pb56.00,megaloduodenum,,Digestive
+44201,pb57.00,microcolon,,Digestive
+41508,pb58.00,persistent cloaca,,Digestive
+58998,pb58.11,anal fusion,,Digestive
+96419,pb58.12,anal and urogenital canal fusion,,Other
+37080,pb59.00,congenital anal fistula,,Digestive
+35191,pb5a.00,enterogenous cyst,,Digestive
+47726,pb5x.00,"congenital malformation of intestine, unspecified",,Digestive
+67644,pb5z.00,other intestine anomalies nos,,Digestive
+49448,pb5z.11,congenital volvulus,,Digestive
+24437,pb5z.12,short bowel syndrome,,Other
+71051,pb5z000,congenital faecal fistula,,Digestive
+60549,pb6..00,liver and biliary system anomalies,,Digestive
+40425,pb6..11,bile duct anomalies,,Digestive
+17991,pb6..12,biliary anomalies,,Digestive
+32791,pb6..13,gallbladder anomalies,,Digestive
+31201,pb6..14,liver anomalies,,Digestive
+66895,pb60.00,"liver and biliary system anomalies, unspecified",,Digestive
+29801,pb60000,"liver anomaly, unspecified",,Digestive
+62051,pb60100,"gallbladder anomaly, unspecified",,Digestive
+53764,pb60200,"bile duct anomaly, unspecified",,Digestive
+70044,pb60z00,unspecified liver and biliary system anomaly nos,,Digestive
+25597,pb61.00,biliary atresia,,Digestive
+16417,pb61000,congenital absence of bile duct,,Digestive
+49479,pb61200,congenital obstruction of bile duct,,Digestive
+95810,pb61300,congenital stricture of bile duct,,Digestive
+32803,pb61311,congenital stricture of common bile duct,,Digestive
+38389,pb61400,atresia of bile duct,,Digestive
+65889,pb61411,intrahepatic atresia of bile duct,,Digestive
+50458,pb61412,extrahepatic atresia of bile duct,,Digestive
+48269,pb61500,congenital absence of hepatic ducts,,Digestive
+50400,pb61600,atresia of hepatic ducts,,Digestive
+50444,pb61z00,biliary atresia nos,,Digestive
+27565,pb62.00,congenital cystic liver disease,,Digestive
+34903,pb62.11,congenital hepatic cyst,,Digestive
+18195,pb62000,congenital polycystic liver disease,,Digestive
+28350,pb62100,fibrocystic liver disease,,Digestive
+72000,pb62z00,congenital cystic liver disease nos,,Digestive
+42256,pb63000,congenital absence of gallbladder,,Digestive
+47576,pb63011,agenesis of gallbladder,,Digestive
+98402,pb63100,congenital absence of liver lobe,,Digestive
+20610,pb63300,riedel's lobe liver,,Digestive
+109392,pb64000,duplication of biliary duct,,Digestive
+70711,pb64100,duplication of cystic duct,,Digestive
+44475,pb64200,duplication of gallbladder,,Digestive
+100050,pb64311,accessory liver,,Digestive
+21165,pb6y.00,other liver and biliary anomalies,,Digestive
+20979,pb6y000,congenital choledochal cyst,,Digestive
+48738,pb6y100,congenital hepatomegaly,,Digestive
+72283,pb6y200,congenital floating gallbladder,,Digestive
+59270,pb6y400,intrahepatic gallbladder,,Digestive
+99447,pb6y500,hypoplasia of gallbladder,,Digestive
+46723,pb6y600,atrophy of left lobe of liver,,Digestive
+65590,pb6y700,congenital dilation of bile duct,,Digestive
+104752,pb6y800,congenital diverticulum of bile duct,,Digestive
+21784,pb6y900,liver hyperplasia,,Digestive
+66182,pb6yw00,other congenital anomaly of liver,,Digestive
+18752,pb6yw11,liver hamartoma,,Other
+22504,pb6yw12,abnormal liver lobulation,,Digestive
+110299,pb6yw13,trilobular liver,,Digestive
+46106,pb6yx00,other congenital anomaly of gallbladder,,Digestive
+94116,pb6yy00,other congenital anomaly of hepatic or bile ducts,,Digestive
+23432,pb6yz00,other liver or biliary system anomalies nos,,Digestive
+55806,pb6z.00,liver or biliary system anomalies nos,,Digestive
+18680,pb7..00,anomalies of pancreas,,Digestive
+61593,pb72.00,hypoplasia of pancreas,,Digestive
+67373,pb73.00,accessory pancreas,,Digestive
+31467,pb74.00,annular pancreas,,Digestive
+63612,pb75.00,ectopic pancreas,,Digestive
+59309,pb76.00,pancreatic heterotopia,,Digestive
+49534,pb77.00,"pancreatic cyst, congenital",,Digestive
+54778,pb7y.00,other specified anomalies of pancreas,,Digestive
+30055,pb7z.00,anomalies of pancreas nos,,Digestive
+71358,pby..00,other specified digestive system anomalies,,Digestive
+60738,pby0.00,congenital absence of digestive system nos,,Digestive
+51485,pby1.00,duplication of digestive system nos,,Digestive
+39277,pby2.00,congenital malposition of digestive system nos,,Digestive
+97491,pby2.11,ectopic digestive organs nos,,Digestive
+27341,pbyz.00,other specified digestive system anomalies nos,,Digestive
+73044,pbz..00,digestive system anomalies nos,,Digestive
+44969,pc...00,congenital genital organ anomalies,,Genital
+16696,pc0..00,anomalies of ovaries,,Genital
+42571,pc00.00,congenital absence of ovary,,Genital
+49230,pc00.11,agenesis of ovary,,Genital
+52478,pc02.00,ectopic ovary,,Genital
+17505,pc04.00,developmental ovarian cyst,Yes,Genital
+52508,pc05.00,congenital torsion of ovary,,Genital
+108796,pc0y.00,other specified congenital anomalies of ovaries,,Genital
+106909,pc0y.11,congenital ovarian dysplasia,,Genital
+71842,pc0z.00,congenital anomalies of ovaries nos,,Genital
+35862,pc1..00,fallopian tube and broad ligament anomalies,,Genital
+45459,pc10.00,"fallopian tube and broad ligament anomalies, unspecified",,Genital
+5745,pc11.00,embryonic cyst of fallopian tube and broad ligament,,Genital
+27708,pc11.11,cyst of mesenteric remnant,,Genital
+64055,pc11000,epoophoron cyst,,Genital
+10524,pc11100,fimbrial cyst,,Genital
+16519,pc11200,gartner's duct cyst,,Genital
+109824,pc11211,persistent gartner's duct,,Genital
+37765,pc11300,parovarian cyst,,Genital
+72662,pc11z00,embryonic cyst of fallopian tube or broad ligament nos,,Genital
+94779,pc1y.00,other fallopian tube and broad ligament anomalies,,Genital
+31835,pc1y000,congenital absence of fallopian tube,,Genital
+60751,pc1y100,accessory fallopian tube,,Genital
+61770,pc1y200,atresia of fallopian tube,,Genital
+99587,pc1y300,absent broad ligament,,Genital
+31924,pc1y400,accessory broad ligament,,Genital
+103718,pc1yz00,other fallopian tube or broad ligament anomalies nos,,Genital
+50263,pc1z.00,fallopian tube or broad ligament anomalies nos,,Genital
+1210,pc2..00,doubling of uterus,,Genital
+27316,pc20.00,"doubling of uterus, unspecified",,Genital
+34376,pc21.00,didelphic uterus,,Genital
+56096,pc22.00,"doubling of uterus, including cervix and vagina",,Genital
+73444,pc2z.00,doubling of uterus nos,,Genital
+29548,pc3..00,other anomalies of uterus,,Genital
+5420,pc30.00,congenital absence of uterus,,Genital
+46449,pc31.00,agenesis of uterus,,Genital
+36724,pc32.00,aplasia of uterus,,Genital
+3313,pc33.00,bicornuate uterus,,Genital
+22190,pc34.00,uterus unicornis,,Genital
+23551,pc35.00,displaced uterus,,Genital
+10682,pc35.11,congenital prolapse of uterus,,Genital
+28990,pc36.00,fistulae involving uterus with digestive or urinary tract,,Genital
+73606,pc36100,"uterovesical fistula, congenital",,Genital
+34020,pc36z00,fistula involving uterus with digestive or urinary tract nos,,Genital
+49349,pc3y.00,other specified anomalies of uterus,,Genital
+20175,pc3z.00,anomalies of uterus nos,,Genital
+37166,pc4..00,"cervical, vaginal and external female genital anomalies",,Genital
+46001,pc40.00,"cervical/vaginal/external female genital anomalies, unspec",,Genital
+98842,pc41.00,embryonic cyst of cervix/vagina/external female genitalia,,Genital
+52813,pc41000,congenital cyst of canal of nuck,,Genital
+94803,pc41011,patent canal of nuck,,Genital
+72382,pc41100,embryonal cyst of vagina,,Genital
+59290,pc41200,congenital cyst of vulva,Yes,Genital
+97489,pc41300,embryonic cyst of cervix,,Genital
+103074,pc41z00,embryonic cyst cervix/vagina/external female genitalia nos,,Genital
+9697,pc42.00,imperforate hymen,Yes,Genital
+39115,pc43.00,"rectovaginal fistula, congenital",,Genital
+34242,pc4y.00,"other cervical, vaginal and external female genital anomaly",,Genital
+57934,pc4y000,congenital absence of cervix,,Genital
+64895,pc4y100,agenesis of cervix,,Genital
+57747,pc4y200,congenital absence of clitoris,,Genital
+33252,pc4y400,congenital absence of vagina,,Genital
+66507,pc4y411,rudimentary vagina,,Genital
+31737,pc4y500,agenesis of vagina,,Genital
+102452,pc4y600,congenital absence of vulva,Yes,Genital
+66234,pc4y611,congenital absence of labium major,,Genital
+104930,pc4y612,congenital absence of labium minor,,Genital
+57195,pc4y700,agenesis of vulva,Yes,Genital
+32484,pc4y800,congenital stenosis of cervical canal,,Genital
+37200,pc4y900,congenital stenosis of vagina,,Genital
+62647,pc4y911,congenital stricture of vagina,,Genital
+65385,pc4ya00,atresia of cervix,,Genital
+36548,pc4yb00,atresia of vagina,,Genital
+24743,pc4yb11,imperforate vagina,Yes,Genital
+30143,pc4yc00,congenital vaginal cyst nec,,Genital
+38892,pc4yd00,fusion of vulva,,Genital
+18504,pc4yd11,fusion of labia,Yes,Genital
+30673,pc4ye00,congenital labial adhesions,Yes,Genital
+31869,pc4yv00,other congenital anomaly of cervix,,Genital
+34927,pc4yw00,other congenital anomaly of vagina,,Genital
+12877,pc4yw11,vaginal septum,,Genital
+27838,pc4yx00,other congenital anomaly of vulva,,Genital
+37434,pc4yy00,other congenital anomaly of clitoris,,Genital
+94713,pc4yy11,hooded clitoris,,Genital
+44127,pc4yy12,hypertrophy of clitoris,Yes,Genital
+15833,pc4yz00,other cervical/vaginal/external female genital anomaly nos,,Genital
+67727,pc4z.00,"cervical, vaginal and external female genital anomaly nos",,Genital
+634,pc5..00,undescended testicle,Yes,Other
+10965,pc50.00,cryptorchidism,Yes,Other
+44918,pc50000,"cryptorchidism, unilateral",Yes,Other
+47565,pc50100,"cryptorchidism, bilateral",Yes,Other
+33424,pc50z00,cryptorchidism nos,Yes,Other
+5241,pc51.00,ectopic testis,Yes,Other
+28215,pc5z.00,undescended testicle nos,Yes,Other
+12695,pc5z.12,maldescent of testicle,Yes,Other
+6794,pc5z000,"undescended testis, unilateral",Yes,Other
+46552,pc5z011,"maldescent of testis, unilateral",Yes,Other
+6451,pc5z100,"undescended testis, bilateral",Yes,Other
+19026,pc5z111,"maldescent of testis, bilateral",Yes,Other
+47515,pc6..00,hypospadias and epispadias,,Genital/Urinary
+2912,pc60.00,hypospadias,,Genital
+8653,pc60000,"hypospadias, penile",,Genital
+44116,pc60100,"hypospadias, penoscrotal",,Genital
+59186,pc60200,"hypospadias, perineal",,Genital
+40156,pc60300,"hypospadias, balanic",,Genital
+22511,pc60311,"hypospadias, glanular",,Genital
+18716,pc60312,"hypospadias, glandular",,Genital
+29629,pc61.00,epispadias,,Urinary
+6633,pc62.00,congenital chordee,,Genital
+66442,pc6z.00,hypospadias or epispadias nos,,Genital/Urinary
+27395,pc7..00,indeterminate sex and pseudohermaphroditism,,Genital
+46264,pc70.00,true hermaphroditism,,Genital
+101448,pc70.11,ovotestis,,Genital
+54216,pc71.00,male pseudohermaphroditism,,Genital
+64539,pc72.00,female pseudohermaphroditism,,Genital
+50066,pc7z.00,indeterminate sex or pseudohermaphroditism nos,,Genital
+29508,pc7z000,indeterminate sex nos,,Genital
+41272,pc7z011,intersex nec,,Genital
+48532,pc7z100,pseudohermaphrodite nos,,Genital
+97883,pc7z111,false hermaphrodite,,Genital
+95165,pc8..00,congenital anomaly of male genital system,,Genital
+94685,pc80.00,other specified congenital anomaly of male genital system,,Genital
+27785,pcy..00,other specified genital organ anomaly,,Genital
+44106,pcy0.00,absence of genital organ nec,,Genital
+49245,pcy0000,congenital absence of penis,,Genital
+71042,pcy0200,congenital absence of spermatic cord,,Genital
+35358,pcy0300,congenital absence of vas deferens,,Genital
+61189,pcy0z00,genital organ absence nec nos,,Genital
+94282,pcy1.00,congenital aplasia of genital organ nec,,Genital
+91739,pcy1000,congenital aplasia of prostate,,Genital
+4339,pcy1200,congenital aplasia of testicle,,Genital
+38020,pcy1300,congenital aplasia of scrotum,,Genital
+92836,pcy1400,aplasia of penis,,Genital
+57530,pcy2.00,hypoplasia of genital organ nec,,Genital
+23948,pcy2000,hypoplasia of penis,Yes,Genital
+9690,pcy2100,hypoplasia of testis,,Genital
+51726,pcy2200,hypoplasia of scrotum,,Genital
+67754,pcy2z00,hypoplasia of genital organ nec nos,,Genital
+95015,pcy3.00,atresia of genital organ nec,,Genital
+56100,pcy3000,atresia of ejaculatory duct,,Genital
+62335,pcy3z00,atresia of genital organ nec nos,,Genital
+8983,pcy4.00,anorchism,,Genital
+53312,pcy4.11,congenital absence of both testes,,Genital
+48765,pcy4.12,"testicular agenesis, bilateral",,Genital
+27323,pcy5.00,monorchism,,Genital
+28912,pcy5.11,"congenital absence of testis, unilateral",,Genital
+38998,pcy5.12,"testicular agenesis, unilateral",,Genital
+66290,pcy6.00,polyorchism,,Genital
+17121,pcy7.00,congenital lateral curvature of penis,Yes,Genital
+31019,pcy8.00,fusion of testes,,Genital
+43603,pcya.00,cysts of embryonic remnants nec,,Genital
+29146,pcya000,hydatid cyst of morgagni,,Genital
+59487,pcya100,wolffian duct cyst,,Genital
+28043,pcya200,hydatid cyst of morgagni - male,,Genital
+57663,pcya300,hydatid cyst of morgagni - female,,Genital
+69548,pcya400,wolffian duct cyst - male,,Genital
+38911,pcya500,wolffian duct cyst - female,,Genital
+43727,pcya600,cyst of embryonic remnant - male,,Genital
+43654,pcya700,cyst of embryonic remnant - female,,Genital
+31397,pcyb.00,doubling of vagina,,Genital
+22437,pcyw.00,other congenital anomaly of testis or scrotum,Yes,Genital
+39361,pcyx.00,other congenital anomaly of vas deferens or prostate,,Genital
+25455,pcyy.00,other congenital anomaly of penis,,Genital
+30595,pcyy000,hooded penis,Yes,Genital
+17653,pcyy100,webbed penis,Yes,Genital
+64313,pcyyz00,other congenital anomaly of penis nos,,Genital
+4338,pcyz.00,other specified genital organ anomaly nos,,Genital
+31756,pcz..00,genital organ anomaly nos,,Genital
+25382,pd...00,urinary system congenital anomalies,,Urinary
+30097,pd0..00,renal agenesis and dysgenesis,,Urinary
+27474,pd00.00,"renal agenesis, unspecified",,Urinary
+63634,pd00000,bilateral renal agenesis,,Urinary
+31961,pd00100,unilateral renal agenesis,,Urinary
+55985,pd00z00,"renal agenesis, unspecified nos",,Urinary
+27471,pd01.00,congenital renal atrophy,,Urinary
+3314,pd02.00,congenital absence of kidney,,Urinary
+71154,pd02000,bilateral congenital absence of kidneys,,Urinary
+23958,pd02100,unilateral congenital absence of kidney,,Urinary
+65407,pd02z00,congenital absence of kidney nos,,Urinary
+4764,pd03.00,hypoplasia of kidney,,Urinary
+42925,pd03000,bilateral renal hypoplasia,,Urinary
+23960,pd03011,potter's syndrome,,Urinary
+30650,pd03100,unilateral renal hypoplasia,,Urinary
+10063,pd04.00,dysplasia of kidney,,Urinary
+9500,pd04000,bilateral renal dysplasia,,Urinary
+20878,pd04011,bilateral renal dysgenesis,,Urinary
+24120,pd04100,unilateral renal dysplasia,,Urinary
+54656,pd04111,unilateral renal dysgenesis,,Urinary
+105657,pd04200,renal dysplasia and retinal aplasia,,Urinary
+54798,pd04z00,dysplasia of kidney nos,,Urinary
+29659,pd0z.00,renal agenesis or dysgenesis nos,,Urinary
+15917,pd1..00,congenital cystic kidney disease,,Urinary
+20629,pd1..11,congenital cystic renal disease,,Urinary
+17523,pd10.00,"congenital renal cyst, single",Yes,Urinary
+18331,pd13.00,multicystic renal dysplasia,,Urinary
+59018,pd1y.00,other specified congenital cystic kidney disease,,Urinary
+59031,pd1yz00,other congenital cystic kidney disease nos,,Urinary
+50331,pd1z.00,congenital cystic kidney disease nos,,Urinary
+30445,pd2..00,renal pelvis and ureter obstructive defects,,Urinary
+49700,pd20.00,atresia of ureter,,Urinary
+29096,pd21.00,occlusion of ureter,,Urinary
+59736,pd21.11,congenital ureteric valves,,Urinary
+33355,pd22.00,congenital stricture of ureter,,Urinary
+50820,pd22.11,congenital stenosis of ureter,,Urinary
+97464,pd22000,"congenital stricture of ureter, unspecified",,Urinary
+27646,pd22100,congenital stricture of ureteropelvic junction,,Urinary
+96829,pd22200,congenital stricture of ureterovesical orifice,,Urinary
+69191,pd22z00,congenital stricture of ureter nos,,Urinary
+5379,pd23.00,congenital hydronephrosis,,Urinary
+22571,pd23.11,congenital dilated renal pelvis,,Urinary
+26403,pd24.00,congenital dilatation of ureter,,Urinary
+46116,pd25.00,hydroureter - congenital,,Urinary
+5099,pd26.00,megaloureter - congenital,,Urinary
+37491,pd27.00,ureterocele - congenital,,Urinary
+43336,pd2y.00,other specified obstructive defect of renal pelvis or ureter,,Urinary
+46177,pd2z.00,obstructive defect of renal pelvis or ureter nos,,Urinary
+4430,pd3..00,other specified renal anomaly,,Urinary
+52700,pd30.00,accessory kidney,,Urinary
+59280,pd30.11,duplication of kidney,,Urinary
+32963,pd30.12,renal duplication nec,,Urinary
+60051,pd30.13,supernumerary kidney,,Urinary
+56531,pd31.00,congenital calculus of kidney,,Urinary
+38927,pd32.00,congenital displaced kidney,,Urinary
+67478,pd33.00,discoid kidney,,Urinary
+28362,pd34.00,double kidney with double pelvis,,Urinary
+4431,pd34.11,duplex kidneys,,Urinary
+24709,pd34.12,pyelon duplex,,Urinary
+15142,pd35.00,ectopic kidney,,Urinary
+32543,pd35.11,pelvic kidney,,Urinary
+54820,pd36.00,fusion of kidneys,,Urinary
+56958,pd37.00,giant kidney,Yes,Urinary
+2810,pd38.00,horseshoe kidney,,Urinary
+16523,pd39.00,hyperplasia of kidney,,Urinary
+45794,pd3a.00,lobulation of kidney,,Urinary
+53965,pd3b.00,malrotation of kidney,,Urinary
+92988,pd3c.00,triple kidney with triple pelvis,,Urinary
+69272,pd3c.12,pyelon triplex,,Urinary
+29780,pd3d.00,enlarged kidney,,Urinary
+109475,pd3e.00,cake kidney,,Urinary
+105765,pd3f.00,bifid kidney,,Urinary
+15420,pd3z.00,other specified renal anomaly nos,,Urinary
+42500,pd4..00,other specified ureter anomalies,,Urinary
+63227,pd40.00,absent ureter,,Urinary
+69810,pd41.00,accessory ureter,,Urinary
+64616,pd42.00,deviation of ureter,,Urinary
+63963,pd43.00,displaced ureteric orifice,,Urinary
+3725,pd44.00,double ureter,,Urinary
+38107,pd44.11,duplication of ureter,,Urinary
+23545,pd45.00,ectopic ureter,,Urinary
+105821,pd45.12,ectopic insertion of ureter,,Urinary
+15901,pd46.00,anomalous ureter implantation,,Urinary
+24918,pd47.00,congenital vesico-uretero-renal reflux,Yes,Urinary
+31469,pd4z.00,other specified ureter anomaly nos,,Urinary
+36549,pd5..00,exstrophy of urinary bladder,,Urinary
+108545,pd5..11,ectopia vesicae,,Urinary
+99053,pd5..12,ectopic bladder,,Urinary
+35770,pd50.00,ectopic bladder,,Urinary
+10744,pd50.11,ectopia vesicae,,Urinary
+64965,pd5z.00,exstrophy of urinary bladder nos,,Urinary
+47679,pd6..00,urethra and bladder neck atresia and stenosis,,Urinary
+19654,pd60.00,congenital bladder neck obstruction,,Urinary
+97475,pd60000,atresia of bladder neck,,Urinary
+31125,pd60100,stenosis of bladder neck,,Urinary
+47854,pd60z00,congenital bladder neck obstruction nos,,Urinary
+34741,pd61.00,congenital obstruction of urethra,,Urinary
+95045,pd61000,atresia of anterior urethra,,Urinary
+16708,pd61100,stenosis of anterior urethra,,Urinary
+100419,pd61z00,congenital obstruction of urethra nos,,Urinary
+41342,pd62.00,congenital urethral valvular stricture,,Urinary
+69107,pd62.11,congenital posterior urethral valves,,Urinary
+31985,pd63.00,congenital urinary meatus stricture,,Urinary
+67371,pd63.11,congenital urinary meatus obstruction,,Urinary
+32124,pd63.12,congenital pinhole urinary meatus,,Urinary
+18806,pd63100,stenosis of urinary meatus,,Urinary
+71832,pd63z00,congenital urinary meatus stricture nos,,Urinary
+104830,pd64.00,congenital vesicourethral orifice stricture,,Urinary
+51541,pd65.00,imperforate urinary meatus,,Urinary
+98164,pd66.00,impervious urethra,,Urinary
+11710,pd67.00,congenital posterior urethral valves,,Urinary
+52312,pd6y.00,other specified urethra or bladder neck atresia or stenosis,,Urinary
+25806,pd6z.00,urethra or bladder neck atresia or stenosis nos,,Urinary
+30315,pd7..00,anomalies of urachus,,Urinary
+34084,pd70.00,cyst of urachus,,Urinary
+67153,pd71.00,fistula of urachus,,Urinary
+35888,pd72.00,patent urachus,,Urinary
+65185,pd72.11,persistent urachus,,Urinary
+9751,pd73.00,persistent umbilical sinus,,Other
+101112,pd7y.00,other specified anomalies of urachus,,Urinary
+56889,pd7z.00,anomalies of urachus nos,,Urinary
+109067,pd8..00,congenital abnormality of the kidney,,Urinary
+108940,pd80.00,duplex kidney,,Urinary
+50320,pdy..00,other specified bladder and urethral anomalies,,Urinary
+39970,pdy0.00,congenital absence of bladder,,Urinary
+58667,pdy2.00,accessory bladder,,Urinary
+51524,pdy3.00,accessory urethra,,Urinary
+20314,pdy4.00,congenital bladder diverticulum,,Urinary
+57166,pdy5.00,congenital bladder hernia,,Urinary
+29419,pdy6.00,congenital urethrorectal fistula,,Urinary
+41025,pdy7.00,congenital prolapse of bladder mucosa,,Urinary
+47479,pdy8.00,congenital prolapse of urethra,,Urinary
+27283,pdy9.00,double urethra,,Urinary
+61128,pdya.00,double urinary meatus,,Urinary
+34636,pdyz.00,other bladder or urethral anomaly nos,,Urinary
+65057,pdyz000,"epispadias, female",,Urinary
+57744,pdyz100,"hypospadias, female",,Genital
+4817,pdz..00,urinary system anomalies nos,,Urinary
+17356,pdz0.00,unspecified anomaly of kidney,,Urinary
+16257,pdz1.00,unspecified anomaly of ureter,,Urinary
+44752,pdz2.00,unspecified anomaly of bladder,,Urinary
+46880,pdz3.00,unspecified anomaly of urethra,,Urinary
+44150,pe...00,certain congenital musculoskeletal deformities,,Limb
+3298,pe...11,congenital musculoskeletal deformities,,Limb
+17914,pe0..00,"skull, face and jaw congenital deformities",,Limb
+36168,pe0..11,face congenital deformities,,"""Ear, Face & Neck"""
+30123,pe0..12,jaw congenital deformities,,Limb
+18808,pe0..13,skull congenital deformities,,Limb
+8325,pe00.00,asymmetry of face,Yes,Limb
+26732,pe01.00,compression facies,Yes,Limb
+73612,pe02.00,potter's facies,,Urinary
+59811,pe03.00,depressions in skull,Yes,Limb
+38937,pe04.00,dolichocephaly,Yes,Limb
+1519,pe05.00,plagiocephaly,Yes,Limb
+20556,pe05.11,asymmetric head,Yes,Limb
+16924,pe06.00,congenital nasal septum deviation,Yes,Limb
+53454,pe07.00,congenital bent or squashed nose,Yes,Limb
+54258,pe0z.00,"skull, face or jaw congenital deformities nos",,Limb
+8721,pe1..00,congenital sternomastoid torticollis,Yes,Limb
+65125,pe1..11,congenital wry neck,Yes,Limb
+22012,pe2..00,congenital spine deformity,,Limb
+49933,pe20.00,"congenital spine deformity, unspecified",,Limb
+8358,pe21.00,congenital postural lordosis,Yes,Other
+4330,pe22.00,congenital postural scoliosis,,Limb
+9567,pe23.00,congenital scoliosis due to congenital bony malformation,,Other
+29412,pe2z.00,congenital spine deformity nos,,Limb
+38363,pe2z.11,congenital postural curvature of spine nos,,Limb
+9239,pe3..00,congenital dislocation and subluxation of the hip,Yes,Limb
+933,pe30.00,congenital dislocation of hip,,Limb
+45970,pe30000,unilateral congenital dislocation of hip,,Limb
+38373,pe30100,bilateral congenital dislocation of hip,,Limb
+33576,pe30z00,congenital dislocation of hip nos,,Limb
+14938,pe31.00,congenital subluxation of hip,Yes,Limb
+34019,pe31000,unilateral congenital subluxation of hip,Yes,Limb
+63645,pe31011,unstable hip,Yes,Limb
+93328,pe31012,preluxation of hip,Yes,Limb
+93994,pe31013,predislocation status of hip at birth,Yes,Limb
+97269,pe31014,congenital instability of hip joint,Yes,Limb
+61870,pe31100,bilateral congenital subluxation of hip,Yes,Limb
+62586,pe31z00,congenital subluxation of hip nos,Yes,Limb
+99310,pe32.00,congenital dislocation one hip with subluxation other hip,Yes,Limb
+3691,pe34.00,dysplastic hip,,Limb
+38772,pe34000,unilateral dysplastic hip,,Limb
+34285,pe34100,bilateral dysplastic hip,,Limb
+24917,pe35.00,unstable hip,Yes,Limb
+34246,pe35000,unilateral unstable hip,Yes,Limb
+50468,pe35100,bilateral unstable hip,Yes,Limb
+27301,pe3z.00,congenital dislocation of hip nos,,Limb
+21522,pe4..00,genu recurvatum and long leg bone bowing,Yes,Limb
+41198,pe4..11,congenital leg bone bowing,Yes,Limb
+50367,pe40.00,congenital genu recurvatum,Yes,Limb
+20745,pe41.00,congenital dislocation of knee,,Limb
+103268,pe41100,congenital dislocation of knee grade ii,,Limb
+65011,pe41300,congenital dislocation of patella,,Limb
+29298,pe42.00,congenital bowing of femur,Yes,Limb
+4805,pe43.00,congenital bowing of tibia and fibula,Yes,Limb
+48290,pe43000,congenital bowing of tibia,Yes,Limb
+101875,pe43100,congenital bowing of fibula,Yes,Limb
+38801,pe44.00,"congenital bowing of long leg bone, unspecified",Yes,Limb
+1971,pe44.11,bow legs nos,Yes,Limb
+61183,pe4z.00,genu recurvatum and long leg bone bowing nos,Yes,Limb
+5955,pe5..00,varus deformities of feet,Yes,Limb
+22846,pe50.00,congenital talipes varus,,Limb
+26456,pe50.11,pes varus,,Limb
+7039,pe50.12,congenital clubfoot - varus,,Limb
+156,pe51.00,congenital talipes equinovarus,,Limb
+11093,pe52.00,metatarsus primus varus,Yes,Limb
+1463,pe53.00,congenital metatarsus varus,Yes,Limb
+11198,pe54.00,congenital metatarsus adductus,Yes,Limb
+63009,pe5x.00,complex varus foot deformities,,Limb
+43154,pe5y.00,other specified varus feet deformity,,Limb
+7815,pe5y000,congenital talipes calcaneovarus,,Limb
+42135,pe5yz00,other specified varus foot deformity nos,,Limb
+6974,pe5z.00,varus foot deformity nos,Yes,Limb
+891,pe6..00,valgus deformities of feet,Yes,Limb
+29808,pe60.00,congenital talipes valgus,Yes,Limb
+23980,pe60.11,congenital clubfoot - valgus,Yes,Limb
+7384,pe61.00,congenital pes planus,Yes,Limb
+20004,pe61.11,congenital flat foot,Yes,Limb
+90878,pe61.13,rigid flat foot,Yes,Limb
+50982,pe61.14,spastic flat foot,Yes,Limb
+50065,pe61000,congenital vertical talus,Yes,Limb
+6961,pe62.00,congenital talipes calcaneovalgus,Yes,Limb
+28010,pe6y.00,other valgus foot deformities,Yes,Limb
+31013,pe6y000,congenital talipes equinovalgus,Yes,Limb
+20312,pe6y100,congenital planovalgus,Yes,Limb
+27621,pe6yz00,other valgus foot deformity nos,Yes,Limb
+23411,pe6z.00,valgus foot deformity nos,Yes,Limb
+41807,pe6z.11,congenital metatarsus valgus,Yes,Limb
+24526,pe7..00,other deformities of feet,,Limb
+4335,pe70.00,"talipes, unspecified",,Limb
+4331,pe70.11,clubfoot nos,,Limb
+15785,pe71.00,talipes cavus,Yes,Limb
+19703,pe71.11,congenital claw toe,,Limb
+1124,pe71.12,pes cavus,Yes,Limb
+7115,pe72.00,congenital pes cavus,Yes,Limb
+2023,pe73.00,congenital claw foot,,Limb
+28212,pe74.00,"short achilles tendon, congenital",Yes,Limb
+44293,pe7y.00,other specified foot deformity,,Limb
+29722,pe7y000,asymmetric talipes,Yes,Limb
+38386,pe7y100,congenital talipes calcaneus,,Limb
+4334,pe7y200,congenital talipes equinus,,Limb
+22854,pe7y300,congenital positional talipes,Yes,Limb
+44379,pe7yz00,other specified foot deformity nos,,Limb
+40277,pe7z.00,feet deformities nos,,Limb
+60362,pe8..00,other specified nonteratogenic anomalies,,Other
+4014,pe80.00,"pectus excavatum, congenital",Yes,Limb
+27309,pe80.11,congenital funnel chest,Yes,Limb
+22025,pe81.00,"pectus carinatum, congenital",Yes,Limb
+25746,pe81.11,congenital pigeon chest,Yes,Limb
+67318,pe8y.00,other nonteratogenic anomalies os,,Other
+45651,pe8y000,congenital club hand,,Limb
+41019,pe8y011,congenital club fingers,,Limb
+17068,pe8y100,congenital chest wall deformity nec,Yes,Limb
+35125,pe8y111,congenital thoracic wall deformity nec,,Limb
+22301,pe8y200,congenital dislocation of elbow,,Limb
+56631,pe8y300,congenital flexion contractures of leg,,Limb
+61879,pe8y400,congenital spade-like hand,,Limb
+47224,pe8y500,guerin - stern syndrome,,Limb
+50307,pe8y600,congenital flexion contracture of hip,,Limb
+20559,pe8y700,congenital abduction contracture of hip,,Limb
+29124,pe8y800,congenital flexion contracture of knee,,Limb
+61605,pe8y900,congenital short quadriceps,,Limb
+37327,pe8ya00,congenital dislocation of radial head,,Limb
+31710,pe8yb00,discoid meniscus - congenital,,Other
+30946,pe8yz00,other nonteratogenic anomaly nos,,Other
+42648,pe8yz11,specified intrauterine postural deformity nec,,Genital
+98081,pe8z.00,nonteratogenic anomalies nos,,Other
+26139,pe9..00,other musc skeletal deformity,,Limb
+37167,pe9..11,other congenital musculoskeletal deformity,,Limb
+33946,pez..00,congenital musculoskeletal deformity nos,,Other
+14649,pf...00,other congenital limb anomalies,,Limb
+3241,pf0..00,polydactyly - supernumerary digits,,Limb
+15526,pf00.00,"supernumerary digits, unspecified",,Limb
+16335,pf01.00,accessory fingers,,Limb
+101754,pf01000,radial polydactyly wassel 1,,Limb
+100780,pf01100,radial polydactyly wassel 2,,Limb
+111768,pf01200,radial polydactyly wassel 3,,Limb
+94719,pf01300,radial polydactyly wassel 4,,Limb
+99672,pf01700,central polydactyly,,Limb
+69795,pf01800,ulnar polydactyly,,Limb
+17995,pf02.00,accessory toes,,Limb
+59949,pf02000,accesory hallux,,Limb
+49767,pf02100,accessory little toe,,Limb
+48888,pf02200,other accessory toe,,Limb
+28246,pf03.00,accessory thumbs,,Limb
+40691,pf0z.00,polydactyly nos,,Limb
+2483,pf1..00,syndactyly - webbing of digits,,Limb
+63079,pf10.00,"syndactyly of multiple digits, unspecified",,Limb
+41117,pf11.00,syndactyly of fingers without bone fusion,,Limb
+33365,pf11.11,webbed fingers,,Limb
+62902,pf11000,simple syndactyly - 1st web,,Limb
+70749,pf11100,simple syndactyly - 2nd to 4th web,,Limb
+4457,pf12.00,syndactyly of fingers with bone fusion,,Limb
+40398,pf12.11,fused fingers,,Limb
+65604,pf12.12,osseous syndactyly of fingers,,Limb
+56836,pf13.00,syndactyly of toes without bone fusion,,Limb
+3642,pf13.11,webbed toes,,Limb
+97353,pf13000,simple syndactyly of toes 1st web space,,Limb
+24936,pf13100,simple syndactyly lesser toes,Yes,Limb
+67014,pf14.00,syndactyly of toes with bone fusion,,Limb
+33927,pf14.11,fused toes,,Limb
+36494,pf14.12,conjoined toes,,Limb
+108734,pf14.13,syndactyly of toes with bone fusion,,Limb
+104916,pf14100,osseous syndactyly lesser toes,,Limb
+38836,pf15.00,polysyndactyly,,Limb
+43838,pf1z.00,syndactyly nos,,Limb
+68991,pf1z.11,polysyndactyly,,Limb
+66229,pf1z.12,symphalangism,,Limb
+43578,pf2..00,reduction deformity of upper limb,,Limb
+54315,pf2..11,arm reduction deformity,,Limb
+19667,pf20.00,"congenital shortening of arm, unspecified",,Limb
+51709,pf20.11,brachymelia of arm,,Limb
+70730,pf20100,ectromelia of upper limb nos,,Limb
+50784,pf20200,hemimelia of upper limb nos,,Limb
+73622,pf20z00,unspecified congenital shortening of arm nos,,Limb
+32039,pf21.00,transverse deficiency of arm,,Limb
+37973,pf21.11,congenital absence part of arm,,Limb
+96910,pf21000,"transverse deficiency of arm, unspecified",,Limb
+104822,pf21100,"transverse deficiency of arm, phalangeal level, all fingers",,Limb
+67807,pf21200,"transverse deficiency of arm, forearm level",,Limb
+61285,pf21300,"transverse deficiency of arm, shoulder level(amelia)",,Limb
+59307,pf21400,congenital amputation of upper limb,,Limb
+98901,pf21500,"transverse deficiency of arm, elbow level(hemimelia)",,Limb
+65248,pf21600,"transverse deficiency of arm, wrist level(hemimelia)",,Limb
+35834,pf21611,acheiria,,Limb
+28097,pf21612,rudimentary hand,,Limb
+46835,pf21613,congenital absence of hand,,Limb
+103878,pf21z00,transverse deficiency of arm nos,,Limb
+56350,pf21z11,agenesis of hand,,Limb
+105807,pf22.00,longitudinal deficiency of arm nec,,Limb
+30613,pf22000,phocomelia of upper limb nos,,Limb
+59410,pf22100,rudimentary arm,,Limb
+94122,pf22z00,longitudinal deficiency of arm nec nos,,Limb
+37277,pf23.00,congenital absence upper arm and forearm with hand present,,Limb
+97450,pf23.11,complete phocomelia of upper limb,,Limb
+72180,pf24.00,congenital absence of upper arm only,,Limb
+61225,pf24.11,proximal phocomelia of upper limb,,Limb
+27624,pf25.00,congenital absence of forearm only,,Limb
+50234,pf25.11,distal phocomelia of upper limb,,Limb
+95060,pf26.00,agenesis of radial ray,,Limb
+90910,pf26.11,congenital absence of radius,,Limb
+62500,pf26000,hypoplasia of radius,,Limb
+106171,pf26100,partial radial absence,,Limb
+66061,pf26200,total radial absence,,Limb
+44821,pf26300,absent thumb,,Limb
+93775,pf26400,hypoplastic thumb-blauth 1,,Limb
+36739,pf26500,hypoplastic thumb-blauth 2,,Limb
+103983,pf26600,hypoplastic thumb-blauth 3,,Limb
+101105,pf26700,hypoplastic thumb-blauth 4,,Limb
+104836,pf26800,hypoplastic thumb-blauth 5,,Limb
+107677,pf27.00,agenesis of ulna,,Limb
+104751,pf27000,partial defect of ulna,,Limb
+68975,pf27100,total absence of ulna,,Limb
+65514,pf27200,ulnar and humeroulnar synostosis,,Limb
+49228,pf28.00,agenesis of carpals and metacarpals,,Limb
+57346,pf28.11,transverse arrest of carpals and metacarpals,,Limb
+72940,pf28000,transverse arrest carpal level,,Limb
+66066,pf28100,transverse arrest metacarpal 1st ray,,Limb
+62884,pf28200,transverse arrest metacarpal other,,Limb
+33394,pf29.00,congenital absence of finger,,Limb
+106011,pf29.12,transverse arrest of phalanges,,Limb
+107002,pf29000,transverse arrest phalangeal level 1st ray,,Limb
+105799,pf29100,transverse arrest phalangeal level 2nd ray,,Limb
+99016,pf29300,transverse arrest phalangeal level 4th ray,,Limb
+99017,pf29400,transverse arrest phalangeal level 5th ray,,Limb
+57051,pf29z00,congenital absence finger nos,,Limb
+62804,pf2y.00,other specified reduction deformities of upper limb,,Limb
+68535,pf2z.00,reduction deformity of upper limb nos,,Limb
+22457,pf2z.11,hypoplasia of upper limb,,Limb
+34660,pf3..00,reduction deformity of lower limb,,Limb
+43649,pf3..11,leg reduction deformity,,Limb
+4616,pf30.00,"congenital shortening of leg, unspecified",,Limb
+96366,pf30.11,brachymelia of leg,,Limb
+73653,pf30000,ectromelia of lower limb nos,,Limb
+32907,pf30100,hemimelia of lower limb nos,,Limb
+45385,pf30z00,unspecified congenital leg shortening nos,,Limb
+65592,pf31.00,transverse deficiency of leg,,Limb
+106477,pf31100,transverse deficiency lower limb - ankle level,,Limb
+67119,pf31112,hemimelia - ankle level,,Limb
+60525,pf31200,congenital absence of leg and foot,,Limb
+96409,pf31311,amelia - lower limb,,Limb
+70964,pf31500,transverse deficiency lower limb - knee level,,Limb
+108988,pf31511,hemimelia - knee level,,Limb
+45605,pf32.00,longitudinal reduction deformity of lower limb nec,,Limb
+40975,pf32.11,phocomelia of lower limb nos,,Limb
+50564,pf33.00,congenital absence of thigh and lower leg with foot present,,Limb
+93219,pf33.11,complete phocomelia of lower limb,,Limb
+95735,pf34.00,congenital absence of thigh only,,Limb
+104207,pf34.11,proximal phocomelia of lower limb,,Limb
+99666,pf34000,proximal femoral focal deficiency,,Limb
+94734,pf34100,congenital short femur,,Limb
+72561,pf35.00,congenital absence of lower leg only,,Limb
+41398,pf35.11,distal phocomelia of lower limb,,Limb
+66868,pf36.00,agenesis of tibia,,Limb
+104835,pf36200,congenital tibial deficiency type iii,,Limb
+60930,pf37.00,agenesis of fibula,,Limb
+97903,pf37100,congenital fibular deficiency type ii,,Limb
+28646,pf38.00,agenesis of tarsals and metatarsals,,Limb
+92289,pf38000,agenesis of talus,,Limb
+89722,pf38200,agenesis of other tarsal bone,,Limb
+99156,pf38500,agenesis of 5th metatarsal,,Limb
+103879,pf38600,agenesis of other metatarsal,,Limb
+70263,pf38700,agenesis of 4th and 5th metatarsals,,Limb
+35699,pf39.00,congenital absence of toe,,Limb
+64730,pf39000,congenital absence of great toe,,Limb
+69248,pf39100,congenital absence of 5th toe,,Limb
+96737,pf39200,congenital absence of other lesser toe,,Limb
+64339,pf39400,congenital absence of other multiple toes,,Limb
+65217,pf3y.00,other specified reduction deformities of lower limb,,Limb
+36487,pf3z.00,reduction deformity of lower limb nos,,Limb
+24646,pf3z.11,hypoplasia of lower limb,,Limb
+27365,pf4..00,reduction deformity of unspecified limb,,Limb
+28661,pf40.00,congenital absence of limb nos,,Limb
+66912,pf41.00,amelia of unspecified limb,,Limb
+73649,pf43.00,hemimelia of unspecified limb,,Limb
+41471,pf44.00,phocomelia of unspecified limb,,Limb
+53564,pf45.00,congenital amputation of unspecified limb,,Limb
+60133,pf46.00,longitudinal reduction deformity of unspecified limb,,Limb
+34321,pf47.00,congenital absence of digits nos,,Limb
+59166,pf47.11,adactyly,,Limb
+110673,pf4y.00,other specified reduction deformities of unspecified limb,,Limb
+99157,pf4y000,brachymelia nos,,Limb
+62732,pf4z.00,reduction deformity of unspecified limb nos,,Limb
+49171,pf4z.11,brachydactyly nos,,Limb
+65349,pf4z.12,withered limb,,Limb
+51993,pf4z.13,hypoplasia of limb nos,,Limb
+44219,pf5..00,other upper limb and shoulder anomaly,,Limb
+14964,pf50.00,"upper limb anomaly, unspecified",,Limb
+28542,pf51.00,congenital deformity of clavicle,,Limb
+107012,pf51.11,clavicle agenesis,,Limb
+15859,pf52.00,congenital elevation of scapula,,Limb
+36940,pf52.11,sprengel's deformity,,Limb
+32512,pf53.00,radio-ulnar synostosis,,Limb
+64307,pf53000,proximal radioulnar synostosis,,Limb
+54805,pf53100,radioulnar synostosis and dislocation of radial head,,Limb
+109481,pf53200,distal radioulnar synostosis,,Limb
+28025,pf54.00,madelung's deformity,,Limb
+15749,pf56.00,accessory carpal bones,Yes,Limb
+41345,pf57.00,macrodactylia (fingers),,Limb
+56166,pf57000,macrodactyly - simple,,Limb
+104353,pf57100,macrodactyly - fatty nerve tumor,,Limb
+71088,pf59000,windblown hand,,Limb
+97774,pf59300,aberrant intrinsic muscles,,Limb
+70743,pf59400,poland's syndrome,,Other
+20442,pf59500,thumb in palm deformity,,Limb
+17433,pf59600,congenital trigger thumb,,Limb
+95375,pf5a.00,"other failure of differentiation, skeletal tissues of arm",,Limb
+46124,pf5a100,capitate-hamate synostosis,,Limb
+65714,pf5a200,scaphoid-lunate synostosis,,Limb
+89442,pf5a300,other carpal synostosis,,Limb
+93506,pf5a400,pip joint symphalangism,,Limb
+104729,pf5a500,dip joint symphalangism,,Limb
+37804,pf5b.00,other duplication of limb,,Limb
+66174,pf5bz00,duplication of limb nos,,Limb
+61661,pf5c.00,other overgrowth of upper limb,,Limb
+106182,pf5c100,overgrowth of partial upper limb,,Limb
+99226,pf5cz00,other overgrowth of limb nos,,Limb
+56203,pf5d100,undergrowth of whole hand,,Limb
+47441,pf5d200,brachymetacarpia,,Limb
+105008,pf5dz00,other undergrowth of limb nos,,Limb
+24053,pf5e.00,constriction ring syndrome of upper limb,,Limb
+38896,pf5e000,constriction ring,,Limb
+93038,pf5e100,constriction ring with lymphoedema,,Limb
+62353,pf5e200,acrosyndactyly,,Limb
+99600,pf5e300,intra-uterine amputation,,Limb
+104024,pf5e400,constriction ring with acrosyndactyly and amputation,,Limb
+48901,pf5f.00,congenital absence of both forearm and hand,,Limb
+48508,pf5g.00,congenital complete absence of upper limb(s),,Limb
+26291,pf5r.00,other congenital anomalies of fingers,,Limb
+42203,pf5r000,triphalangeal thumb,,Limb
+46129,pf5r100,"brachydactyly of fingers, unspecified",,Limb
+10556,pf5r400,flexion deformity of fingers,,Limb
+67022,pf5r500,brachydactyly-all 3 phalanges,,Limb
+64701,pf5r600,brachydactyly-missing phalanx,,Limb
+45447,pf5r700,symbrachydactyly,,Limb
+68342,pf5rc00,brachymesophalangia,,Limb
+37965,pf5rd00,congenital malformation of thumb,,Limb
+48177,pf5rz00,other anomaly of fingers nos,,Limb
+5594,pf5s.00,other congenital anomalies of hand,,Limb
+54598,pf5t.00,other congenital anomalies of wrist,,Limb
+66010,pf5u.00,other congenital anomalies of forearm,,Limb
+34717,pf5u000,radio-ulnar dysostosis,,Limb
+61558,pf5uz00,other congenital anomaly forearm nos,,Limb
+24218,pf5v.00,congenital anomalies of elbow and upper arm,,Limb
+31908,pf5v.11,cubitus nos,,Limb
+63972,pf5w.00,other congenital anomalies of shoulder,,Limb
+49743,pf5w.11,congenital deformity of scapula nec,,Limb
+48510,pf5x.00,other congenital anomalies of whole arm,,Limb
+102633,pf5y.00,other upper limb and shoulder anomaly os,,Limb
+30227,pf5y000,cleidocranial dysostosis,,Limb
+56876,pf5y011,cleidocranial dysplasia,,Limb
+65963,pf5y100,congenital cubitus valgus,Yes,Limb
+68582,pf5y200,congenital cubitus varus,,Limb
+62024,pf5y300,congenital humeral varus,,Limb
+102227,pf5y400,humeroradial synostosis,,Limb
+103201,pf5y500,humeroulnar synostosis,,Limb
+70267,pf5y600,total elbow synostosis,,Limb
+97110,pf5yz00,other upper limb and shoulder anomaly nos,,Limb
+16058,pf5z.00,upper limb or shoulder anomaly nos,,Limb
+72487,pf6..00,other lower limb and pelvic girdle anomalies,,Limb
+15502,pf60.00,"lower limb anomaly, unspecified",,Limb
+38305,pf61.00,congenital coxa valga,,Limb
+40980,pf62.00,congenital coxa vara,,Limb
+15949,pf63.00,other congenital hip joint deformity,,Limb
+9549,pf63000,congenital anteversion of femoral neck,,Limb
+2889,pf63100,congenital hip dysplasia,,Limb
+19123,pf63111,developmental dysplasia of the hip,,Limb
+32418,pf63200,congenital acetabular dysplasia,,Limb
+40517,pf63x00,"congenital deformity of hip, unspecified",,Limb
+63834,pf63z00,other congenital hip joint deformity nos,,Limb
+15124,pf64.00,congenital knee joint deformity,,Limb
+61638,pf64000,congenital absence of patella,,Limb
+11338,pf64100,congenital genu valgum - knock-knee,Yes,Limb
+17935,pf64200,congenital genu varum - bowleg,Yes,Limb
+95032,pf64300,rudimentary patella,,Limb
+21813,pf64400,congenital dislocation of patella,,Limb
+47736,pf64500,bipartite patella,,Limb
+50077,pf64z00,congenital knee joint deformity nos,,Limb
+24643,pf65.00,macrodactylia of toes,Yes,Limb
+72268,pf65000,macrodactyly of toes - simple,Yes,Limb
+944,pf66.00,other congenital anomalies of toe,,Limb
+7965,pf66000,congenital hallux valgus,,Limb
+7405,pf66100,congenital hallux varus,Yes,Limb
+8626,pf66200,congenital hammer toe,Yes,Limb
+68317,pf66300,brachydactyly of toes,,Limb
+18517,pf66400,congenital crossed toes,Yes,Limb
+22585,pf66411,congenital overlapping toes,Yes,Limb
+4333,pf66500,congenital curly toes,Yes,Limb
+108865,pf66600,brachyphalangia of little toe,Yes,Limb
+42733,pf66800,perodactylia of great toe,,Limb
+103258,pf66900,perodactylia of lesser toe,,Limb
+94794,pf66b00,triphalangeal great toe,,Limb
+33960,pf66z00,other toe anomalies nos,,Limb
+2070,pf67.00,congenital anomalies of foot nec,,Limb
+60339,pf67000,astragaloscaphoid synostosis,,Limb
+12263,pf67100,calcaneonavicular bar,,Limb
+37141,pf67200,coalition of calcaneous,,Limb
+48474,pf67300,talonavicular synostosis,,Limb
+5376,pf67400,tarsal coalitions,Yes,Limb
+35097,pf67700,accessory tarsal bones,,Limb
+54298,pf67800,talocalcaneal bar,,Limb
+57873,pf67900,naviculocuneiform bar,,Limb
+23669,pf67a00,complex tarsal coalition,Yes,Limb
+37404,pf67z00,anomalies of foot nec nos,,Limb
+101628,pf69.00,failure of differentiation of skeletal tissues of lower limb,,Limb
+99687,pf69000,congenital synostosis of lower limb bones,,Limb
+40983,pf6a.00,duplication of lower limb bone,,Limb
+46652,pf6b.00,congenital overgrowth of lower limb,,Limb
+53673,pf6b200,congenital overgrowth of foot,,Limb
+62705,pf6b300,congen overgrowth of whole lower limb,,Limb
+62450,pf6c.00,congenital undergrowth of lower limb,,Limb
+54180,pf6c000,congenital undergrowth of proximal part of limb,,Limb
+64939,pf6c100,congenital undergrowth of distal part of limb,,Limb
+110670,pf6c300,brachymetapodia of 1st metatarsal,,Limb
+67293,pf6d.00,constriction ring syndrome of lower limb,,Limb
+93784,pf6d000,constriction ring of lower limb,,Limb
+48471,pf6d200,intrauterine amputation of lower limb,,Limb
+28775,pf6d300,constriction ring syndrome of lower limb with amputation,,Limb
+64988,pf6e.00,congenital absence of thigh and lower leg with foot present,,Limb
+59150,pf6v.00,other congenital anomalies of lower leg,,Limb
+92299,pf6w.00,other congenital anomalies of upper leg,,Limb
+25190,pf6x.00,other congenital anomalies of pelvis,,Limb
+55114,pf6xz00,other congenital anomalies of pelvis nos,,Limb
+44728,pf6y.00,other lower limb anomalies,,Limb
+54295,pf6y000,congenital angulation of tibia,,Limb
+27426,pf6y100,congenital deformity of ankle joint,,Limb
+64527,pf6y200,congenital deformity of sacroiliac joint,,Limb
+67220,pf6y300,congenital fusion of sacroiliac joint,,Limb
+36277,pf6y400,congenital varus ankle,,Limb
+36791,pf6y500,congenital valgus ankle,Yes,Limb
+48469,pf6y600,congenital pseudarthrosis of tibia,,Limb
+46734,pf6yz00,other lower limb and pelvic girdle anomaly nos,,Limb
+52738,pfy..00,other specified anomalies of unspecified limb,,Limb
+38479,pfy0.00,arthrogryposis multiplex congenita,,Limb
+60165,pfy4.00,other arthrogryposis syndromes,,Limb
+66220,pfyz.00,other anomaly of unspecified limb nos,,Limb
+9723,pfz..00,congenital anomaly of unspecified limb nos,,Limb
+2948,pg...00,other congenital musculoskeletal anomalies,,Limb
+29367,pg0..00,skull and face bone anomalies,,Limb
+46833,pg0..11,face bone anomalies,,Limb
+31160,pg0..12,skull and face bone anomalies,,Other
+38119,pg00.00,congenital absence of skull bones,,Other
+48272,pg01.00,acrocephaly,,Other
+17050,pg02.00,congenital forehead deformity,,Other
+16897,pg03.00,craniosynostosis,,Other
+39894,pg03.11,scaphocephaly,,Other
+105646,pg03100,lambdoid synostosis,,Other
+14985,pg05.00,hypertelorism,Yes,Other
+5246,pg06.00,imperfect fusion of skull,,Other
+40350,pg07.00,oxycephaly,,Other
+25250,pg08.00,platybasia,,Other
+27292,pg09.00,premature cranial suture closure,,Other
+38476,pg0b.00,trigonocephaly,,Other
+51771,pg0g.00,localised skull defects,,Other
+53631,pg0g.11,craniolacunia,,Other
+32597,pg0g.12,lacunar skull,,Other
+6435,pg0h.00,macrocephaly,Yes,Other
+60540,pg0y.00,other specified skull or face bone anomaly,,Other
+42608,pg0y.11,defect of skull ossification,,Other
+40979,pg0y.12,cranial dysostosis nec,,Limb
+33762,pg0y000,brachycephaly,Yes,Other
+69913,pg0yz00,other anomaly of skull or face bone nos,,Other
+15275,pg0z.00,skull or face bone anomaly nos,,Other
+20810,pg1..00,anomalies of spine,,Limb
+60066,pg10.00,"anomaly of spine, unspecified",,Limb
+35729,pg11.00,congenital lumbosacral spondylolysis,,Other
+1871,pg12.00,congenital spondylolisthesis,,Other
+62641,pg13.00,congenital absence of vertebra,,Other
+68093,pg13000,congenital absence of cervical vertebra,,Other
+90498,pg13200,congenital absence of lumbar vertebra,,Other
+43351,pg13300,congenital absence of sacrum,,Other
+27473,pg13311,sacral agenesis,,Other
+25281,pg14.00,hemivertebra,,Other
+55966,pg14000,cervical hemivertebra,,Other
+44822,pg14100,thoracic hemivertebra,,Other
+61054,pg14200,lumbar hemivertebra,,Other
+97893,pg14800,lumbar hemivertebra - unbalanced,,Other
+63497,pg14z00,hemivertebra nos,,Other
+15499,pg15.00,congenital fusion of spine,,Other
+29414,pg15.11,congenital lumbosacral fusion,,Other
+52822,pg15000,congenital complete fusion of spine,,Other
+91259,pg15100,congenital partial fusion of spine - balanced,,Other
+53028,pg15200,congenital partial fusion of spine - unbalanced,,Other
+56152,pg16000,wilderwanck's syndrome,,Other
+3336,pg17.00,spina bifida occulta,Yes,Other
+19669,pg18.00,congenital kyphosis,,Other
+28717,pg18.11,congenital kyphoscoliosis,,Other
+5574,pg1u.00,congenital anomalies of cervical vertebrae nec,,Other
+104945,pg1u000,supernumerary cervical vertebra,,Other
+41763,pg1uz00,congenital anomaly of cervical vertebrae nec nos,,Other
+40690,pg1v.00,congenital anomalies of thoracic vertebrae nec,,Other
+71152,pg1vz00,congenital anomaly of thoracic vertebrae nec nos,,Other
+48726,pg1w.00,congenital anomalies of lumbar vertebrae nec,,Other
+69532,pg1w000,supernumerary lumbar vertebra,,Other
+66463,pg1wz00,congenital anomaly of lumbar vertebra nec nos,,Other
+48088,pg1x.00,congenital sacrococcygeal anomalies nec,,Other
+93830,pg1x000,congenital absence of coccyx,,Other
+68081,pg1x100,congenital absence of sacrum,,Other
+70583,pg1xz00,congenital sacrococcygeal anomaly nos,,Other
+56878,pg1y.00,other anomaly of spine,,Limb
+53416,pg1y.11,congenital deformity of lumbosacral joint,,Other
+51156,pg1y.12,congenital deformity of lumbosacral region,,Other
+48194,pg1y000,platyspondylia,,Other
+59334,pg1y100,supernumerary vertebra,,Other
+41216,pg1y300,defect of vertebral segmentation,,Other
+68493,pg1y400,hypoplasia of spine,,Other
+22768,pg1yz00,other anomaly of spine nos,,Limb
+45429,pg1z.00,anomalies of spine nos,,Limb
+872,pg2..00,cervical rib,Yes,Other
+15048,pg3..00,other rib and sternum anomalies,,Other
+42378,pg30.00,congenital absence of rib,Yes,Other
+63291,pg31.00,congenital absence of sternum,,Other
+57566,pg32.00,congenital fissure of sternum,,Other
+35806,pg33.00,congenital fusion of ribs,Yes,Other
+63241,pg34.00,sternum bifidum,Yes,Other
+30675,pg35.00,mis-shapen ribs,,Other
+42613,pg36.00,extra ribs,Yes,Other
+103870,pg36.11,supernumerary ribs,Yes,Other
+36610,pg37.00,mis-shapen sternum,Yes,Other
+31378,pg3x.00,other congenital anomalies of ribs,,Other
+51424,pg3y.00,other congenital anomalies of sternum,,Other
+35735,pg3z.00,other rib or sternum anomaly nos,,Other
+66465,pg3z.11,anomalies of thoracic cage unspecified,,Other
+35820,pg42.00,multiple enchondromata,,Other
+52135,pg42.11,enchondromatosis,,Other
+21987,pg42.12,ollier's disease,,Other
+36252,pg42.18,dyschondroplasia,,Other
+59737,pg42000,multiple enchondromata with haemangioma,,Other
+101861,pg42011,kast's syndrome,,Other
+61992,pg42012,maffuci's syndrome,,Other
+73909,pg42z00,dyschondroplasia nos,,Other
+50583,pg49.00,dysplasia epiphysealis hemimelica,,Other
+36753,pg5..00,osteodysplasia,,Other
+38450,pg5..11,osteodystrophy,,Other
+96403,pg50.00,"osteodysplasia, unspecified",,Other
+30600,pg54.00,polyostotic fibrous dysplasia,,Other
+63819,pg5y.00,other specified osteodysplasia,,Other
+15046,pg5y000,albright-sternberg syndrome,,Other
+30601,pg5y011,albright-mccune-sternberg syndrome,,Other
+57407,pg5y012,albright's polyostotic dysplasia,,Other
+37406,pg5yz00,other osteodysplasia nos,,Other
+55331,pg5z.00,osteodysplasia nos,,Other
+68427,pg5z.11,osteochondrodysplasia,,Other
+31416,pg6..00,anomalies of diaphragm,,Other
+49768,pg61.00,congenital diaphragmatic hernia,,Digestive
+59281,pg61.11,congenital defect of diaphragmatic nec,,Other
+24561,pg62.00,congenital foramen morgagni hernia,,Other
+14941,pg63.00,eventration of diaphragm,,Other
+52883,pg6y.00,other specified anomalies of diaphragm,,Other
+40848,pg6z.00,diaphragm anomalies nos,,Other
+18063,pg7..00,abdominal wall anomalies,,Abdominal Wall
+22883,pg70.00,exomphalos,,Abdominal Wall
+15593,pg71.00,gastroschisis,,Abdominal Wall
+22853,pg72.00,prune belly syndrome,,Urinary
+44634,pg7y.00,other specified anomaly of abdominal wall,,Abdominal Wall
+47060,pg7z.00,abdominal wall anomaly nos,,Abdominal Wall
+93540,pg8..00,congenital inguinal hernia,Yes,Other
+63565,pgw..00,osteochondrodyspl with defct growth tub bone spine unspec,,Other
+52658,pgx..00,"congenital malformation of bony thorax, unspecified",,Other
+44093,pgy..00,"other specified muscle, tendon and fascia anomaly",,Other
+19949,pgy0.00,congenital absence of muscle and tendon,,Other
+67259,pgy0000,absent tendon,,Other
+21049,pgy0100,poland's syndrome,,Other
+34141,pgy0200,other absent muscle,,Other
+69430,pgy0211,muscle agenesis,,Other
+56160,pgy0212,orbinsky syndrome,,Other
+48122,pgy0z00,absent muscle or tendon nos,,Other
+56707,pgy1.00,accessory muscle,,Other
+97640,pgyy.00,"other specified other anomalies of muscle, tendon and fascia",,Other
+71447,pgyy.11,ayala's disease,,Other
+57769,pgyy000,amyotrophica congenita,,Other
+42848,pgyy100,congenital shortening of tendon,,Other
+47471,pgyy200,hypoplasia of muscle,,Other
+45473,pgyy400,aplasia of muscle,,Other
+98260,pgyyz00,"other anomaly of tendon, fascia or muscle nos",,Other
+66657,pgyz.00,"other muscle, tendon or fascia anomalies nos",,Other
+2709,pgz..00,congenital musculoskeletal anomalies nos,,Other
+35801,pgz..11,congenital deformity of musculoskeletal system nec,,Other
+16755,pgz0.00,unspecified anomaly of muscle,,Other
+19468,pgz1.00,unspecified anomaly of tendon,,Other
+22492,pgz2.00,unspecified anomaly of bones,,Other
+16630,pgz3.00,unspecified anomaly of cartilage,,Other
+28247,pgz4.00,unspecified anomaly of connective tissue,,Other
+5681,ph...00,congenital integument anomalies,,Other
+31007,ph...11,congenital skin anomalies,,Other
+27326,ph00.00,congenital lymphoedema,,Other
+12755,ph3..00,other specified skin anomalies,,Other
+22717,ph31.00,vascular hamartomas,,Other
+8131,ph31.11,vascular naevus,Yes,Other
+5436,ph31.12,naevus flammeus,Yes,Other
+5506,ph31000,"birth mark, unspecified",Yes,Other
+3384,ph31100,port wine stain,Yes,Other
+531,ph31200,strawberry naevus,Yes,Other
+33776,ph31z00,vascular hamartoma nos,,Other
+23918,ph32.00,congenital pigmentary skin anomalies,Yes,Other
+48046,ph32000,congenital poikiloderma,,Other
+1876,ph32100,urticaria pigmentosa,,Other
+51029,ph32111,mast cell disease,,Other
+17521,ph32112,mastocytosis,,Other
+31929,ph32z00,congenital pigmentary skin anomaly nos,,Other
+60064,ph33.00,specified syndromes nec involving skin anomalies,,Other
+63547,ph33200,mibelli's disease,,Other
+62805,ph33z00,specified syndromes involving skin anomalies nec nos,,Other
+5680,ph34.00,other specified birthmark,Yes,Other
+3190,ph34.11,naevus nec,Yes,Other
+101092,ph34000,naevus sebaceous,Yes,Other
+7863,ph35.00,mongolian blue spot,Yes,Other
+54235,ph3y.00,other congenital skin anomalies,Yes,Other
+67307,ph3y.11,keratosis palmaris,Yes,Other
+9758,ph3y000,congenital accessory skin tags,Yes,Other
+60246,ph3y100,congenital scar,,Other
+25927,ph3y213,bullous eruption of hand,,Other
+20412,ph3y600,keratosis palmaris et plantaris,Yes,Other
+23091,ph3yz00,other congenital skin anomaly nos,Yes,Other
+44145,ph3yz11,lichen spinulosus,,Other
+34662,ph3z.00,integument anomalies nos,Yes,Other
+11001,ph4..00,specified hair anomalies,,Other
+16618,ph40.00,congenital alopecia,,Other
+59553,ph40.11,congenital atrichosis,,Other
+104030,ph40000,"congenital alopecia, unspecified",,Other
+92345,ph40100,congenital localised alopecia,,Other
+68179,ph40200,congenital generalised alopecia,,Other
+94887,ph40211,atrichosis,,Other
+98667,ph40z00,congenital alopecia nos,,Other
+64511,ph41.11,beaded hair,Yes,Other
+30154,ph42.00,congenital hypertrichosis,,Other
+46440,ph43.00,persistent lanugo,Yes,Other
+52674,ph43.11,hypertrichosis lanuginosa,,Other
+55069,ph44.00,twisted hair,,Other
+35991,ph44.11,pili torti,,Other
+55641,ph4z.00,specified hair anomalies nos,Yes,Other
+10427,ph5..00,specified anomalies of nails,,Other
+39931,ph50.00,anonychia,,Other
+103530,ph50.11,congenital absence of nails,,Other
+15453,ph51.00,congenital clubnail,,Other
+32621,ph52.00,congenital koilonychia,,Other
+95805,ph53.00,congenital leukonychia,Yes,Other
+66070,ph54.00,congenital onychauxis,,Other
+89466,ph54.11,enlarged nails,Yes,Other
+35067,ph55.00,congenital pachyonychia,,Other
+38522,ph55.11,hypertrophic nails,,Other
+22547,ph5z.00,specified nail anomalies nos,,Other
+18605,ph6..00,specified anomalies of breast,,Other
+42379,ph60.00,absent breast,,Other
+52665,ph61.00,absent nipple,,Other
+4294,ph62.00,accessory breast,,Other
+4491,ph63.00,accessory nipple,Yes,Other
+61522,ph64.00,supernumerary breast,,Other
+24567,ph65.00,supernumerary nipple,Yes,Other
+28001,ph66.00,hypoplasia of breast,,Other
+45801,ph67.00,small nipple,,Other
+103993,ph67.11,hypoplasia of nipple,,Other
+16754,ph68.00,ectopic breast tissue,,Other
+65092,ph6x.00,"congenital malformation of breast, unspecified",,Other
+36066,ph6z.00,specified breast anomalies nos,,Other
+86047,ph7..00,cutis marmorata telangiectasia congenita,,Other
+102162,phy..00,other specified integument anomaly,,Other
+70979,phz..00,integument anomalies nos,,Other
+65121,phz..11,congenital ectodermal defect,Yes,Other
+39354,phz0.00,unspecified congenital anomalies of skin,Yes,Other
+54223,phz0.11,congenital dermal defect,Yes,Other
+48072,phz1.00,unspecified congenital anomalies of hair,,Other
+38982,phz2.00,unspecified congenital anomalies of nail,,Other
+27676,phz2.11,congenital deformity of nail,,Other
+36463,pk...00,other and unspecified congenital anomalies,,Other
+26338,pk0..00,anomalies of spleen,,Other
+62999,pk00.00,aberrant spleen,,Other
+22319,pk01.00,absent spleen,,Other
+10505,pk01.11,asplenia,,Other
+42026,pk02.00,accessory spleen,,Other
+59741,pk03.00,congenital splenomegaly,,Other
+62455,pk03.11,hyperplasia of spleen,,Other
+67425,pk04.00,ectopic spleen,,Other
+71462,pk06.00,hypoplasia of spleen,,Other
+65558,pk07.00,mis-shapen spleen,,Other
+65103,pk0y.00,other specified anomalies of spleen,,Other
+59625,pk0z.00,anomalies of spleen nos,,Other
+25292,pk1..00,anomalies of adrenal gland,,Other
+62636,pk10.00,aberrant adrenal gland,,Other
+71109,pk11.00,absent adrenal gland,,Other
+49244,pk12.00,accessory adrenal gland,,Other
+29818,pk13.00,hypoplasia of adrenal gland,,Other
+83531,pk14.00,ectopic adrenal gland,,Other
+95752,pk15.00,aplasia of adrenal gland,,Other
+63824,pk1y.00,other specified anomalies of adrenal gland,,Other
+42894,pk1y000,congenital cyst of adrenal gland,,Other
+107541,pk1yz00,other congenital anomaly of adrenal gland nos,,Other
+36064,pk1z.00,anomalies of adrenal gland nos,,Other
+50094,pk2..00,other endocrine gland anomalies,,Other
+46978,pk20.00,absent parathyroid gland,,Other
+70633,pk21.00,accessory thyroid gland,,Other
+36110,pk22.00,persistent thyroglossal duct,,Other
+3797,pk23.00,thyroglossal duct cyst,,Other
+32424,pk24.00,anomalies of pituitary gland,,Other
+57797,pk24000,aberrant pituitary gland,,Other
+111629,pk24100,congenital absence of pituitary gland,,Other
+70576,pk24z00,anomaly of pituitary gland nos,,Other
+10638,pk25.00,anomalies of thyroid gland nec,,Other
+39281,pk25000,aberrant thyroid gland,,Other
+10704,pk25011,retrosternal thyroid gland,,Other
+3374,pk25100,congenital absence of thyroid gland,,Other
+70581,pk25z00,anomaly of thyroid gland nec nos,,Other
+57704,pk26.00,anomalies of thyroglossal duct nec,,Other
+39588,pk27.00,anomalies of parathyroid gland nec,,Other
+100681,pk27z00,anomaly of parathyroid gland nec nos,,Other
+39366,pk28.00,anomalies of thymus,,Other
+101663,pk28000,aberrant thymus gland,,Other
+73987,pk28100,congenital absence of thymus,,Other
+48842,pk28z00,anomaly of thymus gland nos,,Other
+110685,pk2y.00,other specified endocrine gland anomaly,,Other
+16201,pk2z.00,endocrine gland anomaly nos,,Other
+20062,pk3..00,situs inversus,,Other
+72246,pk30.00,"situs inversus, unspecified",,Other
+47596,pk30.11,transposition of viscera unspecified,,Other
+43560,pk31.00,situs inversus abdominalis,,Other
+65785,pk31.11,transposition of abdominal viscera,,Other
+63861,pk32.00,situs inversus thoracis,,Other
+36416,pk33.00,complete situs inversus with dextrocardia,,Other
+110797,pk34.00,situs inversus with levocardia,,Other
+23513,pk3z.00,situs inversus nos,,Other
+52601,pk4..00,conjoined twins,,Other
+59424,pk40.00,craniopagus,,Other
+68667,pk40100,craniopagus occipitalis,,Other
+66738,pk40300,craniopagus parasiticus,,Other
+103378,pk42.11,buttock-joined twins,,Other
+71039,pk44.00,xiphopagus,,Other
+65090,pk44.11,xiphoid- and pelvis-joined twins,,Other
+56147,pk45.00,diaxial (double) monster,,Other
+19918,pk4z.00,conjoined twins nos,,Other
+24075,pk6..00,other hamartoses nec,,Other
+4749,pk61.00,sturge-weber syndrome,,Other
+52022,pk61.11,kalischer's disease,,Other
+73205,pk61.12,encephalocutaneous angiomatosis,,Other
+42643,pk64.00,proteus syndrome,,Other
+87863,pk6y.00,other specified hamartoses nec,,Other
+54573,pk6z.00,hamartoses nos,,Other
+16530,pk7..00,multiple congenital anomalies nos,,Other
+59400,pk70.00,monster nos,,Other
+98724,pk7z.00,multiple congenital anomalies nos,,Other
+64037,pky..00,other specified anomalies,,Other
+54569,pky0.00,multiple system congenital anomalies nec,,Other
+107550,pky0400,marshall-smith syndrome,,Other
+96023,pky3.00,"single monster, specified type",,Other
+44866,pky5e00,branchio-otorenal dysplasia,,Urinary
+26136,pky7700,caudal dysplasia sequence,,Other
+93164,pkya.00,cloacal exstrophy,,Urinary
+72742,pkyg.00,men ret congen heart dis blepharophim blepharop hypopl teeth,,Other
+64941,pkyh.00,moulded baby syndrome,,Other
+49498,pkyz.00,other specified anomalies nos,,Other
+29708,pkyz.12,local gigantism nec,,Other
+25089,pkyz100,acardia,,Other
+31853,pkyz600,congenital hemihypertrophy,,Other
+15729,pkz..00,other anomalies nos,,Other
+18041,pkz0.00,anomalies of umbilicus,,Other
+62537,pkzz.00,congenital anomaly nos,,Other
+59734,py...00,other specified congenital anomaly,,Other
+71199,pyu..00,[x]additional congenital disease classification terms,,Other
+100673,pyu0100,[x]other congenital hydrocephalus,,Nervous System
+105277,pyu0300,[x]other specified congenital malformations of brain,,Nervous System
+106579,pyu0400,[x]unspecified spina bifida with hydrocephalus,,Nervous System
+107732,pyu0600,[x]other specified congenital malformations of spinal cord,,Nervous System
+52137,pyu1.00,"[x]congenital malformations of eye, ear, face and neck",,"""Ear, Face & Neck"""
+107079,pyu1100,[x]other congenital malformations of lacrimal apparatus,,Eye
+111254,pyu1200,[x]other anophthalmos,,Eye
+108933,pyu1300,[x]other congenital lens malformations,,Eye
+104673,pyu1400,[x]other congenital malformations of iris,,Eye
+104135,pyu1600,[x]other congenital malforms of anterior segment of eye,,Eye
+101780,pyu1800,[x]other specified congenital malformations of eye,,Eye
+111422,pyu1900,[x]other congenital malformations of middle ear,,"""Ear, Face & Neck"""
+97357,pyu1a00,[x]congenital malformation of inner ear,,"""Ear, Face & Neck"""
+103542,pyu1b00,"[x]malformation of ear with impairment of hearing, unspec",,"""Ear, Face & Neck"""
+72789,pyu1d00,[x]other specified congenital malformations of ear,,"""Ear, Face & Neck"""
+106458,pyu1e00,[x]other branchial cleft malformations,Yes,"""Ear, Face & Neck"""
+50639,pyu1f00,[x]other specified congenital malformations of face & neck,,"""Ear, Face & Neck"""
+99390,pyu2.00,[x]congenital malformations of the circulatory system,,Other
+101322,pyu2100,[x]other congenital malformations of cardiac septa,,Heart
+109008,pyu2200,[x]other congenital malformations of pulmonary valve,,Heart
+110047,pyu2500,[x]other specified congenital malformations of the heart,,Heart
+106644,pyu2600,[x]other congenital malformations of aorta,,Heart
+107639,pyu2700,[x]other congenital malformations of pulmonary artery,,Heart
+105624,pyu2b00,[x]oth specified cong malform of peripheral vascular system,,Other
+104971,pyu2d00,[x]other malformations of cerebral vessels,,Other
+111840,pyu2e00,[x]other specified cong malformations of circulatory system,,Other
+110418,pyu2f00,[x]congenital malforms of cardiac chambers+connections unsp,,Heart
+107496,pyu2g00,"[x]congenital malformation of tricuspid valve, unspecified",,Heart
+107710,pyu2h00,[x]congenital malformation of aortic and mitral valves unsp,,Heart
+108747,pyu2k00,"[x]congenital malformation of circulatory system, unspecif",,Other
+96542,pyu3.00,[x]congenital malformations of the respiratory system,,Respiratory
+110850,pyu3000,[x]other congenital malformations of nose,,Other
+107040,pyu3300,[x]other congenital malformations of bronchus,,Respiratory
+101623,pyu3400,[x]other congenital malformations of lung,,Respiratory
+110010,pyu3500,[x]other specified congen malformation respiratory system,,Respiratory
+72027,pyu4.00,[x]cleft lip and cleft palate,,Orofacial Clefts
+93641,pyu4000,"[x]cleft palate, unspecified, bilateral",,Orofacial Clefts
+48070,pyu4100,"[x]unspecified cleft palate with cleft lip, bilateral",,Orofacial Clefts
+98276,pyu5000,[x]other congenital malformations of tongue,,Digestive
+105089,pyu5100,"[x]congenital malformations of palate, nec",,Digestive
+74903,pyu5200,[x]other congenital malformations of mouth,,Digestive
+111515,pyu5700,[x]cong absence/atresia/stenos oth spec parts small intest,,Digestive
+101542,pyu5d00,[x]other congenital malformations of bile ducts,,Digestive
+105782,pyu5e00,[x]other congenital malformations of liver,,Digestive
+106033,pyu5f00,[x]other congen malformation of pancreas & pancreatic duct,,Digestive
+69013,pyu6.00,[x]congenital malformations of genital organs,,Genital
+91599,pyu6300,[x]other congenital malformations of uterus and cervix,,Genital
+64385,pyu6400,[x]other congenital malformations of vagina,,Genital
+38541,pyu6600,[x]other specified congenital malform of female genitalia,,Genital
+95648,pyu6700,[x]other specified hypospadias,,Genital
+48850,pyu6800,[x]other congenital malformations of testis and scrotum,,Genital
+111591,pyu6a00,[x]other congenital malformations of penis,,Genital
+7461,pyu6b00,[x]other specified congenit malform of male genital organs,,Genital
+74899,pyu7.00,[x]congenital malformations of the urinary system,,Urinary
+72877,pyu7000,[x]other cystic kidney diseases,,Urinary
+53781,pyu7100,[x]other obstructive defects of renal pelvis and ureter,,Urinary
+111674,pyu7200,[x]other congenital malformations of ureter,,Urinary
+97874,pyu7300,[x]other specified congenital malformations of kidney,,Urinary
+105804,pyu7500,[x]other congenital malformations of bladder and urethra,,Urinary
+111003,pyu8000,[x]other congenital deformities of hip,,Limb
+95320,pyu8100,[x]other congenital varus deformities of feet,,Limb
+100428,pyu8200,[x]other congenital valgus deformities of feet,Yes,Limb
+67992,pyu8300,[x]other congenital deformities of feet,,Limb
+98773,pyu8400,"[x]other congenital deformities of skull, face and jaw",,Limb
+65997,pyu8500,[x]other congenital deformities of chest,,Limb
+107951,pyu8700,[x]other reduction defects of upper limb(s),,Limb
+52819,pyu8a00,"[x]other congen malform upper limb(s), incl shoulder girdle",,Limb
+106160,pyu8c00,[x]other specified congenital malformations of limb(s),,Limb
+97006,pyu8d00,[x]other specified congenit malformation skull & face bones,,Other
+73157,pyu8f00,[x]other congenital malformations of ribs,,Other
+101281,pyu8m00,[x]other congenital malforms of the musculoskeletal system,,Limb
+97637,pyu8n00,"[x]congenital deformity of hip, unspecified",,Limb
+108841,pyu8p00,"[x]congenital malformation of bony thorax, unspecified",,Other
+65095,pyu9.00,[x]other congenital malformations,,Other
+63103,pyu9200,[x]other specified congenital malformations of skin,,Other
+107879,pyu9300,[x]other congenital malformations of breast,,Other
+64425,pyu9b00,[x]other specified congenital malformations,,Other
+109690,pyu9c00,"[x]congenital malformation of breast, unspecified",,Other
+1299,pz...00,congenital anomaly nos,,Other
+47340,q435000,perinatal jaundice due to congenital obstruction bile duct,,Digestive
+1226,q476.00,congenital hydrocele,Yes,Genital
+21141,q476.11,patent processus vaginalis,Yes,Genital
+20822,q48y100,congenital cardiac failure,,Heart
+94733,q48y500,megalencephaly,,Nervous System
+47750,z1ni.00,talipes strapping,Yes,Limb
+3663,zv13600,[v]personal history of congenital malformations,,Other
+36101,zv15100,[v]personal history of heart or great vessel operation,,Heart
+37430,zv49000,[v]deficiencies of limbs problems,,Limb
