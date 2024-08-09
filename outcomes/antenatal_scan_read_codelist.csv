@@ -1,0 +1,49 @@
+medcode,read_oxmis_code,readterm
+2029,62G..00,Antenatal ultrasound scan
+13965,584..13,Ultra-sound scan - obstetric
+9462,584A.00,Dating/booking US scan
+2382,584Z.00,U-S obstetric diagn. scan NOS
+13997,584G.00,Nuchal scan
+42093,5846,U-S scan - fetal maturity
+37147,584B.00,Viability US scan
+4797,5842,U-S obstetric scan normal
+27019,5841,U-S obstetric scan requested
+9164,584..11,Fetal U-S scan
+14083,62GZ.00,Antenatal ultrasound scan NOS
+35826,62G6.00,A/N U/S scan normal += dates
+14084,62GC.00,Antenatal ultrasound scan at 9-16 weeks
+35558,584..12,"U-S scan - obstetric, diagn."
+50546,7F26000,Dating scan
+29012,7F27300,Nuchal translucency scan
+27056,62GD.00,Antenatal ultrasound scan at 17-22 weeks
+39611,62GE.00,Antenatal ultrasound scan at 22-40 weeks
+47415,62G5.00,A/N U/S scan awaited
+37220,62G2.00,A/N U/S scan offered
+14085,62GB.00,Antenatal ultrasounds scan at 4-8 weeks
+29685,5843,U-S obstetric scan abnormal
+72159,5845,U-S scan - fetal cephalometry
+45963,5847,U-S scan - fetal abnormality
+27057,62G9.00,A/N U/S scan for ? abnormality
+41919,5849,U-S scan - fetal presentation
+30885,62G4.00,A/N U/S scan wanted
+86011,7F26.00,Routine obstetric scan
+68858,5844,U-S scan -placental localisatn
+67047,7F26100,Viability scan
+41937,5848,U-S scan - multiple fetus
+14086,62G8.00,A/N U/S scan abnormal
+85992,7F27.00,Non routine obstetric scan for fetal observations
+37221,62G7.00,A/N U/S scan normal +? dates
+38669,5844.11,Placenta U-S scan
+78449,7F28.00,Other non routine obstetric scan
+100164,7F27100,Detailed structural scan
+92171,7F26200,Mid trimester scan
+95166,7F2A111,Doppler ultrasound scan of uterine artery
+64537,62GA.00,A/N U/S scan for slow growth
+47116,7F28000,Placental localisation scan
+85245,7F26z00,Routine obstetric scan NOS
+102885,7F2A011,Doppler ultrasound scan of umbilical artery
+96343,7F26y00,Other specified routine obstetric scan
+95875,7F27z00,Non routine obstetric scan for fetal observations NOS
+85951,7F28z00,Other non routine obstetric scan NOS
+98261,7F27y00,OS non routine obstetric scan for fetal observations
+95698,7F28y00,Other specified other non routine obstetric scan
