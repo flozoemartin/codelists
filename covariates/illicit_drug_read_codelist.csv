@@ -1,0 +1,364 @@
+readcode,medcode,readterm
+13c..00,8490,Drug user
+13c0.00,22079,Injecting drug user
+13c1.00,30251,Intravenous drug user
+13c3.00,59533,Intramuscular drug user
+13c4.00,42257,Intranasal drug user
+13c5.00,28642,Substance misuse increased
+13c6.00,35286,Substance misuse decreased
+13c7.00,49618,Current drug user
+13c8.00,35404,Reduced drugs misuse
+13c9.00,38125,Subcutaneous drug user
+13c9.11,112485,Skin pops drugs
+13cA.00,26096,Smokes drugs
+13cB.00,38029,Misuses drugs orally
+13cC.00,47804,Continuous use of drugs
+13cE.00,25925,Prolonged high dose use of cannabis
+13cF.00,41039,Preoccupied with substance misuse
+13cH.00,28766,Persistent substance misuse
+13cJ.00,32709,Previously injecting drug user
+13cK.00,69977,Current non recreational drug user
+13cM.00,93412,Substance misuse
+13r2.00,111927,Abstinent from drug misuse in protected environment
+13r3.00,68327,Abstinent from drug misuse on maintenance replacement
+13r4.00,94693,Abstinent from drug misuse when receiving blocking therapy
+146C.00,30565,Failed heroin detoxification
+1J1..00,3565,Suspected drug abuse
+1J10.00,6107,Suspected abuse soft drugs
+1J11.00,7234,Suspected abuse hard drugs
+1JP..00,103643,Suspected drug overdose
+1P30.00,51769,Compulsive uncontrollable drug taking
+1P31.00,66615,Compulsive drug taking
+1P6..00,26313,Craving for drugs
+1P60.00,113138,Craves for drugs
+1P62.00,106903,Abnormal craving for drugs
+1P64.00,110312,Irresistible craving for drugs
+1TE..00,86041,Uses heroin on top of substitution therapy
+1TF..00,85953,Does not use heroin on top of substitution therapy
+1V...00,97025,Drug misuse behaviour
+1V0..00,97578,Misuses drugs
+1V00.00,97648,Occasional drug user
+1V01.00,98528,Long-term drug misuser
+1V02.00,97698,Poly-drug misuser
+1V04.00,110153,Misuses drugs rectally
+1V07.00,101697,Notified addict
+1V08.00,105999,Smokes drugs in cigarette form
+1V09.00,107593,Smokes drugs through a pipe
+1V0B.00,103844,Sniffs drugs
+1V0C.00,98914,Drug addict
+1V0D.00,113873,Amount of money spent per day on drug habit
+1V0E.00,100935,Health problem secondary to drug misuse
+1V11.00,113726,Time spent taking drugs
+1V2..00,106999,Frequency of drug misuse
+1V22.00,101892,Age at starting drug misuse
+1V26.00,100477,Misused drugs in past
+1V3..00,97000,Drug injection behaviour
+1V30.00,109558,Injects drugs subcutaneously
+1V31.00,109544,Injects drugs intramuscularly
+1V35.00,103726,Shares drug equipment
+1V37.00,103725,Drug injecting equipment hygiene
+1V38.00,97811,Sharing of drug injecting equipment
+1V4..00,103018,Priority of drug-related activities
+1V43.00,114744,Drug habit takes priority over family obligations
+1V44.00,114745,Drug habit takes priority over financial obligations
+1V5..00,98452,Routine of drug-related activities
+1V50.00,112821,Has no routine of drug-related activities
+1V52.00,113238,Follows same drug-related routine every day
+1V55.00,114679,Does not follow drug-related rituals
+1V6..00,97245,Drug-related offending behaviour
+1V60.00,99746,Dealing with drugs
+1V62.00,98169,Buying drugs
+1V63.00,97071,Possession of drugs
+1V64.00,97028,Illicit drug use
+1V65.00,96925,Heroin misuse
+222N.00,30652,O/E - signs of drug withdrawal
+222P.00,28963,O/E - evidence of cessation of drugs
+44u1.00,27111,Serum methadone level
+44uK.00,66039,Plasma methadone level
+44v8.00,67759,Serum buprenorphine level
+44v9.00,100685,Plasma buprenorphine level
+46QA.00,14420,Urine cocaine
+46QB.00,14415,Urine methadone
+46QH.00,23277,Urine cocaine metabolite screen
+46QO.00,97255,"Urine 3,4-methylenedioxyethamphetamine level"
+46Qa.00,46698,Urine methylamphetamine level
+46Qf.00,27221,Urine methadone metabolite level
+46Qr.00,52052,Urine buprenorphine level
+46Qu.00,94645,Urine ketamine level
+46Qx.00,104564,Urine norbuprenorphine level
+4I3e.00,109414,Fluid sample amphetamine level
+4I7..00,53502,Oral fluid drug of abuse level
+4I74.00,72659,Oral fluid cocaine level
+4I75.00,70888,Oral fluid methadone level
+67H3.00,34115,Lifestyle advice regarding drug misuse
+7P22000,30750,Delivery of rehabilitation for drug addiction
+8AA..00,54356,Drug abuse monitoring
+8B23.00,7496,Drug addiction therapy
+8B23.11,6111,Drug addictn therap-methadone
+8B23.13,9024,Drug dependence therapy
+8B2M.00,47083,Buprenorphine maintenance therapy
+8B2N.00,28976,Drug addiction detoxification therapy - methadone
+8B2P.00,30694,Drug addiction maintenance therapy - methadone
+8B2Q.00,43487,Drug addiction maintenance therapy - buprenorphine
+8B2R.00,51052,Drug addiction detoxification therapy - buprenorphine
+8BA9.00,3222,Detoxification dependence drug
+8BAW.00,32653,Drug dependence self detoxification
+8BAX.00,30679,Drug dependence home detoxification
+8BAo.00,106365,Benzodiazepine dependence detoxification
+8BE0.00,90198,Reinduction to methadone maintenance therapy
+8BE1.00,96081,Reinduction to buprenorphine maintenance therapy
+8FB..00,29017,Drug rehabilitation
+8FB0.00,30614,Drug detoxification programme completed
+8H7x.00,12856,Referral to drug abuse counsellor
+8HHL.00,11842,Referral to community drug dependency team
+8HHd.00,56409,Referral to drug treatment centre
+8HHe.00,12554,Referral to community drug and alcohol team
+8Hl5.00,85095,Referral to drugs therapist
+8Hl6.00,84413,Referral to drugs worker
+8I2N.00,60985,Drug dependence home detoxification contraindicated
+9G2..00,29728,Drug addiction notification
+9G2..11,21623,Drug addict notific admin
+9G21.00,24849,Drug addict notific to CMO
+9G22.00,69963,Drug addict re-notific due
+9G23.00,60372,Drug addict re-notif to CMO
+9G24.00,65927,Drug addict-notify local SMR22
+9G2Z.00,58743,Drug addiction notif NOS
+9HC6.00,96009,Substance misuse treatment declined
+9K4..00,98763,SMR25a drug misuse initial assessment form
+9K5..00,115070,SMR25b drug misuse follow up assessment form
+9N0Z.00,9948,Seen in drug rehabilitation centre
+9N6a.00,102985,Referred by drug statutory service
+9N6b.00,99172,Referred by drug non-statutory service
+9NN1.00,9096,Under care of community drug team
+9NdN.00,106290,Declined consent for notification of drug misuse
+9OhB.00,103576,Non-steroidal anti-inflammatory drug risk assessmnt completd
+9k5..00,34398,Drug misuse - enhanced services administration
+9k50.00,62490,Drug misuse - enhanced service completed
+9k51.00,97586,Shared care drug misuse treatment - enhanced services admin
+9k51.11,103241,Shared care drug misuse treatment
+9k52.00,97676,Drug misuse treatment primary care - enhanced services admin
+9k52.11,111007,Drug misuse treatment in primary care
+9k53.00,98566,Pharmacy attended for drug misuse - enhanced services admin
+9k53.11,111460,Pharmacy attended for drug misuse
+9kS..00,98362,Drug misuse assessment declined - enhanced services administ
+9kS..11,113692,Drug misuse assessment declined
+E02..00,16256,Drug psychoses
+E020.00,3844,Drug withdrawal syndrome
+E021.00,45997,Drug-induced paranoia or hallucinatory states
+E021000,12628,Drug-induced paranoid state
+E021100,20026,Drug-induced hallucinosis
+E021z00,26481,Drug-induced paranoia or hallucinatory state NOS
+E022.00,15876,Pathological drug intoxication
+E02y.00,51135,Other drug psychoses
+E02y000,29783,Drug-induced delirium
+E02y100,62132,Drug-induced dementia
+E02y300,46244,Drug-induced depressive state
+E02y400,22103,Drug-induced personality disorder
+E02yz00,28767,Other drug psychoses NOS
+E02z.00,26002,Drug psychosis NOS
+E24..00,5105,Drug dependence
+E24..11,3519,Drug addiction
+E240.00,16243,Opioid type drug dependence
+E240.11,689,Heroin dependence
+E240.12,16374,Methadone dependence
+E240z00,24441,Opioid drug dependence NOS
+E241.13,460,Benzodiazepine dependence
+E241.14,18210,Diazepam dependence
+E241.15,31862,Librium dependence
+E241.16,36223,Sedative dependence
+E241.17,37130,Valium dependence
+E242.00,11840,Cocaine type drug dependence
+E242000,25808,"Cocaine dependence, unspecified"
+E242100,25748,"Cocaine dependence, continuous"
+E242200,39836,"Cocaine dependence, episodic"
+E242z00,33942,Cocaine drug dependence NOS
+E243.00,8284,Cannabis type drug dependence
+E243.11,40720,Hashish dependence
+E243.12,23712,Hemp dependence
+E243000,24616,"Cannabis dependence, unspecified"
+E243100,42923,"Cannabis dependence, continuous"
+E243200,52794,"Cannabis dependence, episodic"
+E243z00,33462,Cannabis drug dependence NOS
+E244.00,22186,Amphetamine or other psychostimulant dependence
+E244000,37472,"Amphetamine or psychostimulant dependence, unspecified"
+E244100,38360,"Amphetamine or psychostimulant dependence, continuous"
+E244200,49585,"Amphetamine or psychostimulant dependence, episodic"
+E244z00,25646,Amphetamine or psychostimulant dependence NOS
+E245.00,32887,Hallucinogen dependence
+E245.12,72371,Lysergic acid diethylamide dependence
+E245000,92353,"Hallucinogen dependence, unspecified"
+E245100,71086,"Hallucinogen dependence, continuous"
+E245200,73448,"Hallucinogen dependence, episodic"
+E245z00,68150,Hallucinogen dependence NOS
+E247.00,51197,Other specified drug dependence
+E247000,59676,"Other specified drug dependence, unspecified"
+E247100,24998,"Other specified drug dependence, continuous"
+E247200,72564,"Other specified drug dependence, episodic"
+E247z00,40781,Other specified drug dependence NOS
+E248.00,26061,Combined opioid with other drug dependence
+E248000,56194,"Combined opioid with other drug dependence, unspecified"
+E248100,64265,"Combined opioid with other drug dependence, continuous"
+E248200,64277,"Combined opioid with other drug dependence, episodic"
+E248z00,73737,Combined opioid with other drug dependence NOS
+E249.00,14809,"Combined drug dependence, excluding opioids"
+E249000,91260,"Combined drug dependence, excluding opioid, unspecified"
+E249100,53678,"Combined drug dependence, excluding opioid, continuous"
+E249200,62717,"Combined drug dependence, excluding opioid, episodic"
+E249z00,72342,"Combined drug dependence, excluding opioid, NOS"
+E24A.00,21087,Ecstasy type drug dependence
+E24z.00,29446,Drug dependence NOS
+E25..00,7747,Nondependent abuse of drugs
+E252.00,3635,Nondependent cannabis abuse
+E252000,42140,"Nondependent cannabis abuse, unspecified"
+E252100,39983,"Nondependent cannabis abuse, continuous"
+E252200,25448,"Nondependent cannabis abuse, episodic"
+E252z00,25526,Nondependent cannabis abuse NOS
+E254.13,39051,Sedative abuse
+E256.00,10860,Nondependent cocaine abuse
+E256000,32931,"Nondependent cocaine abuse, unspecified"
+E256100,46896,"Nondependent cocaine abuse, continuous"
+E256200,43901,"Nondependent cocaine abuse, episodic"
+E256z00,64338,Nondependent cocaine abuse NOS
+E257.00,22481,Nondependent amphetamine or other psychostimulant abuse
+E257000,39058,"Nondependent amphetamine/psychostimulant abuse, unspecified"
+E257100,52841,"Nondependent amphetamine/psychostimulant abuse, continuous"
+E257200,25229,"Nondependent amphetamine or psychostimulant abuse, episodic"
+E257z00,47836,Nondependent amphetamine or psychostimulant abuse NOS
+E258.00,46962,Nondependent antidepressant type drug abuse
+E258000,113793,"Nondependent antidepressant type drug abuse, unspecified"
+E258200,113345,"Nondependent antidepressant type drug abuse, episodic"
+E258z00,94436,Nondependent antidepressant type drug abuse NOS
+E259.00,53008,Nondependent mixed drug abuse
+E259000,56337,"Nondependent mixed drug abuse, unspecified"
+E259100,62887,"Nondependent mixed drug abuse, continuous"
+E259200,52953,"Nondependent mixed drug abuse, episodic"
+E259400,25175,Misuse of prescription only drugs
+E259z00,33838,Nondependent mixed drug abuse NOS
+E25y.00,16161,Nondependent other drug abuse
+E25y000,63076,"Nondependent other drug abuse, unspecified"
+E25y100,54800,"Nondependent other drug abuse, continuous"
+E25y200,64983,"Nondependent other drug abuse, episodic"
+E25yz00,64316,Nondependent other drug abuse NOS
+E25z.00,1588,Misuse of drugs NOS
+Eu11211,10538,[X]Drug addiction - opioids
+Eu11212,4564,[X]Heroin addiction
+Eu12211,21662,[X]Drug addiction - cannabis
+Eu12300,65681,[X]Mental and behav dis due cannabinoids: withdrawal state
+Eu12500,38429,[X]Mental & behav dis due to cannabinoids: psychotic disordr
+Eu12600,97561,[X]Mental and behav dis due to use cannabinoids: amnesic syn
+Eu12700,57574,[X]Mnt/bh dis due cannabinds: resid & late-onset psychot dis
+Eu12y00,64308,[X]Men/behav dis due to use cannabinoids: oth men/behav disd
+Eu12z00,64987,[X]Ment/behav dis due use cannabinoids: unsp ment/behav disd
+Eu14.00,32052,[X]Mental and behavioural disorders due to use of cocaine
+Eu14000,49566,[X]Mental & behav dis due to use cocaine: acute intoxication
+Eu14100,47739,[X]Mental and behav dis due to use of cocaine: harmful use
+Eu14200,50302,[X]Mental and behav dis due to use cocaine: dependence syndr
+Eu14211,11746,[X]Drug addiction - cocaine
+Eu14300,67535,[X]Mental and behav dis due to use cocaine: withdrawal state
+Eu14400,111787,[X]Men & behav dis due cocaine: withdrawl state wth delirium
+Eu14500,49565,[X]Mental & behav dis due to use cocaine: psychotic disorder
+Eu14600,114323,[X]Mental and behav dis due to use cocaine: amnesic syndrome
+Eu14700,102591,[X]Men & beh dis due cocaine: resid & late-onset psychot dis
+Eu14y00,113015,[X]Men & behav dis due to use cocaine: oth men & behav dis
+Eu15211,10045,[X]Drug addiction-other stimul
+Eu16.00,50265,[X]Mental and behavioural disorders due to use hallucinogens
+Eu16000,66187,[X]Mental & behav dis due hallucinogens: acute intoxicatn
+Eu16100,67491,[X]Mental and behav dis due to use hallucinogens: harmfl use
+Eu16200,65826,[X]Mental and behav dis due to hallucinogens: dependence syn
+Eu16211,47784,[X]Drug addiction - hallucinogen
+Eu16300,56179,[X]Mental and behav dis due hallucinogens: withdrawal state
+Eu16400,114015,[X]Men & beh dis due hallucngns: withdrwl state wth delirium
+Eu16500,54983,[X]Mental & behav dis due to hallucinogens: psychotic disord
+Eu16700,105346,[X]Mnt/bh dis due hallucngns: resid & late-onset psychot dis
+Eu16711,35196,[X]Post hallucinogen perception disorder
+Eu16y00,111865,[X]Men/behav dis due to use hallucinogens: oth men/behav dis
+Eu16z00,92291,[X]Ment/behav dis due use hallucinogens: unsp ment/behav dis
+Eu18.00,31736,[X]Mental & behav disorders due to use of volatile solvents
+Eu18000,50136,[X]Mental & behav dis due vol solvents: acute intoxication
+Eu18100,59009,[X]Mental and behav dis due volatile solvents: harmful use
+Eu18200,52815,[X]Mental and behav dis due to vol solvents: dependence synd
+Eu18211,33585,[X]Drug addiction - solvent
+Eu18300,112811,[X]Mental and behav dis due vol solvents: withdrawal state
+Eu18400,62106,[X]Men & beh dis vol solvents: withdrawal state wth delirium
+Eu18500,98618,[X]Mental & behav dis due to vol solvents: psychotic disordr
+Eu18z00,49068,[X]Ment/behav dis due use vol solvents: unsp ment/behav dis
+Eu19.00,10656,[X]Men & behav disorder multiple drug use/psychoactive subst
+Eu19211,9615,[X]Drug addiction NOS
+Eu19500,24637,[X]Ment/behav dis mlti drug use/oth psyc sbs: psychotc dis
+Eu19z00,70961,[X]Ment/beh dis multi drug use/oth psy sbs unsp mnt/beh dis
+Eu1A.00,32640,[X]Mental and behavioural disorders due use of crack cocaine
+Eu1A000,60420,[X]Ment behav dis due use crack cocaine: acute intoxication
+Eu1A100,86034,[X]Mental behav disorders due use crack cocaine: harmful use
+Eu1A200,102582,[X]Mental behav disorders due use crack cocaine: depend synd
+Eu1A300,101738,[X]Mental behav disord due crack cocaine: withdrawal state
+Eu1A500,102475,[X]Mental behav disord due crack cocaine: psychotic disorder
+Eu1Az00,91577,[X]Ment behav dis due crack cocaine: unsp ment and behav dis
+G801E00,48920,Deep vein thrombosis of leg related to intravenous drug use
+L183.00,41473,"Drug dependence in pregnancy, childbirth and the puerperium"
+L183.11,64500,Pregnancy and drug dependence
+L183100,63379,Drug dependence during pregnancy - baby delivered
+L183300,67098,Drug dependence during pregnancy - baby not yet delivered
+L183z00,96004,Drug dependence during pregnancy/childbirth/puerperium NOS
+Q484.00,41064,Newborn drug reaction and intoxication
+Q484z00,108501,Newborn drug reaction or intoxication NOS
+Q485.00,34504,Newborn drug withdrawal syndrome
+Q485000,30311,Neonat withdrawal symptom from mat use of drug of addiction
+Q485100,40867,Withdrawal symptoms from therapeutic use of drugs in newborn
+R10B.00,54559,[D]Findings of drugs & oth subs not norm found in blood
+R10B000,34874,[D]Finding of cocaine in blood
+R10B400,55577,[D]Finding of opiate drug in blood
+SL...12,20409,Drug poisoning
+SL50100,20458,Heroin poisoning
+SL50200,40317,Methadone poisoning
+SL76.00,50543,Mixed sedative poisoning NEC
+SL7z.11,29288,Sleeping drug poisoning
+SL83000,34457,Ketamine poisoning
+SL85000,10859,Cocaine poisoning
+SL96000,36231,Cannabis poisoning
+SL97011,102176,Amphetamine poisoning
+SM2y.00,51374,Other solvents causing toxic effect
+SM2yz00,41967,Other solvents causing toxic effect NOS
+SM2z.00,41170,Solvents causing toxic effect NOS
+T801.00,55567,Accidental poisoning by methadone
+T841000,37770,Accidental poisoning by cannabis derivatives
+T842000,27579,Accidental poisoning by amphetamine
+T852000,49910,Accidental poisoning by cocaine
+T85y.00,94633,Accid. poisoning by other drugs acting on nervous system OS
+U1A5.00,48950,[X]Accident poisoning/exposure to narcotic drug
+U1A5000,65941,[X]Accident poison/exposure to narcotic drug at home
+U1A5200,113119,[X]Acc poison/expos narcotic drug school/pub admin area
+U1A5600,113497,[X]Acc pois/expos narcotic drug indust/construct area
+U1A5z00,95849,[X]Accid poison/expos to narcotic drug unspecif place
+U1AA.00,53918,"[X]Accid poison/exposure to organ solvent,halogen hydrocarb"
+U1AA.11,34432,[X]Accidental poisoning from glue solvent
+U1AA000,66867,"[X]Accid poison/expos organ solvent,halogen hydrocarb, home"
+U1AA100,99206,"[X]Acc poison/expos org solvent,halogen hydrocarb,res instit"
+U1AD000,65845,[X]Accident poisoning by and exposure to amphetamine - home
+U1ADz00,63245,[X]Acc poison by and exposure to amphetamine - unspec places
+U205.00,45710,[X]Intent self poison/exposure to narcotic drug
+U205.11,28710,[X]Overdose - heroin
+U205000,52712,[X]Int self poison/exposure to narcotic drug at home
+U205y00,70391,[X]Int self poison narcotic drug other spec place
+U205z00,68788,[X]Intent self poison narcotic drug unspecif place
+U20A.00,42418,"[X]Intentional self poison organ solvent,halogen hydrocarb"
+U20A.11,24086,[X]Self poisoning from glue solvent
+U20A000,58594,"[X]Intent self pois organ solvent,halogen hydrocarb, home"
+U20A400,70414,"[X]Int self poison org solvent,halogen hydrocarb,in highway"
+U405.00,62634,"[X]Poisoning/exposure, ? intent, to narcotic drug"
+U40A.00,52611,"[X]Pois/exposure,?intent,to organ solvent,halogen hydrocarb"
+U40A300,65272,"[X]Pois/exp ?intent org solvent,halogen hydrocarb,sport area"
+U606312,109871,[X] Adverse reaction to cocaine
+U608212,98473,[X] Adverse reaction to ketamine
+U608312,47795,[X] Adverse reaction to cocaine
+U609612,57794,[X] Adverse reaction to marijuana
+Z192.00,25522,Dependent drug detoxification
+Z192114,65543,Drug detoxification
+Z1Q6100,112312,Dose equivalent drug substitution
+Z1Q6200,60355,Methadone maintenance
+Z1Q6212,100632,Methadone therapy
+Z1Q6214,95460,Heroin maintenance
+Z1Q6300,102534,Dexamphetamine maintenance
+ZR3Z.00,25352,Cocaine abuse assessment profile
+ZR3Z.11,71761,CAAP - Cocaine abuse assessment profile
+ZV57B00,28422,[V]Drug rehabilitation
+ZV6D700,8463,[V]Drug abuse counselling and surveillance
