@@ -1,0 +1,173 @@
+medcode,read_oxmis_term
+30979,[SO]Fetus
+36441,[V]Amniocentesis to screen for chromosomal anomalies
+61455,[V]Amniotic fluid to screen for alphafetoprotein levels
+6298,[V]Antenatal screening
+49665,[V]Antenatal screening for chromosomal anomalies
+35912,[V]Pregnancy confirmed
+43428,[V]Screening for fetal growth retardation using ultrasonics
+103341,[V]Screening for isoimmunisation
+7536,[V]Screening for malformations using ultrasonics
+13167,A/N 12 weeks examination
+13166,A/N 16 week examination
+29364,A/N 20 week examination
+13169,A/N 24 week examination
+26554,A/N 28 week examination
+29627,A/N 30 week examination
+13171,A/N 32 week examination
+13170,A/N 34 week examination
+29727,A/N 35 week examination
+29610,A/N 36 week examination
+26552,A/N 37 week examination
+26553,A/N 38 week examination
+26551,A/N 39 week examination
+29280,A/N 40 week examination
+37029,A/N 41 week examination
+55605,A/N 42 week examination
+3517,A/N booking examination
+13984,Antenatal ultrasound confirms ectopic pregnancy
+12260,A/N Rh antibody screen
+68089,A/N Rh antibody screen NOS
+70616,A/N sickle cell screen done
+102099,A/N sickle cell screen NOS
+64141,A/N syphilis screen-blood sent
+14086,A/N U/S scan abnormal
+27057,A/N U/S scan for ? abnormality
+64537,A/N U/S scan for slow growth
+37221,A/N U/S scan normal +? dates
+35826,A/N U/S scan normal += dates
+106588,Antenatal 22 week examination
+106923,Antenatal 25 week examination
+106425,Antenatal 31 week examination
+13168,Antenatal examination NOS
+10056,Antenatal examinations
+13416,Antenatal sickle cell screen
+13417,Antenatal syphilis screen
+42326,Antenatal syphilis screen NOS
+13968,Antenatal ultrasound confirms intra-uterine pregnancy
+2029,Antenatal ultrasound scan
+27056,Antenatal ultrasound scan at 17-22 weeks
+39611,Antenatal ultrasound scan at 22-40 weeks
+14084,Antenatal ultrasound scan at 9-16 weeks
+14083,Antenatal ultrasound scan NOS
+14085,Antenatal ultrasounds scan at 4-8 weeks
+12890,Confirmation of pregnancy
+50546,Dating scan
+9462,Dating/booking US scan
+100164,Detailed structural scan
+103741,Doppler ultrasound scan of middle cerebral artery of fetus
+102885,Doppler ultrasound scan of umbilical artery
+95166,Doppler ultrasound scan of uterine artery
+46126,Double test
+13414,Downs screen - blood test
+38358,Downs screen blood test abnormal
+34508,Downs screen blood test normal
+64832,Downs screening - blood sent
+39173,Downs screening blood test NOS
+103893,Fetal ascites scan
+19720,Fetal monitoring
+19590,Fetal movements felt
+55493,Fetal movements seen
+53420,Fetal tachycardia
+9164,Fetal U-S scan
+31110,Fundal height equal to dates
+25875,Fundal height high for dates
+37039,Fundal height low for dates
+37038,Girth of pregnant abdomen
+91773,Good baseline variability in fetal heart rate
+105992,Height of uterine fundus
+92171,Mid trimester scan
+85992,Non routine obstetric scan for fetal observations
+95875,Non routine obstetric scan for fetal observations NOS
+38846,Normal fetal heart baseline pattern
+13997,Nuchal scan
+95881,O/E - fetal heart < 40
+101119,O/E - fetal heart > 200
+68996,O/E - fetal heart 100-120
+26707,O/E - fetal heart 120-160
+62903,O/E - fetal heart 160-180
+62898,O/E - fetal heart 180-200
+72837,O/E - fetal heart 40-80
+70856,O/E - fetal heart 80-100
+7681,O/E - fetal heart heard
+22815,O/E - fetal movements
+25153,O/E - fetal movements felt
+52857,O/E - fetal movements NOS
+53687,O/E - fetal movements seen
+27801,O/E - fetal movemnt.diminished
+26710,O/E - fetal presentation
+67186,O/E - fetal presentation NOS
+69819,O/E - fetal station NOS
+24701,O/E - fetus very active
+26708,O/E - fundal size = dates
+37049,O/E - fundus = term size
+26705,O/E - fundus 12-16 week size
+37051,O/E - fundus 16-20 week size
+26704,O/E - fundus 20-24 week size
+26709,O/E - fundus 24-28 week size
+30802,O/E - fundus 28-32 week size
+30803,O/E - fundus 32-34 week size
+26703,O/E - fundus 34-36 week size
+26706,O/E - fundus 36-38 week size
+13318,O/E - fundus size - obstetric
+30804,O/E - gravid uterus size
+62897,O/E - gravid uterus size NOS
+37180,O/E - lie of fetus
+29788,O/E - multiple presentation
+63024,O/E -fetal presentation unsure
+37050,O/E -fundus 38 weeks-term size
+49519,Observation of position of pregnancy
+12625,Obstetric monitoring
+44173,Obstetric X-ray - fetus
+56727,Obstetric X-ray - placenta
+85951,Other non routine obstetric scan NOS
+96343,Other specified routine obstetric scan
+13165,Patient currently pregnant
+127,Patient pregnant
+14899,Patient pregnant NOS
+38669,Placenta U-S scan
+9986,Pregnancy care
+4536,Pregnancy confirmed
+15338,Pregnancy unplanned ? wanted
+14877,Pregnant - ? planned
+30817,Pregnant - blood test confirms
+51298,Pregnant - on abdom. palpation
+20240,Pregnant - planned
+16215,Pregnant - urine test confirms
+35592,Pregnant - V.E. confirms
+10173,Pregnant abdomen observation
+15567,Pregnant -unplanned-not wanted
+107698,Pregnant uterus displaced laterally
+32975,"Pregnant, diaphragm failure"
+29692,"Pregnant, IUD failure"
+14994,"Pregnant, sheath failure"
+11989,Referral for termination of pregnancy
+2278,Requests pregnancy termination
+69815,Rh screen - 1st preg. sample
+29623,Rh screen - 2nd preg. sample
+109416,Rh screen - 3rd preg. sample
+93946,Rhesus detailed scan
+86011,Routine obstetric scan
+85245,Routine obstetric scan NOS
+6095,Seen in antenatal clinic
+29205,Serum pregnancy test positive
+70845,Sinusoidal pattern of fetal heart
+27614,Triple test
+39218,Ultrasonic doppler for fetal heart sounds
+19800,Ultrasound in obstetric diagn.
+12837,Ultrasound monitoring of early pregnancy
+13965,Ultra-sound scan - obstetric
+3030,Urine pregnancy test positive
+2382,U-S obstetric diagn. scan NOS
+29685,U-S obstetric scan abnormal
+4797,U-S obstetric scan normal
+45963,U-S scan - fetal abnormality
+72159,U-S scan - fetal cephalometry
+42093,U-S scan - fetal maturity
+41919,U-S scan - fetal presentation
+41937,U-S scan - multiple fetus
+35558,"U-S scan - obstetric, diagn."
+68858,U-S scan -placental localisatn
+67047,Viability scan
+37147,Viability US scan
+10306,Weeks pregnant
