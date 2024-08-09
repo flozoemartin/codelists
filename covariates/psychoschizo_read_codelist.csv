@@ -1,0 +1,216 @@
+medcode,readcode,readterm
+576,E104.00,Acute schizophrenic episode
+694,Eu2z.11,[X]Psychosis NOS
+854,E10..00,Schizophrenic disorders
+1494,E103.00,Paranoid schizophrenia
+2113,Eu22011,[X]Paranoid psychosis
+2114,E03y300,Unspecified puerperal psychosis
+2117,E107.00,Schizo-affective schizophrenia
+2560,E11..12,Depressive psychoses
+3636,E13z.11,Psychotic episode NOS
+3890,E121.00,Chronic paranoid psychosis
+3984,E100200,Chronic schizophrenic
+4390,285..11,"Psychotic condition, insight present"
+6325,1464.00,H/O: schizophrenia
+7233,E0...00,Organic psychotic conditions
+8407,E10z.00,Schizophrenia NOS
+8478,E130.00,Reactive depressive psychosis
+8766,Eu0z.12,[X]Symptomatic psychosis NOS
+9281,E103z00,Paranoid schizophrenia NOS
+9422,Eu25.00,[X]Schizoaffective disorders
+10543,E03y000,Organic delusional syndrome
+10575,E107z00,Schizo-affective schizophrenia NOS
+11055,Eu25100,"[X]Schizoaffective disorder, depressive type"
+11244,Eu2z.00,[X]Unspecified nonorganic psychosis
+11778,Eu23200,[X]Acute schizophrenia-like psychotic disorder
+11973,Eu24.13,[X]Induced psychotic disorder
+12099,Eu32300,[X]Severe depressive episode with psychotic symptoms
+12771,E12z.00,Paranoid psychosis NOS
+12777,146H.00,H/O: psychosis
+14656,E11..00,Affective psychoses
+14965,E13z.00,Nonorganic psychosis NOS
+15733,E100000,Unspecified schizophrenia
+15958,E1...00,Non-organic psychoses
+16333,E13y.00,Other reactive psychoses
+16537,E1y..00,Other specified non-organic psychoses
+16764,Eu20000,[X]Paranoid schizophrenia
+16861,Eu33315,[X]Recurrent severe episodes of psychotic depression
+16905,Eu25011,"[X]Schizoaffective psychosis, manic type"
+17614,Eu53111,[X]Puerperal psychosis NOS
+17770,E130.11,Psychotic reactive depression
+18053,Eu20y13,[X]Schizophrenifrm psychos NOS
+20228,E13..11,Reactive psychoses
+20785,Eu20400,[X]Post-schizophrenic depression
+21065,Eu30200,[X]Mania with psychotic symptoms
+21455,Eu23012,[X]Cycloid psychosis
+21985,Eu0z.11,[X]Organic psychosis NOS
+21986,Eu05200,[X]Organic delusional [schizophrenia-like] disorder
+22104,ZV11000,[V]Personal history of schizophrenia
+22188,E1z..00,Non-organic psychosis NOS
+22644,286..11,Poor insight into psychotic condition
+23616,E100100,Subchronic schizophrenia
+23677,E04y.00,Other specified chronic organic psychoses
+23731,Eu33311,[X]Endogenous depression with psychotic symptoms
+24062,Eu84111,[X]Atypical childhood psychosis
+24107,Eu20511,[X]Chronic undifferentiated schizophrenia
+24112,Eu32313,[X]Single episode of psychotic depression
+24117,Eu32311,[X]Single episode of major depression and psychotic symptoms
+24171,E113400,"Recurrent major depressive episodes, severe, with psychosis"
+24244,E14y000,Atypical childhood psychoses
+24345,E134.00,Psychogenic paranoid psychosis
+24387,Eu04.13,[X]Acute / subacute infective psychosis
+25019,Eu23.00,[X]Acute and transient psychotic disorders
+25546,E102.00,Catatonic schizophrenia
+25697,E113300,"Recurrent major depressive episodes, severe, no psychosis"
+26119,E13yz00,Other reactive psychoses NOS
+26143,Eu23112,[X]Cycloid psychosis with symptoms of schizophrenia
+26161,E11..13,Manic psychoses
+27770,Eu23312,[X]Psychogenic paranoid psychosis
+28168,Eu44.14,[X]Hysterical psychosis
+28562,Eu22.00,[X]Persistent delusional disorders
+28863,Eu32314,[X]Single episode of reactive depressive psychosis
+29651,Eu23z12,[X]Reactive psychosis
+29937,E131.00,Acute hysterical psychosis
+30619,E101.00,Hebephrenic schizophrenia
+30985,Eu2y.00,[X]Other nonorganic psychotic disorders
+31362,E103200,Chronic paranoid schizophrenia
+31493,Eu20214,[X]Schizophrenic flexibilatis cerea
+31633,Eu3z.11,[X]Affective psychosis NOS
+31738,Eu2y.11,[X]Chronic hallucinatory psychosis
+31757,Eu33314,[X]Recurr severe episodes/psychogenic depressive psychosis
+31950,13L3.12,Schizophrenic child
+31984,E13..00,Other nonorganic psychoses
+32159,E112400,"Single major depressive episode, severe, with psychosis"
+32222,E100.00,Simple schizophrenia
+32295,E111400,"Recurrent manic episodes, severe, with psychosis"
+32941,Eu33313,[X]Recurr severe episodes/major depression+psychotic symptom
+33338,E10y000,Atypical schizophrenia
+33383,E103000,Unspecified paranoid schizophrenia
+33410,Eu25z11,[X]Schizoaffective psychosis NOS
+33425,E11zz00,Other affective psychosis NOS
+33693,Eu25200,"[X]Schizoaffective disorder, mixed type"
+33847,Eu25000,"[X]Schizoaffective disorder, manic type"
+34168,Eu23z00,"[X]Acute and transient psychotic disorder, unspecified"
+34236,Eu20.00,[X]Schizophrenia
+34389,Eu22000,[X]Delusional disorder
+34966,Eu20z00,"[X]Schizophrenia, unspecified"
+35274,Eu25111,"[X]Schizoaffective psychosis, depressive type"
+35848,Eu20600,[X]Simple schizophrenia
+35877,Eu20213,[X]Schizophrenic catatonia
+36172,E103500,Paranoid schizophrenia in remission
+36861,E0z..00,Organic psychoses NOS
+37102,Eu30211,[X]Mania with mood-congruent psychotic symptoms
+37395,E14z.11,Childhood schizophrenia NOS
+37580,Eu25212,[X]Mixed schizophrenic and affective psychosis
+37681,Eu25z00,"[X]Schizoaffective disorder, unspecified"
+37764,Eu33316,[X]Recurrent severe episodes/reactive depressive psychosis
+38063,E106.00,Residual schizophrenia
+39062,E10y.00,Other schizophrenia
+39625,E04z.00,Chronic organic psychosis NOS
+40386,Eu21.15,[X]Prodromal schizophrenia
+41022,Eu25112,"[X]Schizophreniform psychosis, depressive type"
+41207,E141100,Residual disintegrative psychoses
+41992,E11z.00,Other and unspecified affective psychoses
+43093,E110300,"Single manic episode, severe without mention of psychosis"
+43225,E14..00,Psychoses with origin in childhood
+43405,Eu20100,[X]Hebephrenic schizophrenia
+43800,E107200,Chronic schizo-affective schizophrenia
+44307,Eu23300,[X]Other acute predominantly delusional psychotic disorders
+44498,E100400,Acute exacerbation of chronic schizophrenia
+44503,Eu23y00,[X]Other acute and transient psychotic disorders
+47230,Eu24.12,[X]Induced paranoid disorder
+48054,E101z00,Hebephrenic schizophrenia NOS
+48632,Eu30212,[X]Mania with mood-incongruent psychotic symptoms
+49223,Eu22z00,"[X]Persistent delusional disorder, unspecified"
+49420,Eu20y00,[X]Other schizophrenia
+49761,E10yz00,Other schizophrenia NOS
+49852,Eu21.16,[X]Pseudoneurotic schizophrenia
+50060,Eu20011,[X]Paraphrenic schizophrenia
+50218,E110400,"Single manic episode, severe, with psychosis"
+50868,E123.11,Folie a deux
+51302,Eu24.00,[X]Induced delusional disorder
+51322,E103300,Acute exacerbation of subchronic paranoid schizophrenia
+51494,E00y.11,Presbyophrenic psychosis
+51903,Eu25012,"[X]Schizophreniform psychosis, manic type"
+52678,Eu32312,[X]Single episode of psychogenic depressive psychosis
+52849,E14z.00,Child psychosis NOS
+53032,E103400,Acute exacerbation of chronic paranoid schizophrenia
+53625,E100z00,Simple schizophrenia NOS
+53848,Eu84314,[X]Symbiotic psychosis
+53985,Eu20111,[X]Disorganised schizophrenia
+54387,Eu21.12,[X]Borderline schizophrenia
+54607,E11z000,Unspecified affective psychoses NOS
+55150,E03..00,Transient organic psychoses
+55221,Eu22111,[X]Capgras syndrome
+55236,Eu22y13,[X]Paranoia querulans
+56143,E141.00,Disintegrative psychosis
+56438,E107500,Schizo-affective schizophrenia in remission
+57637,E03z.00,Transient organic psychoses NOS
+57666,E100300,Acute exacerbation of subchronic schizophrenia
+58532,Eu25y00,[X]Other schizoaffective disorders
+58687,E100500,Schizophrenia in remission
+58716,E102000,Unspecified catatonic schizophrenia
+58862,E107000,Unspecified schizo-affective schizophrenia
+58866,E107300,Acute exacerbation subchronic schizo-affective schizophrenia
+59096,Eu23211,[X]Brief schizophreniform disorder
+59197,E03yz00,Other transient organic psychoses NOS
+60013,Eu20300,[X]Undifferentiated schizophrenia
+61098,E107100,Subchronic schizo-affective schizophrenia
+61501,Eu20200,[X]Catatonic schizophrenia
+62087,E04..00,Other chronic organic psychoses
+62222,Eu84312,[X]Disintegrative psychosis
+62405,Eu22100,[X]Delusional misidentification syndrome
+62449,Eu21.14,[X]Prepsychotic schizophrenia
+62680,E123.00,Shared paranoid disorder
+63478,E107400,Acute exacerbation of chronic schizo-affective schizophrenia
+63867,E102z00,Catatonic schizophrenia NOS
+64264,Eu20500,[X]Residual schizophrenia
+64533,Eu20212,[X]Schizophrenic catalepsy
+64993,Eu21.13,[X]Latent schizophrenia
+65811,E111300,"Recurrent manic episodes, severe without mention psychosis"
+66077,Eu22y00,[X]Other persistent delusional disorders
+66410,E105.00,Latent schizophrenia
+66506,E101000,Unspecified hebephrenic schizophrenia
+66545,E0y..00,Other specified organic psychoses
+66757,E14yz00,Other childhood psychoses NOS
+66766,E12y000,Paranoia querulans
+67768,E101500,Hebephrenic schizophrenia in remission
+67943,13Y2.00,Schizophrenia association member
+68201,E03y.00,Other transient organic psychoses
+69155,E14y100,Borderline psychosis of childhood
+70884,Eu23212,[X]Brief schizophrenifrm psych
+71250,Eu21.17,[X]Pseudopsychopathic schizophrenia
+71819,E14y.00,Other childhood psychoses
+73295,E100.11,Schizophrenia simplex
+91511,Eu21.11,[X]Latent schizophrenic reaction
+91547,Eu20311,[X]Atypical schizophrenia
+92994,E10y.11,Cenesthopathic schizophrenia
+93167,E104.11,Oneirophrenia
+94001,Eu20y12,[X]Schizophreniform disord NOS
+94299,E105200,Chronic latent schizophrenia
+94604,Eu23214,[X]Schizophrenic reaction
+96883,E105500,Latent schizophrenia in remission
+97919,E101400,Acute exacerbation of chronic hebephrenic schizophrenia
+98417,Eu32800,"[X]Major depression, severe with psychotic symptoms"
+98821,Eu22200,[X]Cotard syndrome
+99000,E107.11,Cyclic schizophrenia
+99070,E10y100,Coenesthopathic schizophrenia
+99199,E102100,Subchronic catatonic schizophrenia
+101987,Eu26.00,[X]Nonorganic psychosis in remission
+102311,E105000,Unspecified latent schizophrenia
+102427,E102500,Catatonic schizophrenia in remission
+102446,E105z00,Latent schizophrenia NOS
+103676,8BM0100,Antipsychotic medication review
+104760,E103100,Subchronic paranoid schizophrenia
+104763,Eu25211,[X]Cyclic schizophrenia
+107222,E102400,Acute exacerbation of chronic catatonic schizophrenia
+109252,69DD.00,Antipsychotic medication physical health check
+109365,38C1400,Assessment of cause of psychotic and behavioural symptoms
+109632,38Qh.00,Glasgow Antipsychotic Side-effect Scale
+110447,8BPf.00,Oral antipsychotic therapy
+113529,E102200,Chronic catatonic schizophrenia
+113612,8G13100,CBTp - cognitive behavioural therapy for psychosis
+113781,E101200,Chronic hebephrenic schizophrenia
+114206,E105400,Acute exacerbation of chronic latent schizophrenia
+114820,E141000,Active disintegrative psychoses
+115050,Eu23111,[X]Bouffee delirante with symptoms of schizophrenia
