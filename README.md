@@ -22,5 +22,6 @@ The codelists are organised by exposure (antidepressants), outcomes (pregnancy a
 - Medical information
     - Read / medcodes for CPRD GOLD primary care (*_read_codelist / *_medcode_codelist)
     - ICPC2 codes for Norway primary care (*_icpc_codelist)
+    - OPCS codes for CPRD GOLD secondary care procedures (*_opcs_codelist)
     - ICD-10 codes for CPRD GOLD, Norway, and Sweden secondary care (*_icd10_codelist)
     - ICD-9 codes Sweden secondary care (*_icd9_codelist)
