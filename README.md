@@ -20,7 +20,7 @@ The codelists are organised by exposure (antidepressants), outcomes (pregnancy a
     - BNF / prodcodes for CPRD GOLD (*_bnf_codelist)
     - ATC codes for Norway and Sweden (*_atc_codelist)
 - Medical information
-    - Read / medcodes for CPRD GOLD primary care (*_read_codelist)
+    - Read / medcodes for CPRD GOLD primary care (*_read_codelist / *_medcode_codelist)
     - ICPC2 codes for Norway primary care (*_icpc_codelist)
     - ICD-10 codes for CPRD GOLD, Norway, and Sweden secondary care (*_icd10_codelist)
     - ICD-9 codes Sweden secondary care (*_icd9_codelist)
