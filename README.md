@@ -17,11 +17,11 @@ The repositories for the code used in each of these projects are linked above.
 The codelists are organised by exposure (antidepressants), outcomes (pregnancy and birth), and covariates (smoking, alcohol use, illicit drug use, ethnicity etc.). The codelists are a mix of -
 
 - Prescriptions
-    - BNF / prodcodes for CPRD GOLD (*_bnf_codelist)
-    - ATC codes for Norway and Sweden (*_atc_codelist)
+    - BNF / prodcodes for CPRD GOLD (bnf/*_bnf_codelist)
+    - ATC codes for Norway and Sweden (atc/*_atc_codelist)
 - Medical information
-    - Read / medcodes for CPRD GOLD primary care (*_read_codelist / *_medcode_codelist)
-    - ICPC2 codes for Norway primary care (*_icpc_codelist)
-    - OPCS codes for CPRD GOLD secondary care procedures (*_opcs_codelist)
-    - ICD-10 codes for CPRD GOLD, Norway, and Sweden secondary care (*_icd10_codelist)
-    - ICD-9 codes Sweden secondary care (*_icd9_codelist)
+    - Read / medcodes for CPRD GOLD primary care (read & medcode/*_read_codelist or *_medcode_codelist)
+    - ICPC2 codes for Norway primary care (icpc2/*_icpc_codelist)
+    - OPCS codes for CPRD GOLD secondary care procedures (opcs/*_opcs_codelist)
+    - ICD-10 codes for CPRD GOLD, Norway, and Sweden secondary care (icd10/*_icd10_codelist)
+    - ICD-9 codes Sweden secondary care (icd9/*_icd9_codelist)
