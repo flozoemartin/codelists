@@ -7,7 +7,7 @@ The results chapters / papers in this thesis relevant to the contained codelists
     - [PRE-PRINT](https://doi.org/10.1101/2024.08.08.24311553) under review with the British Journal of Obstetrics and Gynaecology (BJOG)
 - [Antidepressant use during trimester one and miscarriage: a triangulation of methods in the UK Clinical Practice Research Datalink](https://github.com/flozoemartin/Miscarriage)
     - [PRE-PRINT](https://doi.org/10.1101/2024.10.19.24315779)
-- [Antidepressant use during pregnancy and birth outcomes: analysis of electronic health data from the UK, Norway, and Sweden](https://github.com/flozoemartin/Birth_outcomes)
+- [Antidepressant use during pregnancy and birth outcomes: analysis of electronic health data from the UK, Norway, and Sweden](https://github.com/flozoemartin/Birth-outcomes)
     - [PRE-PRINT](https://doi.org/10.1101/2024.10.30.24316340)
 - Antidepressant use during pregnancy and preterm delivery: a target trial emulation in the UK Clinical Practice Research Datalink
     - In preparation
