@@ -5,12 +5,12 @@ The results chapters / papers in this thesis relevant to the contained codelists
 
 - [Patterns of antidepressant prescribing in and around pregnancy: a descriptive analysis in the UK Clinical Practice Research Datalink](https://github.com/flozoemartin/Patterns)
     - [PRE-PRINT](https://doi.org/10.1101/2024.08.08.24311553) submitted to BJOG on August 13th 2024
-- Antidepressant use during trimester one and miscarriage: a triangulation of methods in the UK Clinical Practice Research Datalink
-    - In prep for submission to BMJ
-- Antidepressant use during pregnancy and birth outcomes: analysis of electronic health data from the UK, Norway, and Sweden
-    - In prep for submission to BMJ
+- [Antidepressant use during trimester one and miscarriage: a triangulation of methods in the UK Clinical Practice Research Datalink](https://github.com/flozoemartin/Miscarriage)
+    - [PRE-PRINT](https://doi.org/10.1101/2024.10.19.24315779)
+- [Antidepressant use during pregnancy and birth outcomes: analysis of electronic health data from the UK, Norway, and Sweden](https://github.com/flozoemartin/Birth_outcomes)
+    - [PRE-PRINT](https://doi.org/10.1101/2024.10.30.24316340)
 - Antidepressant use during pregnancy and preterm delivery: a target trial emulation in the UK Clinical Practice Research Datalink
-    - In prep for submission to IJE
+    - In preparation
 
 The repositories for the code used in each of these projects are linked above.
 
